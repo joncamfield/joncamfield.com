@@ -1,0 +1,40 @@
+---
+categories:
+- ict4d
+- olpc
+- web 2.0 and f/loss
+tags:
+- jamaica
+- moe
+- uwi
+
+title: Let's get together and mesh alright (One Laptop in Jamaica)
+created: 1237132799
+---
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="http://www.flickr.com/photos/olpc/2872480991/in/set-72157607392432344/"><img alt="Jamaican ICT4D practitioners and teachers see the XO in action" src="http://farm4.static.flickr.com/3254/2872480991_cda8d8bccc_m.jpg" style="border: 2px solid rgb(0, 0, 0);"><br><span style="font-size: 0.9em; margin-top: 0px;">Jamaican ICT4D practitioners and <br />teachers see the XO in action</span></div> OLPC and F/LOSS enthusiast Dr. Sameer Verma, an Associate Professor of Information Systems at San Francisco State University has been beating the XO drum in Jamaica with this <a href="http://wiki.laptop.org/images/3/37/Olpc-presentation-for-uwimona.pdf">presentation to the University of the West Indies/Mona (UWI)</a> and at the <a href="http://cms.ict4djamaica.org/html/MediaCenter/EventsCalendar/tabid/69/ModuleID/434/ItemID/14/mctl/EventDetails/Default.aspx?selecteddate=9/19/2008">ICT4DJamaica conference</a> (<a href="http://www.flickr.com/photos/olpc/2872480991/in/set-72157607392432344/
+">with great photos</a>) last September.
+
+You probably already know Sameer from either his role as organizer of SF-OLPC or his OLPCNews guest entry earlier this year, <a href="http://www.olpcnews.com/commentary/academia/what_keeps_me_going_with_olpc.html</a>What Keeps Me Going</a>, discussing the promise of the OLPC and excitement he's seeing in pilot projects across the world, including Jamaica, which now has its own grassroots OLPC group, <a href="http://wiki.laptop.org/go/OLPC_Jamaica">OLPC Jamaica</a>, and the beginnings of a pilot project in August Town, a community near UWI, a stone's throw away from where I lived while in Jamaica.
+
+As a Peace Corps volunteer, I worked with the Ministry of Education (primarily), schools, JaLUG, and many organizations across the island on a variety of ICT4D and ICT-for-education projects.  I would be overjoyed to see the Sugar-based XO provide exciting educational opportunities to Jamaican students.
+
+<div style="float: right; clear: right; margin-left: 10px; margin-bottom: 10px;"><a href="http://www.flickr.com/photos/92758528@N00/498282621/sizes/s/in/pool-39436080@N00/"><img alt="The AlphaSmart - a proto XO?" src="http://farm1.static.flickr.com/232/498282621_47a7266d44_m.jpg" style="border: 2px solid rgb(0, 0, 0);"><br><span style="font-size: 0.9em; margin-top: 0px;">The AlphaSmart - a proto XO?</span></div>
+Low cost computing devices are not new in Jamaican schools.  In 2004 I was privileged to work with one such project using <a href="http://en.wikipedia.org/wiki/AlphaSmart">AlphaSmart</a> rugged keyboards/word processors to extend the utility of a single computer to the entire classroom - students could write stories and do basic math, and share these through the keyboard's IR interface, or via USB sync with a central computer; functions the OLPC makes much more powerful.  It was this project that I used to work out one of the <a href="http://www.olpcnews.com/sales_talk/price/the_real_cost_of_the.html">earliest realistic TCO numbers for an OLPC project</a>.
+
+<div style="float: left; margin-right: 10px; margin-bottom: 10px;"><a href="http://www.flickr.com/photos/joncamfield/419032126/in/set-72157594584428840/"><img alt="Jamaican students at Pollyground Elementary working with TuxPaint" src="http://farm1.static.flickr.com/129/419032126_249b574ac3_m.jpg" style="border: 2px solid rgb(0, 0, 0);"><br><span style="font-size: 0.9em; margin-top: 0px;">Jamaican students at Pollyground <br />Elementary working with TuxPaint</span></div> Jamaica is a promising location for the OLPC XO to have a real impact -- it has a lot going for it already (and many challenges, to be sure).  Jamaica is essentially an English-speaking country a short flight and within a timezone or two from most of the US, eliminating many challenges with translation and communication.  Jamaica has an active and highly skilled <a href="http://jalug.org/">Linux Users Group</a>, with Linux labs and/or open source advocates at universities and within many of the relevant Ministries.  What Jamaica lacks in hardwired infrastructure, it largely makes up for with cellular networks (with GPRS data capacity) which work islandwide, and an infinitely innovative set of untrained electrical engineers.  I've seen firsthand Jamaican students taking to computers and especially graphic art and music software <a href="http://wayneandwax.com/org/index.html">like fish to water</a>.  At the same time, I lost a webcam in Jamaica to a colony of ants.  Humidity, power surges, dust, theft, and hurricanes were constant foes in keeping computers up and running, and the education system is resource-strapped as-is; with much of the installed computers the result of one-time grants or loans, defunct projects, and one-time donations.
+
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="http://www.flickr.com/photos/joncamfield/419032070/in/set-72157594584428840/"><img alt="Teachers exploring a Jamaicanized TuxPaint for curricula ideas" src="http://farm1.static.flickr.com/159/419032070_a8ee7da7a0_m.jpg" style="border: 2px solid rgb(0, 0, 0);"><br><span style="font-size: 0.9em; margin-top: 0px;">Teachers exploring a Jamaicanized <br />TuxPaint for curricula ideas</span></div>
+
+ There are challenges with the still-high price of the XO, familiar implementation challenges in rural areas with little power and sparse telecommunications infrastructure, and costs and the slow movement of the government associated with curricula development and teacher re-training.  Further, the XO must measure its success against the strict test-based requirements of the Caribbean education system, which is a debate by itself, but for now must be taken as a given and a required outcome of any project would be to improve specific test scores.
+
+A Jamaican OLPC project will require everyone to be involved, not only the enthusiasts, but also local Jamaican Linux users, university students and staff, training organizations like <a href="http://www.heart-nta.org/index_flash.aspx">HEART Trust NTA</a> and of course the <a href="http://moeyc.gov.jm/">Ministry of Education</a> who can convene and train the teachers.
+
+This is no easy task.
+
+### Archived Comments
+
+* Hi Jon, Thanks for the OLPC Jamaica plug. Where were you located in JM? The current plan is to get XOs in the hands of children by September 2009. UWI Mona is sponsoring the project. The team we have is mostly UWI based with some overlap with Jamaica LUG and members of the August Town school and community. Summer will be a busy time. Let me know if you have people in that area who want to help out. I'm very excited at the prospects of XOs in August Town. Can't wait for September! cheers, Sameer -- Sameer Verma Wed, 04/01/2009 - 16:10
+ * Sameer - I lived up in Gordon Town (into the mountains from Papine, past Heart Trust/NTA and the turn-off for Hagley Gap). If you've ever climbed Blue Mountain, you probably drove through Gordon Town to get there. I might be visiting Jamrock in July (TBD) and could definitely connect you with some of my contacts in the ICT4Edu community. You're working with www.JaLUG.org already, right? -- Jon Fri, 04/03/2009 - 14:09
+* Thanks for the OLPC Jamaica plug.Thanks for sharing. -- hemraj Thu, 04/23/2009 - 01:28
+* This is awesome work you are doing. My father is in the process of setting up a school in Africa, Ghana to be specific. He said the conditions are pretty bad there but you have to give the credit for keeping a positive outlook. -- Daniel Sat, 06/06/2009 - 19:45
+* I have a sister joining the Peace Corps with her husband next year...they have been very excited. It is so nice to hear all the great things that are accomplished and the people's lives you touch. Thank you for all you do! -- lisa444333 Fri, 08/28/2009 - 12:54 
