@@ -7,13 +7,13 @@ layout: splash
 date: 2022-03-09
 header:
   overlay_color: "#000"
-  overlay_filter: "0.1"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/maryna-bohucharska-a9hsdy18oLQ-unsplash-glitched.png
   actions:
 #    - label: "English"
 #    url: "/en/"
   caption: "Photo of seedlings (CC0 [Maryna Bohucharska](https://unsplash.com/@bohucharska) / Unsplash) filtered with [Glimpse](https://glimpse-editor.org/)"
-excerpt: "Jon is a technologist who likes doing things to improve the world. <br /> <br />"
+excerpt: "Thinking about tomorrow's threats against human rights and Internet Freedom. Frustrated Optimist, gardener, salsa dancer, cook, husband, dad, embarrassed Texan. Opinions here are my own. he/they"
 intro:
   - excerpt: ''
 feature_row:

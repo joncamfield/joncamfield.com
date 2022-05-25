@@ -17,17 +17,17 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "default"
 # Site Settings
 locale                   : "en-US"
 title                    : "Jon Camfield Dot Com"
-title_separator          : "-"
+title_separator          : " | "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jon Camfield"
-description              : ""
+description              : "Thinking about tomorrow's threats against human rights and Internet Freedom. Frustrated Optimist, gardener, salsa dancer, cook, husband, dad, embarrassed Texan. Opinions here are my own. he/they"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : https://github.com/joncamfield/joncamfield.com # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /favicon.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 100
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -108,9 +108,6 @@ author:
   location         : "The Internet"
   email            : "Hello@JonCamfield.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hello@joncamfield.com"
     - label: "Feed"
       icon: "fas fa-fw fa-rss"
       url: "/feed.xml"
@@ -129,16 +126,16 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/joncamfield"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joncamfield/"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jon@joncamfield.com"
+      url: "mailto:Hello@joncamfield.com"
 #    - label: "Feed"
 #      icon: "fas fa-fw fa-rss"
 #      url: "/feed.xml"
@@ -154,8 +151,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/joncamfield"
-
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joncamfield/"
 
 defaults:
   -
