@@ -29,7 +29,7 @@ feature_row:
     image_caption: ""
     alt: ""
     title: "Recent: Censorship and Centralization"
-    excerpt: "De-platforming gets thrown around as equivalent to censorship or getting kicked off of the Internet, but this is a dangerous and self-fulfilling lie. Beyond being demonstrably not true, we also cannot cede the digital public square to private corporations which do not, at their core, serve the public interest."
+    excerpt: "De-platforming gets thrown around as equivalent to censorship or getting kicked off of the Internet, but this is a dangerous and self-fulfilling lie."
     url: "/blog/2021.05/censorship-and-centralization.html"
     btn_label: "Read Blog"
     btn_class: "btn--warning"
@@ -37,10 +37,12 @@ feature_row:
     image_caption: "CC-BY-SA Markus Angermeier/ Wikimedia"
     alt: ""
     title: "From 2006: Web 2.0 + 10"
-    excerpt: "Nevertheless, the wonder and excitement of Web 2.0 reminds me heavily of the early days of the Internet, and the non-web parts of it -- BBSes, Usenet, and the command-line interface world of remote-login Unix boxes."
+    excerpt: "Nevertheless, the wonder and excitement of Web 2.0 reminds me heavily of the early days of the Internet, and the non-web parts of it -- BBSes, Usenet, and the command-line interface world"
     url: "/blog/2006.01/web-2-0-10.html"
     btn_label: "Read Blog"
     btn_class: "btn--warning"
+
+project_row:
   - image_path: assets/images/spacex-VBNb52J8Trk-unsplash.jpg
     alt: "Image courtesy SpaceX"
     title: "Project: SatComms Safety"
@@ -64,10 +66,13 @@ feature_row:
     btn_class: "btn--info"
 
 ---
-
-
 <!--{% include feature_row id="intro" type="center" %}-->
+## Blogs
 
 {% include feature_row %}
+
+## Projects
+
+{% include feature_row id="project_row" %}
 
 ---
