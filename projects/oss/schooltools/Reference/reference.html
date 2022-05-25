@@ -1,0 +1,349 @@
+<HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<head><title>School Tools: Reference Section</title>
+<meta name="Author" content="Jon Camfield, Peace Corps Volunteer.  Contact via GriffJon.com" />
+<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+<meta name="Version" content="1.3 - More Open Source tools from SourceForge, expanded Guide and Reference Section"> 
+<style type="text/css">
+<!--
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.title {
+ font-size: 24pt;
+ font-weight: bold;
+ font-style: normal;
+ font-family: comic sans MS, times new roman, serif;
+ letter-spacing: .25em;
+ color: #fff;
+ margin: 0px;
+ padding: 0px;
+}
+
+.subtitle {
+ font-size: 12pt;
+ font-weight: normal;
+ font-style: italic;
+ font-family: comic sans MS, times new roman, serif;
+ letter-spacing: .25em;
+ color: #ddd;
+ line-height: 12pt;
+ margin: 0px;
+ padding: 0px;
+}
+
+
+.header {
+ font-size: 20pt;
+ font-weight: normal;
+ font-style: normal;
+ font-family: impact, arial black, sans-serif;
+}
+
+.subheader {
+ font-size: 16pt;
+ line-height: 16pt;
+ margin: 0px;
+ margin-left: 10px;
+ padding-top: 5px;
+ padding-left: 15px;
+ padding-bottom: 0px;
+ font-weight: normal;
+ font-style: normal;
+ font-family: times new roman, serif;
+}
+
+h3 { 
+ color: #800;
+ font-size: 14pt;
+ font-weight: bold;
+ font-family: comic sans MS, times new roman, serif;
+}
+
+dt.main {
+ color: #800;
+ font-size: 14pt;
+ font-weight: bold;
+ font-family: comic sans MS, times new roman, serif;
+}
+
+dt {
+ padding-left: 20px;
+ color: #800;
+ font-weight: bold;
+ font-family: comic sans MS, times new roman, serif;
+}
+
+
+
+dd {
+
+}
+
+.tabcontent {
+  padding: 0px;
+  margin: 0px;
+  background: #fff;
+  position: absolute;
+  left: 0px;
+  display: block;
+  border: 2px solid #000;
+  visibility: hidden;
+  padding: 10px;
+  margin-top: -2px;
+
+  background-image: url(../cd.gif);
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+
+#tab {
+  text-align: center;
+  font-size: 10pt;
+}
+
+a {
+  font-size: 12pt;
+  font-family: comic sans MS, times new roman, serif;
+}
+
+a:visited {text-decoration: none}
+a:link {text-decoration: none}
+a:hover {text-decoration: underline}
+
+a.hlink {text-decoration: none}
+a.hlink:hover {color:#eee; text-decoration: underline;}
+
+-->
+</style>
+
+
+<SCRIPT language="JavaScript">
+<!-- Hide
+
+var hidden = "hidden";
+var visible = "visible";
+
+function checkin(id) { 
+if (document.getElementById) // NN6, IE5, Opera 5
+  {return document.getElementById([id]).style;}
+else if (document.all) // IE4
+  {return document.all[id].style;}
+else if (document.layers) // NN4
+  {return document.layers[id];} 
+}
+
+function loadvisible(id) {
+      oldObj = checkin(id);
+      oldObj.visibility = visible;
+      tabid = id + "tab";
+      oldtabObj = checkin(tabid);
+      oldtabObj.backgroundImage = 'url(../tab_on.gif)';
+}
+
+function tabload(id,setVisible) {
+      oldObj.visibility = hidden;
+      oldtabObj.backgroundImage = 'url(../tab_off.gif)';
+      daObj = checkin(id);
+      tabid = id + "tab";
+      tabObj = checkin(tabid);
+
+      if (setVisible == hidden) {
+        daObj.visibility = hidden;
+	tabObj.backgroundImage = 'url(../tab_off.gif)';
+     }
+
+  if (setVisible == visible) {
+  tabObj.backgroundImage = 'url(../tab_on.gif)';
+        daObj.visibility = visible;
+	oldObj = daObj;
+	oldtabObj = tabObj;
+       }
+}
+// -->
+</SCRIPT>
+
+
+<body bgcolor="#ffffff" text="#000000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="loadvisible('contents')">
+<table height="60" border=0 cellpadding=0 cellspacing=0 width=100% style="border-bottom: 1px solid #888">
+<tr><th><script type="text/javascript"><!--
+google_ad_client = "pub-3576425780629643";
+google_ad_width = 800;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></th></tr>
+<tr><td valign=top bgcolor="#555555">
+<h1 class=title align=center>School Tools: Reference Materials</h1><h3 align="center" class="subtitle">By Jon Camfield</h3></td>
+<tr><td valign="bottom" bgcolor="#555555">
+<center>
+<table cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td width="25">&nbsp;</td>
+<td width=125 valign=bottom id=contentstab background="../tab_off.gif">
+<center><a href="#" id=tab onclick="tabload('contents',visible)">Contents</a>
+</center></td>
+<td width=125 valign=bottom id=icttab background="../tab_off.gif">
+<center><a href="#" id=tab onclick="tabload('ict',visible)">Documentation</a>
+</center></td>
+<td width=125 valign=bottom id=linkstab background="../tab_off.gif">
+<center><a href="#" id=tab onclick="tabload('links',visible)">Links</a>
+</center></td>
+<td width=125 valign=bottom background="../tab_off.gif">
+<center><a href="../index.html" id=tab>Home</a>
+</center></td>
+<td width="25">&nbsp;</td>
+</tr>
+</table>
+</center>
+
+
+
+</td></tr>
+
+</table>
+
+<table width="100%" id="contents" class=tabcontent>
+<tr><td>
+<h2 class=header>Contents</h2>
+<dl>
+
+<dt class="main"><a href="#" onclick="tabload('ict',visible)">Documentation</a></dt>
+<dd>Computer, networking, and Internet reference documents and curricula.</dd>
+
+<dt class="main"><a href="#" onclick="tabload('links',visible)">Links</a></dt>
+<dd>Links to free software and other documentation</dd>
+
+<br clear=all><br><br><br><br><br>
+</td></tr></table>
+
+<table width="100%" id="ict" class=tabcontent>
+<tr><td>
+<h2 class=header>Computer-based Lessons</h2>
+<h3>General</h3>
+<dl>
+<dt class="main"><a href="NHP3-OpenSourceSoftware.doc">Using Free/Open Source Software in the Classroom</a></dt>
+<dd>This is Module 3 in the series of "New Horizons for Primary Schools Tutorials for Teachers", and is a guide on using many of the programmes you find on this CD in a classroom setting</dd>
+<dt class="main"><a href="commandline-for-newbies.htm" target="_new">Using DOS Command Line in teaching computers</a></dt>
+<dd>A guide to using the DOS command line to introduce computers, useful for older systems</dd>
+<dt class="main"><a href="SchoolToolsMaintenanceGuide.rtf">School Tools Maintenance Guide</a></dt>
+<dd>A guide on how to maintain and update this CD</dd>
+</dl>
+
+<h3>Science</h3>
+<dl>
+<dt><a href="http://www.celestiamotherlode.net/">Celestia Astronomy 
+Lessons</a></dt>
+<dd>Set of documents and Celestia addons to teach Astronomy using the 
+Celestia software (available under the Education tab)</dd>
+</dl>
+
+<h2 class=header>ICT Reference</h2>
+<h3>Beginner's Guides</h3>
+<dl>
+<dt class="main"><a href="NHP-ComputingForTeachers.doc">Basic Computing for Teachers</a></dt>
+<dd>This is Module 1 in the series of "New Horizons for Primary Schools Tutorials for Teachers", and has been designed for teachers who have never used a computer.</dd>
+<dt class="main"><a href="ICTcurricula.exe">ICT Curricula</a></dt>
+<dd>Archive of Powerpoint presentations and supporting files for a 2hr x 24 day class to introduce students to computers, keyboarding, mousing, and then take them throug MS Office, Internet and emailing</dd>
+<dt class=main><a href="Intro-InfoTechnology.doc">Introduction to Information Technology</a></dt>
+<dd>An overview of how to use a personal computer running Microsoft Windows.  You will learn about the basic parts of a computer and understand how to use them.  You will also learn about ethics and the responsibilities that are associated with using a computer, as well as how to navigate within a Window’s desktop environment, how to start and exit a program, various keyboard shortcuts, and the folder and file systems used in today’s computer systems.</dd>
+<dt class=main><a href="ComputerIntro.pdf"> Jamaica Sustainable Development Networking Programme's "Introduction to Computers"</a></dt>
+<dd>An introduction to computation</dd>
+<dt class="main"><a href="NHP-PowerpointInEducation.doc">Creating Powerpoint Presentations for Education</a></dt>
+<dd>This is Module 2 in the series of "New Horizons for Primary Schools Tutorials for Teachers", and guides you through creating PowerPoint presentations</dd>
+<dt class="main"><a href="SystemPieces.rtf">Flashcards of Computer System devices</a></dt>
+<dd>Printable document of page-sized posters of the parts of a computer</dd>
+<dt class=main><a href="WinShortcutKeys.doc">Common Windows Shortcuts</a></dt>
+<dd>Shortcut keys to speed up your use of Windows</dd>
+</dl>
+
+<h3>Computer Maintenance</h3>
+<dl>
+<dt class=main><a href="TroubleshootingWindows.doc">Troubleshooting Windows</a></dt>
+<dd>New Horizons Project documentation on troubleshooting common computer and Internet problems</dd>
+<dt class="main"><a href="Optimizing.rtf">Optimizing a computer</a></dt>
+<dd>Simple guide to speeding up any computer</dd>
+<dt>UPS Information: <a href="ups-faq.html">The UPS FAQ</a>, <A href="ups-calcarticle.htm">Article with calculation guide</a></dt>
+<dd>Two resources to guide your UPS purchase and usage</dd>
+</dl>
+
+<h3>Web Design Guides</h3>
+<dl>
+<dt><a href="SUPEREASYHTML.DOC">Super Easy HTML</a></dt>
+<dd>Here is a beginner's guide to learning the basics of the actual code behind web pages: </dd>
+<dt>See the Internet tab for web design software</dt>
+</dl>
+
+<h3>Programming</h3>
+<dl>
+<dt class="main"><a href="VisualBasic.doc">Visual Basic Starter's Guide</a></dt>
+<dd>Introduction to programming with Visual Basic</dd>
+</dl>
+
+<h3>Networking</h3>
+<dl>
+<dt><a href="CISCO-textbook.doc">Networking / CISCO textbook</a></dt>
+<dd>Comprehensive set of lessons to teach you networking skills</dd>
+<dt><a href="EthernetCabling.htm">Ethernet Cabling Guide</a></dt>
+<dd>Color-coded guide to making standard Ethernet cables and crossover cables</dd>
+</dl>
+
+<h3>Internet/Web Usage</h3>
+<dl>
+<dt><a href="Internet-Tool_for_Educators.doc">The Internet as a Tool for Educators</a></dt>
+<dd>A document explaining some useful websites and online tools for teachers</dd>
+<dt><a href="MakingTheMostOfMozilla.htm">Making the Most of Mozilla</a></dt>
+<Dd>A guide to getting the most out of the Mozilla Internet Browser</dd>
+</dl>
+
+<h3>Advanced Computer Usage</h3>
+<dl>
+<dt><A href="DOS.PDF">DOS Guide</a></dt>
+<dd>Guide to DOS commands</dd>
+<dt><a href="servicecfg.htm">Windows XP Services reference</a></dt>
+<dd>Advanced users' guide to Windows XP service configurations</dd>
+<dt><a href="Linux/">Linux Guides</a></dt>
+<dd>Some guides to installing and maintaining Linux computers</dd>
+</dl>
+
+
+<br clear=all><br><br><br><br><br>
+</td></tr></table>
+
+<table width="100%" ID=links class=tabcontent>
+<tr><td>
+<h2 class=header>Web Links</h2>
+
+<h3>Sources for Free Software</h3>
+<p>There are many, many places offering free software.  A few good sites will be mentioned.  And, there are many websites that will waste your time.  Your experience will be a good guide and be sure to share your favorite places with your colleagues.<p>
+<ul>
+<li><a href="http://sf.net" target="_new">SourceForge</a></li>
+<li><a href="http://www.schoolforge.net/" target="_new">SchoolForge</a></li>
+<li><a href="http://richtech.ca/seul/" target="_new">SEUL</a></li>
+<li><a href="http://archives.math.utk.edu/index.html" target="_new">Mathematics Archive WWW Server</a></li>
+<li><a href="http://www.in2edu.com/edulinks/" target="_new">In2Edu</a></li>
+<li><a href="http://www.cs.uu.nl/people/markov/kids/index.html" target="_new">Mark Ovemar’s Page</a></li>
+<li><a href="http://www.abandonwarering.com/?Page=FAQ" target="_new">The Abandonware Ring</a></li>
+</ul>
+
+<h3>Sources for  Free Technical Information</h3>
+<p>The Internet also has a number of places to learn about computers, programming, the Internet, web design and so on.  A few of these sites are:</p>
+<ul>
+<li><a href="http://www.comptechdoc.org" target="_new">comptechdoc.org</a></li>
+<li><a href="http://www.freeskills.com" target="_new">freeskills.com</a></li>
+<li><a href="http://www.techtutorials.com" target="_new">techtutorials.com</a></li>
+<li><a href="http://www.pcnineoneone.com" target="_new">pcnineoneone.com</a></li>
+<li><a href="http://www.onecomputerguy.com" target="_new">onecomputerguy.com</a></li>
+</ul>
+
+<br clear=all><br><br><br><br><br>
+</td></tr></table>
+
+  <!--#include virtual="/code/footer.txt"-->
+
+</body></html>

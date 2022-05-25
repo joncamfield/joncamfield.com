@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/tbl.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" --> 
+<title>Windows XP Home and Professional Service Configurations by Black Viper</title>
+<!-- InstanceEndEditable --><!-- InstanceBeginEditable name="head" --> 
+<link rel="up" title="OS Guides" href="/Articles/OS/OSguides.htm" />
+<link rel="prefetch" href="/WinXP/service411.htm" />
+<meta name="Description" content="A complete listing of all the services installed with Windows XP Home and Professional running in the background and viewed with Task Manager" />
+<!-- InstanceEndEditable -->
+<meta http-equiv="content-language" content="en" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="copyright" content="Copyright 1999-2003 by Black Viper, All Rights Reserved" />
+<link rel="stylesheet" type="text/css" media="screen" href="/css/2003-04-12basic.css" title="BV Basic (Black)" />
+<style type="text/css" media="all">
+<!-- @import url(/css/2003-04-12black.css);-->
+</style>
+<link rel="alternate stylesheet" type="text/css" media="screen" href="/css/2003-04-12black.css" title="BV Alt (Black)" />
+<link rel="alternate stylesheet" type="text/css" media="screen" href="/css/2003-04-12white.css" title="BV Alt (White)" />
+<link rel="alternate stylesheet" type="text/css" media="screen" href="/css/2003-04-12color.css" title="BV Alt (Color)" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="author" href="/MyStuff/AboutMe/aboutme.htm" />
+<link rel="copyright" href="/Admin/legal.htm" />
+<link rel="bookmark" title="Black Viper's Web site" href="http://www.blkviper.com/index.html" />
+<link rel="help" title="Ask BV" href="/AskBV/askBV.htm" />
+<link rel="search" title="Search Site" href="/Admin/search.htm" />
+<link rel="start" title="Black Viper's Web Site" href="/index.html" />
+<script type="text/javascript" src="/css/css.js"></script>
+</head>
+<body>
+<div id="wrapper">
+<div id="content"> <!-- InstanceBeginEditable name="Document Body" -->
+
+<hr />
+<h1> Windows <acronym title="eXPerience">XP</acronym> Home and Professional Service Configurations</h1>
+<hr />
+<h2>Notes for a Happier Computer and User:</h2>
+<ul>
+<li><strong>Do NOT use &#8220;msconfig&#8221; to disable services, type &#8220;<em>services.msc</em>&#8221; in the Run box instead! (<a href="/AskBV/XP25.htm">WHY?</a>)</strong></li>
+<li>Before disabling ANY service, check out the <a href="/WinXP/service411.htm">service information</a>  about each  by selecting  the service name  links provided.</li>
+<li>Service settings are <em><strong>global</strong></em>, meaning changes apply to all users.</li>
+<li>For an easy method of creating multiple Service Configurations, please check out the <a href="/WinXP/xpprofiles.htm">Windows <acronym title="eXPerience">XP</acronym> Services Profile Guide</a>.</li>
+<li>For an even easier method of applying these tweaks, please visit the <a href="/WinXP/registry.htm">Windows <acronym title="eXPerience">XP</acronym> Services Registry Patch Guide</a>.</li>
+<li>All of these services are &#8220;Standard&#8221; with Windows <acronym title="eXPerience">XP</acronym>. If you discover something other than these listed here running, another program installed them. View a listing of the <a href="/WinXP/strangeservice.htm">more common ones</a>.</li>
+<li>Still unsure? Put your setting to &#8220;manual&#8221; or the listing under &#8220;Safe.&#8221; Manual allows Windows <acronym title="eXPerience">XP</acronym> to start the service when it needs to (or when ever it feels like it), but not at boot up. Depending on your configuration, not all services will start when required while in &#8220;Manual&#8221; mode. If you find you need a service, place it in Automatic.</li>
+<li><strong>After adjusting your service settings, reboot your computer.</strong></li>
+<li>If you do not have some of these services listed, do not panic! If your computer manufacture &#8220;pre-installed&#8221; your <acronym title="eXPerience">XP</acronym>, they choose not to have certain services installed for you. This is, in most cases, a fact with OEM versions of Windows <acronym title="eXPerience">XP</acronym> Home.</li>
+<li><strong>Before E-Mailing me, see if your question has been addressed in the <a href="/AskBV/askBV.htm"><acronym title="Frequently Asked Questions">FAQ</acronym></a>!</strong></li>
+<li>More items about how to speed up your system can be found on the <a href="/WinXP/supertweaks.htm">Windows <acronym title="eXPerience">XP</acronym> Super Tweaks Page</a>!</li>
+<li>If you find this page helpful and you wish to use this information (forums, web sites), please link directly back to <a href="/WinXP/servicecfg.htm">this page</a> and <a href="/TheRant/copyright.htm">do not copy or redistribute it</a>. The information is up to date and I do not want anyone posting old content.</li>
+<li>Disabling all of the &#8220;unneeded services&#8221; frees up 12-70   <acronym title="Megabytes">MB</acronym> of <acronym title="Random Access Memory">RAM</acronym>, depending on system.</li>
+<li>Do you mean that out of 89 services, 36 are set to Automatic as DEFAULT, but, we MAY only need 8 running?!? YES.</li>
+<li><strong>Viewing Instructions:</strong> If the table is hard to read, download the <acronym title="Portable Document Format">PDF</acronym> file below or please <a href="/AskBV/faqBV11.htm">check out your viewing options</a>.</li>
+<li><strong>Printable Version:</strong>
+Includes this <acronym title="HyperText Markup Language">HTML</acronym> page, the <a href="/WinXP/service411.htm">Windows <acronym title="eXPerience">XP</acronym> Services 411</a> and several <a href="/WinXP/strangeservice.htm">strange processes</a>.
+<ul>
+<li><a href="/WinXP/Files/XPServices.zip">XPServices.zip</a> ~ 181,715 bytes ~ 44 pages ~ Printable Revision 3 ~ May 29, 2003<br />
+You need <a href="http://www.adobe.com/products/acrobat/readstep.html">Acrobat Reader</a> to view / print document.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h2>Table Header Information:</h2>
+<ul>
+<li><strong>Display Name</strong> ~ is how it displays in the Services Control Panel.</li>
+<li><strong>Service Name</strong> ~ is what the service&#8217;s &#8220;short&#8221; name is and what displays in the registry.</li>
+<li><strong>Process Name</strong> ~ name of the Process running in the background (displays in Task Manager by hitting Ctrl+Alt+Del).</li>
+<li><strong>Dependencies</strong> ~ describe what other services this service needs to run.</li>
+<li><strong>DEFAULT Home</strong> ~ what Bill G. thinks should be running on Windows <acronym title="eXPerience">XP</acronym> Home.</li>
+<li><strong>DEFAULT Pro</strong> ~ what Bill G. thinks should be running on Windows <acronym title="eXPerience">XP</acronym> Professional.</li>
+<li><strong>&quot;SAFE&#8221; Configuration</strong> ~ this is the configuration that 95% of the people will be able to use with little or no side effects. It will also minimizes the amount of &#8220;errors&#8221; that is reported in the Event Viewer. This does NOT guarantee it will work for you, but if this scares you, this configuration would be a good starting point.</li>
+<li><strong>Internet Gateway Configuration</strong> ~ setup to allow multiple computers on a network to share one access point using Microsoft's &#8220;Internet Connection Sharing and Personal Firewall&#8221; software. If you do not have this type of setup, compare the differences between &#8220;SAFE&#8221; and &#8220;GAMING&#8221; to find a middle ground that works for your system. Other software or hardware type firewall and gateway software may require a slightly different configuration</li>
+<li><strong>Gaming Configuration</strong> ~ this is the power user setup. A great way to <a href="/WinXP/xpprofiles.htm">test this setup is here</a>. This setup is a system that connects through a network (such as a gateway / router) to the internet, provides file and print sharing resources and gaming enjoyment. Some things MAY not function with this setup. No passwords save. Its use is not for a computer with analog modems or some direct <acronym title="Digital Subscriber Line">DSL</acronym>/cable connections. Try &#8220;Internet Gateway&#8221; Configuration first.</li>
+<li><strong>Super Tweak Configuration</strong> ~ this is the Super Geek setup. A great way to <a href="/WinXP/xpprofiles.htm">test this setup is here</a>. This setup is a system that connects through a network (such as a gateway / router) to the internet with a static <acronym title="Internet Protocol">IP</acronym> address. This system does not provide file and print sharing resources, nor have the ability to print. Its use is not for a computer with analog modems or many direct <acronym title="Digital Subscriber Line">DSL</acronym>/cable connections. You can use this configuration for extreme tweaking and testing purposes. Many things MAY not function with this setup. No passwords save. The Event Log may display &#8220;errors&#8221; of not being able to start certain services. CDRW functions may no longer work. Please do not ask, &#8220;How do I fix&#8221; questions while using this configuration. The answer will be &#8220;Use SAFE.&#8221; This information&#8217;s intention is for reference only. However, I use this configuration on a daily basis.<br /> </li>
+</ul>
+<hr />
+<table border="1" cellspacing="0" style="border-collapse: collapse" cellpadding="2" class="table">
+<tr> 
+<td colspan="10"><h2>Black Viper's Windows <acronym title="eXPerience">XP</acronym> Home and Professional Services Configurations:</h2></td></tr>
+<tr> 
+<th>Display Name</th><th>Service Name</th><th>Process Name</th><th>Dependencies</th><th>DEFAULT<br />
+Home</th><th>DEFAULT<br />
+Pro</th><th>&quot;SAFE&quot;</th><th>Internet Gateway</th><th>Gaming</th><th>Super Tweak</th></tr>
+<tr> 
+<td><a href="service411.htm#Alerter">Alerter</a></td><td>Alerter</td><td>services.exe</td><td><a href="service411.htm#Workstation">Workstation</a></td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Application_Layer_Gateway_Service">Application Layer Gateway Service</a></td><td>ALG</td><td>alg.exe</td><td>None</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Application_Management">Application Management</a></td><td>AppMgmt</td><td>svchost.exe</td><td>None</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td></tr>
+<tr> 
+<td><a href="service411.htm#Automatic_Updates">Automatic Updates</a></td><td>wuauserv</td><td>svchost.exe</td><td>None</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Background_Intelligent_Transfer_Service">Background Intelligent Transfer Service</a></td><td>BITS</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a>, <a href="service411.htm#Workstation">Workstation</a></td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#ClipBook">ClipBook</a></td><td>ClipSrv</td><td>clipsrv.exe</td><td><a href="service411.htm#Network_DDE">Network DDE</a></td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#COM+_Event_System">COM+ Event System</a></td><td>EventSystem</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#COM+_System_Application">COM+ System Application</a></td><td>COMSysApp</td><td>dllhost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Computer_Browser">Computer Browser</a></td><td>Browser</td><td>svchost.exe</td><td><a href="service411.htm#Server">Server</a>, <a href="service411.htm#Workstation">Workstation</a></td><td>Automatic</td><td>Automatic</td>
+<td>Disabled</td>
+<td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Cryptographic_Services">Cryptographic Services</a></td><td>CryptSvc</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#DHCP_Client"><acronym title="Dynamic Host Configuration Protocol">DHCP</acronym> Client</a></td>
+<td>Dhcp</td><td>svchost.exe</td><td>AFD Networking Support Environment, <acronym title="NETwork Basic Input Output System">NetBIOS</acronym> over <acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym>, <acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym> Protocol Driver</td>
+<td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Automatic</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Distributed_Link_Tracking_Client">Distributed Link Tracking Client</a></td><td>TrkWks</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Distributed_Transaction_Coordinator">Distributed Transaction Coordinator</a></td><td>MSDTC</td><td>msdtc.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a>, <a href="service411.htm#Security_Accounts_Manager">Security Accounts Manager</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#DNS_Client"><acronym title="Domain Name System">DNS</acronym> Client</a></td>
+<td>Dnscache</td><td>svchost.exe</td><td><acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym> Protocol Driver</td>
+<td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Error_Reporting_Service">Error Reporting Service</a></td><td>ERSvc</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Event_Log">Event Log</a></td><td>Eventlog</td><td>services.exe</td><td>None</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td></tr>
+<tr> 
+<td><a href="service411.htm#Fast_User_Switching_Compatibility">Fast User Switching Compatibility</a></td><td>FastUserSwitching Compatibility</td><td>svchost.exe</td><td><a href="service411.htm#Terminal_Services">Terminal Services</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Fax_Service">Fax Service</a></td><td>FAX</td><td>fxssvc.exe</td><td><a href="service411.htm#Plug_and_Play">Plug and Play</a>, <a href="service411.htm#Print_Spooler">Print Spooler</a>, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a>, <a href="service411.htm#Telephony">Telephony</a></td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+<tr> 
+<td><a href="service411.htm#FTP_Publishing_Service">FTP Publishing Service</a></td><td>NA</td><td>inetinfo.exe</td><td><a href="service411.htm#IIS_Admin">IIS Admin</a></td><td>Not Available</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+<tr> 
+<th>Display Name</th><th>Service Name</th><th>Process Name</th><th>Dependencies</th><th>DEFAULT<br />
+Home</th><th>DEFAULT<br />
+Pro</th><th>&quot;SAFE&quot;</th><th>Internet Gateway</th><th>Gaming</th><th>Super Tweak</th></tr>
+<tr> 
+<td><a href="service411.htm#Help_and_Support">Help and Support</a></td><td>helpsvc</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Human_Interface_Device_Access">Human Interface Device Access</a></td><td>HidServ</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#IIS_Admin">IIS Admin</a></td><td>IISADMIN</td><td>inetinfo.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a>, <a href="service411.htm#Security_Accounts_Manager">Security 
+Accounts Manager</a></td><td>Not Available</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+<tr> 
+<td><a href="service411.htm#IMAPI_CD-Burning_COM_Service">IMAPI CD-Burning COM Service</a></td><td>ImapiService</td><td>imapi.exe</td><td>None</td><td>Manual</td><td>Manual</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Indexing_Service">Indexing Service</a></td><td>cisvc</td><td>cisvc.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Internet_Connection_Firewall_Internet_Connection_Sharing">Internet Connection Firewall/Internet Connection Sharing</a></td><td>SharedAccess</td><td>svchost.exe</td><td><a href="service411.htm#Application_Layer_Gateway_Service">Application Layer Gateway Service</a>, <a href="service411.htm#Network_Connections"> 
+Network Connections</a>, <a href="service411.htm#Network_Location_Awareness_(NLA)">Network Location Awareness</a>, <a href="service411.htm#Remote_Access_Connection_Manager">Remote Access Connection Manager</a></td><td>Manual</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#IPSEC_Services">IPSEC Services</a></td><td>PolicyAgent</td><td>lsass.exe</td><td>IPSEC driver, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a>, <acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym> Protocol Driver</td>
+<td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Logical_Disk_Manager">Logical Disk Manager</a></td><td>dmserver</td><td>svchost.exe</td><td><a href="service411.htm#Plug_and_Play">Plug and Play</a>, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Automatic</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Logical_Disk_Manager_Administrative_Service">Logical Disk Manager Administrative Service</a></td><td>dmadmin</td><td>dmadmin.exe</td><td><a href="service411.htm#Logical_Disk_Manager">Logical Disk Manager</a>, <a href="service411.htm#Plug_and_Play">Plug and Play</a>, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Message_Queuing">Message Queuing</a></td><td>NA</td><td>mqsvc.exe</td><td><a href="service411.htm#Distributed_Transaction_Coordinator">Distributed Transaction Coordinator</a>, Message Queuing access control, <a href="service411.htm#NT_LM_Security_Support_Provider">NT LM Security Support Provider</a>, Reliable Multicast Protocol driver, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a>, <a href="service411.htm#Server">Server</a></td><td>Not Available</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+<tr> 
+<th>Display Name</th><th>Service Name</th><th>Process Name</th><th>Dependencies</th><th>DEFAULT<br />
+Home</th><th> DEFAULT<br />
+Pro</th><th>&quot;SAFE&quot;</th><th>Internet Gateway</th><th>Gaming</th><th>Super Tweak</th></tr>
+<tr> 
+<td><a href="service411.htm#Message_Queuing_Triggers">Message Queuing Triggers</a></td><td>NA</td><td>mqtgsvc.exe</td><td><a href="service411.htm#Message_Queuing">Message Queuing</a></td><td>Not Available</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+<tr> 
+<td><a href="service411.htm#Messenger">Messenger</a></td><td>Messenger</td><td>services.exe</td><td><acronym title="NETwork Basic Input Output System">NetBIOS</acronym> Interface, <a href="service411.htm#Plug_and_Play">Plug and Play</a>, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a>, <a href="service411.htm#Workstation">Workstation</a></td>
+<td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#MS_Software_Shadow_Copy_Provider">MS Software Shadow Copy Provider</a></td><td>SwPrv</td><td>dllhost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Net_Login">Net Login</a></td><td>Netlogon</td><td>lsass.exe</td><td><a href="service411.htm#Workstation">Workstation</a></td><td>Manual</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#NetMeeting_Remote_Desktop_Sharing">NetMeeting Remote Desktop Sharing</a></td><td>mnmsrvc</td><td>mnmsrvc.exe</td><td>None</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Network_Connections">Network Connections</a></td><td>Netman</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Automatic</td><td>Manual</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Network_DDE">Network DDE</a></td><td>NetDDE</td><td>netdde.exe</td><td><a href="service411.htm#Network_DDE_DSDM">Network DDE DSDM</a></td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Network_DDE_DSDM">Network DDE DSDM</a></td><td>NetDDE dsdm</td><td>netdde.exe</td><td>AFD Networking Support Enviroment, <acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym> Protocol Driver</td>
+<td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Network_Location_Awareness_(NLA)">Network Location Awareness (NLA)</a></td><td>Nla</td><td>svchost.exe</td><td>None</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#NT_LM_Security_Support_Provider">NT LM Security Support Provider</a></td><td>NtLmSsp</td><td>lsass.exe</td><td>None</td><td>Manual</td><td>Manual</td>
+<td>Manual</td>
+<td>Manual</td>
+<td>Manual</td>
+<td>Disabled</td>
+</tr>
+
+<tr> 
+<td><a href="service411.htm#Performance_Logs_and_Alerts">Performance Logs and Alerts</a></td><td>SysmonLog</td><td>smlogsvc.exe</td><td>None</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Plug_and_Play">Plug and Play</a></td><td>PlugPlay</td><td>services.exe</td><td>None</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td></tr>
+<tr> 
+<td><a href="service411.htm#Portable_Media_Serial_Number">Portable Media Serial Number</a></td><td>WmdmPmSp</td><td>svchost.exe</td><td>None</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Print_Spooler">Print Spooler</a></td><td>Spooler</td><td>spoolsv.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Protected_Storage">Protected Storage</a></td><td>ProtectedStorage</td><td>lsass.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#QoS_RSVP">QoS RSVP</a></td><td>RSVP</td><td>rsvp.exe</td><td>AFD Networking Support Environment, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a>, <acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym> Protocol Driver</td>
+<td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Remote_Access_Auto_Connection_Manager">Remote Access Auto Connection Manager</a></td><td>RasAuto</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Access_Connection_Manager">Remote Access Connection Manager</a>, <a href="service411.htm#Telephony">Telephony</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Remote_Access_Connection_Manager">Remote Access Connection Manager</a></td><td>RasMan</td><td>svchost.exe</td><td><a href="service411.htm#Telephony">Telephony</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Remote_Desktop_Help_Session_Manager">Remote Desktop Help Session Manager</a></td><td>RDSessMgr</td><td>sessmgr.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>RpcSs</td><td>svchost.exe</td><td>None (but everything depends on it)</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td></tr>
+<tr> 
+<th>Display Name</th><th>Service Name</th><th>Process Name</th><th>Dependencies</th><th>DEFAULT<br />
+Home</th><th>DEFAULT<br />
+Pro</th><th>&quot;SAFE&quot;</th><th>Internet Gateway</th><th>Gaming</th><th>Super Tweak</th></tr>
+<tr> 
+<td><a href="service411.htm#Remote_Procedure_Call_(RPC)_Locator">Remote Procedure Call (RPC) Locator</a></td><td>RpcLocator</td><td>locator.exe</td><td><a href="service411.htm#Workstation">Workstation</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Remote_Registry_Service">Remote Registry Service</a></td><td>RemoteRegistry</td><td>svchost.exe</td><td>None</td><td>Not Available</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Removable_Storage">Removable Storage</a></td><td>NtmsSvc</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#RIP_Listener">RIP Listener</a></td><td>NA</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td>
+<td>Not Available</td>
+<td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+<tr> 
+<td><a href="service411.htm#Routing_and_Remote_Access">Routing and Remote Access</a></td><td>RemoteAccess</td><td>svchost.exe</td><td><acronym title="NETwork Basic Input Output System">NetBIOS</acronym>Group, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td>
+<td>Disabled</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Secondary_Logon">Secondary Logon</a></td><td>seclogon</td><td>svchost.exe</td><td>None</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Security_Accounts_Manager">Security Accounts Manager</a></td><td>SamSs</td><td>lsass.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Server">Server</a></td><td>lanmanserver</td><td>svchost.exe</td><td>None</td><td>Automatic</td><td>Automatic</td>
+<td>Disabled</td>
+<td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Shell_Hardware_Detection">Shell Hardware Detection</a></td><td>ShellHWDetection</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Simple_Mail_Transport_Protocol_(SMTP)">Simple Mail Transport Protocol (SMTP)</a></td><td>SMTPSVC</td><td>inetinfo.exe</td><td><a href="service411.htm#Event_Log">Event Log</a>, <a href="service411.htm#IIS_Admin">IIS Admin</a></td><td>Not Available</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+<tr>
+<td><a href="service411.htm#Simple_TCP/IP_Services">Simple <acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym> Services</a></td>
+<td>NA</td><td>tcpsvcs.exe</td><td>AFD Networking Support Environment</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+<tr> 
+<td><a href="service411.htm#Smart_Card">Smart Card</a></td><td>SCardSvr</td><td>SCardSvr.exe</td><td><a href="service411.htm#Plug_and_Play">Plug and Play</a></td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Smart_Card_Helper">Smart Card Helper</a></td><td>SCardDrv</td><td>SCardSvr.exe</td><td>None</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#SNMP_Service">SNMP Service</a></td><td>NA</td><td>snmp.exe</td><td><a href="service411.htm#Event_Log">Event Log</a></td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+<tr> 
+<td><a href="service411.htm#SNMP_Trap_Service">SNMP Trap Service</a></td><td>NA</td><td>snmptrap.exe</td><td><a href="service411.htm#Event_Log">Event Log</a></td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+<tr> 
+<td><a href="service411.htm#SSDP_Discovery_Service">SSDP Discovery Service</a></td><td>SSDPSRV</td><td>svchost.exe</td><td>None</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#System_Event_Notification">System Event Notification</a></td><td>SENS</td><td>svchost.exe</td><td><a href="service411.htm#COM+_Event_System">COM+ Event System</a></td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#System_Restore_Service">System Restore Service</a></td><td>srservice</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Task_Scheduler">Task Scheduler</a></td><td>Schedule</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#TCP/IP_NetBIOS_Helper_Service"><acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym> <acronym title="NETwork Basic Input Output System">NetBIOS</acronym> Helper Service</a></td>
+<td>LmHosts</td><td>svchost.exe</td>
+<td>AFD Networking Support Environment, <acronym title="NETwork Basic Input Output System">NetBIOS</acronym> over <acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym></td>
+<td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<th>Display Name</th><th>Service Name</th><th>Process Name</th><th>Dependencies</th><th>DEFAULT<br />
+Home</th><th>DEFAULT<br />
+Pro</th><th>&quot;SAFE&quot;</th><th>Internet Gateway</th><th>Gaming</th><th>Super Tweak</th></tr>
+<tr> 
+<td><a href="service411.htm#TCP/IP_Printer_Server"><acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym> Printer Server</a></td>
+<td>LPDSVC</td><td>tcpsvcs.exe</td><td><a href="service411.htm#Print_Spooler">Print Spooler</a>, <acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym> Protocol Driver</td>
+<td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+<tr> 
+<td><a href="service411.htm#Telephony">Telephony</a></td><td>TapiSrv</td><td>svchost.exe</td><td><a href="service411.htm#Plug_and_Play">Plug and Play</a>, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Telnet">Telnet</a></td><td>TlntSvr</td><td>tlntsvr.exe</td><td><a href="service411.htm#NT_LM_Security_Support_Provider">NT LM Security Support Provider</a>, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a>, <acronym title="Transmission Control Protocol/Internet Protocol">TCP/IP</acronym> Protocol Driver</td>
+<td>Not Available</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Terminal_Services">Terminal Services</a></td><td>TermService</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Themes">Themes</a></td><td>Themes</td><td>svchost.exe</td><td>None</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Uninterruptible_Power_Supply">Uninterruptible Power Supply</a></td><td>UPS</td>
+<td>ups.exe</td><td>None</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Universal_Plug_and_Play_Device_Host">Universal Plug and Play Device Host</a></td><td>UPNPhost</td><td>svchost.exe</td><td><a href="service411.htm#SSDP_Discovery_Service">SSDP Discovery Service</a></td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Upload_Manager">Upload Manager</a></td><td>uploadmgr</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Volume_Shadow_Copy">Volume Shadow Copy</a></td><td>VSS</td><td>vssvc.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#WebClient">WebClient</a></td><td>WebClient</td><td>svchost.exe</td><td>WebDav Client Redirector</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Windows_Audio">Windows Audio</a></td><td>AudioSrv</td><td>svchost.exe</td><td><a href="service411.htm#Plug_and_Play">Plug and Play</a>, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td></tr>
+<tr> 
+<td><a href="service411.htm#Windows_Image_Acquisition_(WIA)">Windows Image Acquisition (WIA)</a></td><td>stisvc</td><td>svchost.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Windows_Installer">Windows Installer</a></td><td>MSIServer</td><td>msiexec.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td></tr>
+<tr> 
+<td><a href="service411.htm#Windows_Management_Instrumentation">Windows Management Instrumentation</a></td><td>Winmgmt</td><td>svchost.exe</td><td><a href="service411.htm#Event_Log">Event Log</a>, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td></tr>
+<tr> 
+<td><a href="service411.htm#Windows_Management_Instrumentation_Driver_Extension">Windows Management Instrumentation Driver Extension</a></td><td>Wmi</td><td>svchost.exe</td><td>None</td><td>Not Available</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Manual</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Windows_Time">Windows Time</a></td><td>W32Time</td><td>svchost.exe</td><td>None</td><td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Wireless_Zero_Configuration">Wireless Zero Configuration</a></td><td>WZCSVC</td><td>svchost.exe</td><td><acronym title="Network Driver Interface Specification">NDIS</acronym> Usermode <acronym title="Input / Output">I/O</acronym> Protocol, <a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td>
+<td>Automatic</td><td>Automatic</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#WMI_Performance_Adapter">WMI Performance Adapter</a></td><td>WmiApSrv</td><td>wmiapsrv.exe</td><td><a href="service411.htm#Remote_Procedure_Call_(RPC)">Remote Procedure Call (RPC)</a></td><td>Manual</td><td>Manual</td><td>Disabled</td><td>Disabled</td><td>Disabled</td><td>Disabled</td></tr>
+<tr> 
+<td><a href="service411.htm#Workstation">Workstation</a></td><td>lanmanworkstation</td><td>svchost.exe</td><td>None (but plenty depend on it)</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td><td>Automatic</td></tr>
+<tr> 
+<td><a href="service411.htm#World_Wide_Web_Publishing_Service">World Wide Web Publishing Service</a></td><td>W3SVC</td><td>inetinfo.exe</td><td>IIS Admin</td><td>Not Available</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td><td>Not Installed</td></tr>
+</table>
+<!-- InstanceEndEditable -->
+<hr />
+<div class="midlinks"><!-- InstanceBeginEditable name="Created" -->Original content created July 28, 2001<br /> <!-- InstanceEndEditable --> Last update was:
+<script type="text/javascript">document.write(document.lastModified);</script>
+<hr />
+<p><strong>Have I helped You?<br />
+<a href="/Admin/contactbv.htm" title="Contact Information">Contact <acronym title="Black Viper">BV</acronym></a> or</strong></p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" />
+
+<input type="hidden" name="cmd" value="_xclick" />
+<input type="hidden" name="business" value="bv@blkviper.com" />
+<input type="hidden" name="item_name" value="Black Viper" />
+<input type="hidden" name="no_shipping" value="1" />
+<input type="hidden" name="return" value="http://www.blkviper.com/Admin/thanks.htm" />
+<input type="hidden" name="cn" value="Optional Information:" />
+<input type="hidden" name="cs" value="1" />
+<input type="image" src="/images/paypal.gif" name="submit" alt="Make donation with PayPal - it's fast, free and secure!" />
+<p class="hidenew"><a href="/index.html" title="Return to the Home Page">Home</a> | <a href="/MyStuff/AboutMe/aboutme.htm" title="All About Black Viper">About <acronym title="Black Viper">BV</acronym></a> | <a class="help" href="/AskBV/askBV.htm" title="Frequently Asked Questions"><acronym title="Frequently Asked Questions">FAQ</acronym></a> | <a href="/Admin/contactbv.htm" title="Contact Information">Contact <acronym title="Black Viper">BV</acronym></a> | <a href="/Admin/search.htm" title="Find what you are looking for">Search</a> | <a href="/Admin/sitemap.htm" title="Navigation Structure of the Domain">Site Map</a> </p>
+<p>All content Copyright &copy; 1999-2003 by Black Viper of www.blkviper.com and www.blackviper.com. All Rights Reserved.<br />
+<a href="/Admin/legal.htm" title="Additional Legal Information">Copyright Information</a> | <a href="/Admin/legal.htm" title="Legal Stuff">Disclaimer</a> | <a href="/Admin/legal.htm" title="Your Privacy Rights">Privacy Policy</a> | <a href="/Admin/browsers.htm" title="What I know works and What does not">Browser Compatibility List</a> | <a href="/Admin/browsers.htm" title="What I know works and What does not">Known Issues</a><br />
+</p>
+</div>
+</div>
+<div id="top">
+<p class="midlinks"><a href="/index.html" title="Return to the Home Page">Home</a> | <a href="/MyStuff/AboutMe/aboutme.htm" title="All About Black Viper">About <acronym title="Black Viper">BV</acronym></a> | <a class="help" href="/AskBV/askBV.htm" title="Frequently Asked Questions"><acronym title="Frequently Asked Questions">FAQ</acronym></a> | <a href="/Admin/contactbv.htm" title="Contact Information">Contact <acronym title="Black Viper">BV</acronym></a> | <a href="/Admin/search.htm" title="Find what you are looking for">Search</a> | <a href="/Admin/sitemap.htm" title="Navigation Structure of the Domain">Site Map</a> </p>
+<h2>BlkViper.com - BlackViper.com</h2>
+<h4 class="midlinks">No Plug-ins ~ No Pop-Ups ~ No Banners!<br />
+- Just Pure <acronym title="Black Viper">BV</acronym> -</h4>
+<hr />
+<div class="topnav"> <!-- InstanceBeginEditable name="PageNav" -->&gt; <a href="/index.html">Home</a> &gt; <a href="/Articles/articles.htm">Articles</a> &gt; <a href="/Articles/OS/OSguides.htm"><acronym title="Operating System">OS</acronym> Guides</a> &gt; <a href="winxp.htm">Windows <acronym title="eXPerience">XP</acronym></a> &gt; Service Configuration<!-- InstanceEndEditable --></div>
+</div>
+<div id="left">
+<div class="midlinks"><a href="/MyStuff/AboutMe/aboutme.htm"><img src="/images/bvpic100.jpg" alt="Black Viper" width="100" height="125" /></a></div>
+<hr />
+<p class="midlinks"><strong>Choose the look:</strong><br />
+<a href="#" title="Black Style" onclick="setActiveCSS('BV Alt (Black)');return false;">Black</a>, <a href="#" title="White Style" onclick="setActiveCSS('BV Alt (White)');return false;">White</a>,
+or <a href="#" title="COLORS" onclick="setActiveCSS('BV Alt (Color)');return false;">Color</a>!</p>
+<hr />
+<h3>General:</h3>
+<p class="topnav"> <a href="/Articles/articles.htm" title="Informative">Articles</a><br />
+<a class="help" title="Frequently Asked Questions" href="/AskBV/askBV.htm">Ask <acronym title="Black Viper">BV</acronym> (<acronym title="Frequently Asked Questions">FAQ</acronym>)</a><br />
+<a href="/Admin/wishlist.htm" title="A Quick Peek at What the Future Holds">Coming Soon?</a><br />
+<a href="/GamesPlus/gaming.htm" title="Various Gaming Information">Gaming</a><br />
+<a href="/Admin/best.htm" title="Highly Recommended Places to Visit">Links</a><br />
+<a href="/MyStuff/MyKitty/kitty.htm">My Kitties</a><br />
+<a href="/Articles/OS/OSguides.htm" title="Installing and Tweaking OS Guides"><acronym title="Operating System">OS</acronym> Guides</a><br />
+<a href="/Articles/Games/Reviews/reviews.htm" title="Opinionated Articles">Reviews</a><br />
+<a href="/SETI/SETI.htm" title="Black Viper's Search for Something Out There">SETI@Home</a><br />
+<a href="/TheRant/rant.htm" title="I needed a place to vent">The Rant</a><br />
+<a href="/index.html" title="The Latest and Greatest Changes Listed">What's New?</a><br />
+<a href="/Admin/wishlist.htm" title="Wishful Thinking">Wish List</a></p>
+<!-- InstanceBeginEditable name="Related" --><!-- #BeginLibraryItem "/Library/XPRelatedInfo.lbi" -->
+<h3>XP Related Information:</h3>
+<p class="topnav"><a href="/WinXP/drivers.htm">Drivers</a><br />
+<a class="help" href="/AskBV/askBV.htm"><acronym title="Frequently Asked Questions">FAQ</acronym></a><br />
+<a href="/Articles/OS/XPcompress/xpcompress.htm">File Compression</a><br />
+<a href="/WinXP/games.htm">Games</a><br />
+<a href="/Articles/OS/OSguides.htm">Installation Guide</a><br />
+<a href="/WinXP/praiseandflames.htm">Praise and Flames</a><br />
+<a href="/WinXP/registry.htm">Registry Files</a><br />
+<a href="/WinXP/service411.htm">Service 411</a><br />
+<a href="/WinXP/servicecfg.htm">Service<br />
+Configuration</a><br />
+<a href="/WinXP/xpprofiles.htm">Service Profiles</a><br />
+<a href="/WinXP/strangeservice.htm">Strange Services</a><br />
+<a href="/WinXP/supertweaks.htm">Super Tweaks</a></p>
+<!-- #EndLibraryItem --><!-- InstanceEndEditable --> <!-- InstanceBeginEditable name="Discuss" -->
+<h3>Discuss:</h3>
+<p class="topnav"><a href="/Articles/WWW/usenet/newsgroups.htm">Newsgroup Access<br />
+</a><a href="/Articles/WWW/usenet/newsgroups.htm">Terms of Use</a></p>
+<!-- InstanceEndEditable -->
+<h3>Features:</h3>
+<div class="midlinks">
+<p><strong>Windows Service Configurations!</strong></p>
+<p>Includes complete explanations of each service and advice on which services you can safely disable.</p>
+<p><a href="/WinXP/servicecfg.htm" title="Windows XP Service Configuration Guide">Windows <acronym title="eXPerience">XP</acronym> Services</a></p>
+<p><a href="/WIN2K/servicecfg.htm" title="Windows 2000 Service Configuration Guide">Windows 2000 Services</a></p>
+<h3>Latest Guides:</h3>
+<p><a href="/Articles/WWW/usenet/how2newsOE6_01.htm">Access Newsgroups Using <acronym title="Outlook Express">OE</acronym> 6</a></p>
+<p><a href="/Articles/OS/Email/filter1.htm">E-Mail Filtering</a></p>
+<p><a href="/Articles/OS/fdisk/fdisk1.htm" title="FDISK Usage Guide">FDISK</a></p>
+<p><a href="/Articles/OS/Multiboot/multiboot1.htm" title="Multiple Operating System Information">Multi-Boot</a></p>
+<p><a href="/Articles/OS/InstallRH80/installrh8-1.htm" title="Red Hat Linux Installation Information">Red Hat 8.0 Install Guide</a></p>
+<p><a href="/AskBV/tech8.htm">Stop Messenger Service Spam for Free!</a></p>
+<p><a href="/Articles/OS/InstallXPHome/installxphome1.htm" title="Windows XP Home Installation Information">Windows <acronym title="eXPerience">XP</acronym> Home Install Guide</a></p>
+<p><a href="/Articles/OS/InstallXPPro/installxppro1.htm" title="Windows XP Home Installation Information">Windows <acronym title="eXPerience">XP</acronym> Professional Install Guide</a></p>
+<h3>Archives:</h3>
+</div>
+<p class="topnav"><a href="/GamesPlus/Diablo2beta/diablo2.htm" title="Barb fun, anyone?">Diablo 2 Beta</a><br />
+<a href="/News/old_news.htm" title="Old News and Some Good News">News Archive</a><br />
+<a href="/GamesPlus/Quake2Runs/quake2runs.htm" title="My FPS Fun">Quake 2</a><br />
+<a href="/GamesPlus/War3beta/war3beta.htm" title="Testing one of the best RTS">Warcraft 3 Beta</a></p>
+</div>
+</div>
+</body>
+<!-- InstanceEnd --></html>

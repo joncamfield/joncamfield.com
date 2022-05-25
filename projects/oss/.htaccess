@@ -1,0 +1,7 @@
+
+RewriteEngine On
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?joncamfield\.com/ [NC]
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?ictdev\.org/ [NC]
+RewriteCond %{HTTP_REFERER} !^$
+RewriteRule \.(iso)$ - [F]
+

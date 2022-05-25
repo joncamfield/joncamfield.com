@@ -1,0 +1,179 @@
+
+<HTML>
+<HEAD>
+<TITLE>The Command Line - The Best Newbie Interface? - OSNews.com</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#669900" VLINK="#669900" TOPMARGIN=1 MARGINHEIGHT=1 MARGINWIDTH=1 LEFTMARGIN=1" RIGHTMARGIN=1>
+<CENTER>
+<font face="Arial, Helvetica" size=3 color="#003300"><b>The Command Line - The Best Newbie Interface?</b></FONT>
+<P><FONT SIZE=1 FACE="Verdana,Arial" color="#000000">By <a href="mailto:richwareham-(AT)-users-(D0T)-sourceforge-(D0T)-net"</a>Richard Wareham</a> - Posted on 2004-03-08 20:49:13<br>
+at OSNews [<A HREF="http://www.osnews.com/">http://www.osnews.com/</a>]</FONT>
+</CENTER>
+<P><FONT SIZE=2 FACE="Arial" color="#000000">This essay describes the surprising results of a brief trial with a group of new computer users about the relative ease of the command line interface versus the GUIs now omnipresent in computer interfaces.  It comes from practical experience I have of teaching computing to complete beginners or <em>newbies</em> as computer power-users often term them.</FONT>
+<P><FONT SIZE=2 FACE="Arial,Verdana"><CENTER><P style={background:#EEEEEE;}><FONT FACE=\"Trebuchet MS, Arial\" SIZE=2 COLOR=#CC0000><B>Command Line is your friend, Page 1/4</B></FONT></P></CENTER>
+
+
+<B>Introduction</B><BR>
+Around 2001 I spent some time working part-time at a local adult-education centre teaching <acronym title="Computer Literacy and Information Technology"><a href="http://www.claithelp.fsworld.co.uk/start.htm">CLAIT</a> [http://www.claithelp.fsworld.co.uk/start.htm]</acronym>, a beginners computing course, to a wide variety of people. These were complete beginners; many had never turned on a machine before. It was as much an education to myself as it was to them.</P>
+<P>
+The key thing to remember about these newbies that I taught is that they were <em>not</em> in any way stupid or slow. Many of them had mastered complex technical jobs and excelled in their chosen field. All these people felt that they were being left behind by IT and that there was some percieved intellectual barrier to entering the computer-enhanced world. This initial assumption on their part is key to the following discussion. These people are technophobic both in that they fear being left behind by the rapid advance of technology and that they fear the technology itself. The former fear is best addressed at the social level but the latter fear may have some justification based on their mental model of the world.
+</p>
+
+<p>This essay describes some of the observations I made when giving some of the more advanced members tow brief session with a Linux session over SSH. A PuTTY window was made full screen and the users told that the computer was "now running in discussion mode". No mention of alternate operating systems was made until the end of the trial. The users were given a brief talk at the beginning of each session and a 'cheat-sheet' of common commands. The advanced users were encouraged to work with each other while I spent time with the rest of the class.</p>
+
+<B>A day in the life of Aunt Tillie</B>
+
+<p>Human beings are simply not brought up to deal with the GUIs of modern day computing systems. Consider the level of training that used to be involved with teaching one worker how to correctly interpret and operate a single control panel on some machine. To master modern GUIs, one must recall the operation, layout and relation to each other of hundreds, if not thousands, of such panels. The hardest skill being recalling or discovering the correct sequence of operations on one control panel to access a control panel relating to a desired operation.</p>
+
+<p>Compare this to modern day life. Such nested control panels are rare and single ones at least are uncommon (one example being ATMs). Instead, to discover the appropriate interface metaphor, we should consider one day in the life of the subject of many of Eric S. Raymond's famous thought experiments, <a href="http://www.faqs.org/docs/jargon/A/Aunt-Tillie.html">Aunt Tillie</a> [http://www.faqs.org/docs/jargon/A/Aunt-Tillie.html].</p>
+
+<p>Aunt Tillie has spent all her life coping quite well without computers. She has, no doubt, had a high-flying intellectual job and now in her twilight years she has moved into retirement. Aunt Tillie is not stupid. She is perfectly capable of dealing with people, places and things that arise in her life.</p>
+
+<p>A typical day for Aunt Tillie involves getting up, walking downstairs and checking for any post that may have been delivered. To do this she simply walks to the wicker box hanging under a slot in her door and opens it. She sees two envelopes and takes them to the breakfast table in the kitchen.</p>
+
+<p>Being a typical English lady, she likes to start the day with a refreshing cuppa. Putting on the kettle to boil she sits down and opens the envelopes one-by-one reading the contents of each letter before opening the next. One is a letter from her nephew Eric letting her know that all is well in America and that he is enjoying himself. Aunt Tillie places the letter on the side-table to remind her to write a reply later in the day. The second is some circular advertising some credit card Aunt Tillie neither wants, nor needs. She opts to throw it in the bin.</p>
+
+<p>By this point she realises that the kettle has boiled by the little click it made as it turned itself off. She goes to it and makes a nice cup of tea. Once she has finished her breakfast, Aunt Tillie sets off to do some shopping. Tillie always goes to the little corner grocer because she likes being able to talk about what products are on special offer and what she wants with the grocer. The conversations are usually restricted to fruit and veg but Tillie feels less intimidated talking to the grocer than having to go to the supermarket out of town and try to choose her shopping from the thousands of products on offer.</p>
+
+<p>Once she has finished shopping she goes home and unpacks. She sees the letter from Eric in the kitchen and is reminded to write him a note. She does so and pops it next to the letter box in the hall to remind her to take it out to the post box tomorrow.</p>
+
+<B>Features of Tillie's mental model of the world</B>
+
+<p>This is a natural day for most people and everyone is confident of how things in real life like letter boxes, kettles and grocers work. Let us try to extract some of the features about Tillie's life that make her comfortable and attempt to match them to some user interface for a computer system. Firstly, Tillie doesn't <em>do</em> more than one thing at a time. Certainly she 'multitasks', putting the kettle on while reading mail for example, but her attention is focused in one place at any one time. The indication to Tillie that the kettle has boiled is unobtrusive and effective but she defers dealing with it until after she has read her letters.</p>
+
+<p>Another feature of Tillie's life is known locations for known things. Letters have a certain place when they should be replied to and when they should be sent. Tillie does these things at different times during the day.</p>
+
+<p>Finally we notice the importance of dialogue in her life, both implicit and explicit. Tillie has an implicit dialogue with the letter box, opening and looking for letters is equivalent to asking the box 'Have you any letters' and it replying, in this case, 'Yes, two'. Tillie has explicit dialogue with the grocer while retrieving information about today's products. Tillie's life is rarely control panel driven. We don't see Tillie ticking items on a list of products in the grocers and giving it to the grocer. We don't see Tillie having to locate the open door button, navigate to the destination panel in her garden and remembering if she has to type 'grocers' or 'grocer' to get to the right place.</p>
+
+<p>Throughout the entire day there is an implicit element of discoverability, be it road signs at the appropriate places, notices placed prominently or things in expected or known places. This feature of day-to-day life is often one we overlook but it becomes painfully clear when we are placed in an environment which is not readily discoverable, such as a foreign country with unreadable notices and signs, or one which is unexpected, again a different culture provides different norms of behaviour to which we are not used. One could consider a newbie a tourist in the land of the computer. We must remember the neither know the language or the culture.</p>
+
+<CENTER><P style={background:#EEEEEE;}><FONT FACE=\"Trebuchet MS, Arial\" SIZE=2 COLOR=#CC0000><B>Command Line is your friend, Page 2/4</B></FONT></P></CENTER>
+
+
+
+<B>Application of Tillie's model to user interfaces</B>
+
+<p>Before discussing a computer interface for Tillie, we need to find out why she is using a computer. She has heard that computers can make her life easier and quicker. She has heard she could communicate with Eric without paying international postage. Someone told her that she could get groceries delivered to her door using something called 'online'. Basically she wants to see if she can do broadly the same tasks she does every day but quicker and easier. Tillie is not a gamer, a power-user or a hacker. She wants an interface that assumes you will be using the computer as much like a domestic servant as like a tool. We may assume that some knowledgeable user has initially set up her machine and Internet connection since Tillie will use the computer much like her washing machine, dishwasher and cooker. All of them are appliances installed, connected and tested by a qualified Engineer.</p>
+
+<p>We may now design an interface for Tillie to allow her to move some of her daily tasks to the computer. Referring to the previous section we can specify the desirable properties of a hypothetical 'perfect' computer interface from the point of view of mapping easily onto Tillie's existing model of the world:</p>
+
+<dl>
+<dt>Dialogue</dt><dd>Tillie is used to having dialogues with things or people. Such dialogues make her feel in control of what is happening and puts her at her ease.
+Like most humans she (perhaps somewhat unfairly) feels happier when she perceives herself to be the most intelligent or knowledgeable person in the dialogue.</dd>
+<dt>Tasks</dt><dd>At any one time, Tillie's attention is focused on one particular task. Other tasks may be progressing in the background but Tillie need not have to give them her attention until <em>she</em> wants to.
+<dt>Discoverable</dt><dd>The interface must, from first switch on, provide a clear direction for a new user to go. At each stage it should encourage experimentation while providing adequate notice of important or key features.</dd>
+<dt>Locations</dt><dd>Different task elements or objects have a place or method of access that is either well known or readily discoverable. Related tasks should be in nearby places. Tasks are related both by similarity and by concurrency; the letter to
+send is placed near the door so that Tillie sees it when exiting the house.</dd>
+<dt>Appropriate Notifications</dt><dd>When tasks wish to inform Tillie of an event, the 
+notification level should match the importance of the event. The kettle boiling is a small audible click, the fire alarm is a constant loud ringing. Tillie may choose to ignore any of these without interrupting her task but is aware of the relative risks in each case.</dd>
+</dl>
+
+<B>The Command line - a 'perfect' solution?</B>
+
+<p>In the remainder of this essay I will discuss why I believe that a command line interface (CLI) similar to that found in Unix and Unix-like operating systems is a surprisingly good match for Tillie. I will use some examples from the trial I conducted. I shall also describe how the existing Unix-like interface matches and extensions which could make it even better for Tillie. I'll discuss each of the desirable properties above individually.</p>
+
+<B>Dialogue</B>
+
+<p>The command line is all about dialogue. Newbies communicate with the computer by giving it commands/asking it questions and reading the response. All interaction is done via the keyboard, something familiar to the users in the CLAIT class, often from their experience of typewriters. One can give the users the mental model of writing the computer notes, or talking to it via Instant Message (depending on the experience of the newbie, quite a few middle aged newbies were familiar with MSN).</p>
+
+<p>The mouse was avoided initially. The command line is one-dimensional with a single point of concentration: the cursor. The vertical axis of the screen is always time and provides the newbie with a constant reminder of what they did along with a record to show their instructor when they have problems. Introducing a mouse causes the vertical axis to be both time and space depending on the nature of the program running. Also the users must get used to using a mouse, not easy for a new user let me assure you.</p>
+
+<p>Users find the model of CLI dialogue with the computer natural. Indeed one user has, when instructed in the basics of the Unix command line, said "Oh I see! I talk to the computer in text [speak]" referring to the common practise of removing vowels from SMS messages sent to and from mobile phones, especially in the UK. Once she had noticed this, she progressed rapidly in remembering the command names now pronouncing commands like '<code>mkdir</code>' as 'muk-dear' as opposed to 'em-kay-dee-eye-ah'.</p>
+
+<p>Experience with the CLAIT class above showed two things about the CLI method. One was that it mapped very naturally onto existing models for interaction. Users very quickly picked up on the '&lt;<em>verb</em>&gt; &lt;<em>subject</em>&gt;' syntax for commands and found it very useful. The second, most important, thing was that users reported that they felt more 'in control' with the CLI.</p>
+
+<p>This should possibly be discussed further. It was explained to the users that computers were stupid and would only do as you told them. They understood a special restricted form of language "as if you were talking to a child". "Much like children," it was said, "they should be told specifically what to do and if they don't understand they will ask for more detail". Users were assured that no effect they could have on the computer by typing could harm the PCs and that any accidental "removals" of files could be repaired.</p>
+
+<p>With this knowledge in place, the users immediately felt more in control as they perceived themselves as more intelligent, having to phrase their request in simple enough terms for the computer. This was opposed to their experiences with GUIs where they were the ones that felt like children pushing buttons at random on control panels. Since they were afraid that pushing the wrong button could cause disaster they were less inclined to experiment. With the CLI they could experiment secure in the knowledge that if the computer didn't understand, it would complain.</p>
+
+<p>This superior attitude encouraged experimentation because it gave the users the impression that they would actually have to state specifically how to break the computer if they were to make the machine do something wrong, something they were confident they were unlikely to do.</p>
+
+<B>Tasks</B>
+
+<p>It was noted by the users that the CLI was less confusing because "not everything is on the screen at once". The CLI allows the user to concentrate on one task at a time and they were happy not to have interruptions from other tasks. The users reported that with a GUI they were always getting distracted by having to swap between the mouse and keyboard and click carefully less they bring up the wrong window and interrupt what they were doing.</p>
+
+<p>Some users asked if it were possible to make the computer do some tasks "without waiting for them to be done". These users were introduced to the job control features of the <code>bash</code> shell. Here a small script was written by myself called '<code>inbg</code>' which was functionally equivalent to the ampersand (&amp;) modifier in <code>bash</code>. It is worth noting that the user who made the "text speak" remark immediately started pronouncing this "in background". The users were initially confused by the termination messages given by <code>bash</code> when a background task terminated but once it was explained that this was the computer saying that it had finished the task they found it very useful.</p>
+
+<p>At this point the users started to diverge between those who wanted their finish notifications to be printed as soon as the task finished and those that liked the way "the computer waited for me to finish what I was doing before telling me". This will be discussed further in the section dealing with extensions.</p>
+
+
+<CENTER><P style={background:#EEEEEE;}><FONT FACE=\"Trebuchet MS, Arial\" SIZE=2 COLOR=#CC0000><B>Command Line is your friend, Page 3/4</B></FONT></P></CENTER>
+
+
+<B>Discoverable</B>
+
+<p>This was the most pleasing part of the trial. Here the users were instructed that they could get help on a particular command with the 'man' command and were given a brief description of how to read them. They particularly liked the clear, consistent layout and references to other useful commands. Many users went 'man-page surfing' by looking at interestingly named commands referenced in other man pages. This increased their knowledge of the commands immensely.</p>
+
+<p>A message of the day was set up informing the users that the command "man commands" would get them a list of commands to get started with. An appropriate man page was written with a list of useful file access, modification and documentation commands along with information on how to move up and down in the file and to "get back to the discussion" (exit the man page reader and return to the command prompt). This was an important bootstrapping step as it got the users over the 'what-do-I-do-now' question when first confronted with the machine.</p>
+
+<p>Users were encouraged to maintain a list of interesting commands using the <code>pico</code> editor in their "personal space" (home directory, see 'Locations'). A brief competition arose between the users for who could find the "coolest" command. This also encouraged users to explore the system. All users reported that they found the <code>pico</code> editor easier to use than Word or Notepad because "it just tells you what to press". It is worth noting that earlier in their teaching they had been informed of the Control+key method of accessing menu options and the caret (^) notation. If I had been more brave perhaps some variant of the <code>vi</code> editor with its two modes would have been better -- remember secretaries used to use it in AT&amp;T to type patent applications.</p>
+
+<p>The mnemonic nature of Unix commands was surprisingly easier to remember than if they had been spelt out in their entirety. Apparently the vowel-less words and phrases gave the command names a "quirkiness" that was easier to remember. I suspect the wide-use of shortened mnemonic words in "text speak" helped here.</p>
+
+<p>Finally, all users were given a "rule of thumb" that often if they forgot how a command worked, the option '--help' or '-h' would print out a mini manual. The users were also very happy when told about Tab-complete. Especially the ability of <code>bash</code> to list all possible completions. Users reported that this was really useful when they forgot how to spell a command. One likened it to looking a word up in a dictionary where you know how is starts but forget some spelling in the middle.</p>
+
+<B>Locations</B>
+
+<p>Users were at first unsure of a hierarchical file system. They all seemed to adopt the room and mentality for file access. They understood the concept of a "file" as a name of a box where the computer will store some data which is placed in their personal "room" but directories proved a difficult concept for them to handle.</p>
+
+<p>One user grasped the concept rather early on and usefully described it to the others as "a box with other boxes in". He nicely demonstrated it by showing them he had created a "Remember box" with files inside outlining things he had to do. He illustrated how he could "look in the box" to remember what he had to do and could "open one of the boxes inside with pico" to remind himself of the details. This is something akin to Tillie placing letters near the door to remind her to post them; if you put things to remember in a single place then you only need remember where to look.</p>
+
+<p>When asked if the user did this at home he replied that he didn't because he never sees any "boxes" unless he opens "My Computer" and he would have to remember to do that every time he switched the machine on. He said that the "discussion mode [was] better because [he kept] seeing the Remember box as [he did] things".</p>
+
+<p>A small addition was made to the user's <code>.login</code> file which listed the contents of the Remember directory on login. The user was very pleased with this. The user asked how I had done it and I pointed him to the file. I said "this box holds a list of commands for the computer to do when you first turn it on". He was extremely excited by this new toy and the rest of the users quickly customised their own files to print out various messages and perform various tasks.</p>
+
+<p>It was pointed out that GUIs often have features to allow them to perform actions on login but the users were unaware of this. The couldn't visualise how to configure it because "you can't just tell the computer to click the right buttons in a file".</p>
+
+<B>Appropriate Notifications</B>
+
+<p>For the second brief session users were set up with mail accounts which could send messages to other users of the system. Their familiarity with pico lead me to attempt to use pine as their email client. This went well although users complained that they had lost some of the discussion ability. They asked if there was some program that could read mail "by discussion". Time constraints meant I avoided attempting to teach them old-school Unix <code>mail</code> but I suggested they read the man page. By this point the users had come to enjoy the command line interface because they "always know whats going on" as opposed to GUI or GUI-like interfaces where "everything happens at once".</p>
+
+<p>The e-mail system is easy for users to accept as it is has a direct analogy to the usual postage system. One interesting thing that I saw a few users do independently is to save important e-mails into their Remember directories. This strongly showed the importance of a known location for different classes of object in the interface. The culture of human-readable files in Unix helped here a lot because the users got used to just opening the Remember files in <code>pico</code> to check what to do.</p>
+
+<p>The <code>bash</code> shell has the option to inform users of the presence of new mail in a similar manner to how it notifies users of task termination. Again the users split into those who liked it that way and those who wanted to know immediately.</p>
+
+<p>All users preferred the <code>bash</code> notification to the alert box style used in GUIs. The users seemed to dislike sudden unexpected interruptions of what they were doing, preferring the computer to ask for clarification or repetition in its reply. Indeed many users said they were actually frightened when an alert box appeared.</p>
+
+<p>The large number of times the alert box was for some small, unimportant thing also annoyed users leading to the habit of just clicking 'OK' to get rid of them. The users reported that they often didn't read the alert boxes but always read notices on the command line because "they don't interrupt what you are doing".</p>
+
+<CENTER><P style={background:#EEEEEE;}><FONT FACE=\"Trebuchet MS, Arial\" SIZE=2 COLOR=#CC0000><B>Command Line is your friend, Page 4/4</B></FONT></P></CENTER>
+
+
+<B>Conclusions</B>
+
+<p>So what can we conclude from these experiments? Certainly the CLI had many advantages to the GUI in terms of the important areas I identified. The CLI had certain drawbacks to the GUI however which were reported by the users. Chiefly was the lack of any graphics or pictures. Should time and resource have allowed I would have liked to test the users with the graphics enabled version of the <code>links</code> web-browser to see if the hybrid CLI/GUI it provides would be better.</p>
+
+<p>All users, after an initial bootstrapping phase, preferred the CLI "discussion" method for interacting. All reported that they felt more in control and better able to find things out. This probably was due to the higher amount of interface consistency and more task-based interface that the CLI tends to encourage.</p>
+
+<p>It is far easier for programmers, naturally task based people, to code a useful, easy CLI program than a GUI. GUIs take more work to code than standard command line option processing and this is often reflected in the relative quality of interface between them. CLI options force the programmer into a more restrictive interface which is actually good for the newbie. Also the barrier to providing self-documenting discoverable programs is smaller. Documentation for each option is, in many cases, written as a side-effect of implementing the command processing.</p>
+
+<B>Extensions</B>
+
+<p>That being said, there is room for improvement in the CLI. A general notification system would be useful, much like <code>bash</code>'s mail and task notification system whereby background tasks could communicate events to users without interrupting their flow. Such a system would present the notifications either when the current command terminates like <code>bash</code> currently does or in some 'status area' of the terminal display, probably based on user preference.</p>
+
+<p>Perhaps these things could be combined into a new shell. One that also had a more unified method of job control, perhaps introducing '<code>inbg</code>' as a built in function.</p>
+
+<p>The trial also highlighted the need for a 'bootstrapping' step in the CLI to provide new users with a command or list of commands they can use to get started. The hypertext-like nature of man pages also encouraged discoverability by referencing other commands for the users to investigate. Perhaps some search command for man pages would be useful here (not <code>apropos</code>, that has never produced sensible answer for me).</p>
+
+<B>For the future</B>
+
+<p>I would ideally like to extend my little trial into a full newbie computing course where I teach the command line first before moving up into GUIs. I feel that my experiences here show that the CLI provides a far better environment for first-time computer users to find their feet. I believe it also gives them a better idea of what is actually happening inside their computer.</p>
+
+<p>Subsequently many of the users in the trial contacted me with questions of how to get their computers at home into discussion mode. It appeared that while, in the space of two sessions, they had become quite the CLI power-user they were still struggling with the GUI. At that time the <a href="http://www.linux-mandrake.com/">Mandrake Linux</a> [http://www.linux-mandrake.com/] distribution seemed a useful suggestion and I burnt a few CDs to take into the next class. What became of these after they left I don't know. I hope that at least one is still a CLI power-user.</p>
+
+<p>If I were to hold the trial now, I would probably recommend the <a href="http://www.knoppix.org/">Knoppix</a> [http://www.knoppix.org/] Linux live-CD so they could just "reboot into discussion mode".</p>
+
+<p>Please note that I made very few notes during these trials and they were a couple of years ago. They were never expected to be particularly scientific so please note that your newbies may vary. However the conclusions I draw here are the same ones I drew at the time and I would expect a similar trial to give similar results today.</p>
+<P>
+<U><B>About the Author</B></U><BR>
+<I>Rich Wareham is a 2nd year PhD student in the <A HREF="http://www-sigproc.eng.cam.ac.uk">Signal Processing Group</A> [http://www-sigproc.eng.cam.ac.uk] of 
+the Cambridge University Engineering Department. When not playing with  Geometric Algebra and proving theorems he enjoys learning about technology,  experimenting with new Unix technologies and teaching undergraduates about  Software Engineering.</I><BR><CENTER>( Original Story URL at <B>http://www.osnews.com/story.php?news_id=6282</B> )
+</CENTER>
+</FONT><BR>
+<FONT FACE="Verdana,Arial" SIZE=1 COLOR="#669966"><CENTER>
+Copyright <A HREF="home.php">OSNews.com</A> 1997-2004. All Rights Reserved.<BR>
+All trademarks, icons, and logos, shown or mentioned in this web site, are the property of their respective owners.<BR>
+<B>Reproduction of OSNews stories is granted only by explicitly receiving authorization from OSNews and if credit is given to OSNews.</B><BR>
+</CENTER></FONT>
+</BODY>
+</HTML>

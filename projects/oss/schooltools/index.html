@@ -1,0 +1,913 @@
+<HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" 
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<head><title>School Tools</title>
+<meta name="Author" content="Jon Camfield, Peace Corps Volunteer.  
+Contact via GriffJon.com" />
+<meta name="MSSmartTagsPreventParsing" content="TRUE" />
+<meta name="Version" content="1.3 - More Open Source tools from 
+SourceForge, expanded Guide and Reference Section">
+<style type="text/css">
+<!--
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.title {
+ font-size: 24pt;
+ font-weight: bold;
+ font-style: normal;
+ font-family: comic sans MS, times new roman, serif;
+ letter-spacing: .25em;
+ color: #fff;
+ margin: 0px;
+ padding: 0px;
+}
+
+.subtitle {
+ font-size: 12pt;
+ font-weight: normal;
+ font-style: italic;
+ font-family: comic sans MS, times new roman, serif;
+ letter-spacing: .25em;
+ color: #ddd;
+ line-height: 12pt;
+ margin: 0px;
+ padding: 0px;
+}
+
+
+.header {
+ font-size: 20pt;
+ font-weight: normal;
+ font-style: normal;
+ font-family: impact, arial black, sans-serif;
+}
+
+.subheader {
+ font-size: 16pt;
+ line-height: 16pt;
+ margin: 0px;
+ margin-left: 10px;
+ padding-top: 5px;
+ padding-left: 15px;
+ padding-bottom: 0px;
+ font-weight: normal;
+ font-style: normal;
+ font-family: times new roman, serif;
+}
+
+h3 { 
+ color: #800;
+ font-size: 14pt;
+ font-weight: bold;
+ font-family: comic sans MS, times new roman, serif;
+}
+
+dt.main {
+ color: #800;
+ font-size: 14pt;
+ font-weight: bold;
+ font-family: comic sans MS, times new roman, serif;
+}
+
+dt {
+ padding-left: 20px;
+ color: #800;
+ font-weight: bold;
+ font-family: comic sans MS, times new roman, serif;
+}
+
+
+
+dd {
+
+}
+
+.tabcontent {
+  padding: 0px;
+  margin: 0px;
+  background: #fff;
+  position: absolute;
+  left: 0px;
+  display: block;
+  border: 2px solid #000;
+  visibility: hidden;
+  padding: 10px;
+  margin-top: -2px;
+
+  background-image: url(cd.gif);
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+
+#tab {
+  text-align: center;
+  font-size: 10pt;
+}
+
+a {
+  font-family: comic sans MS, times new roman, serif;
+}
+
+a:visited {text-decoration: none}
+a:link {text-decoration: none}
+a:hover {text-decoration: underline}
+
+a.hlink {text-decoration: none}
+a.hlink:hover {color:#eee; text-decoration: underline;}
+
+-->
+</style>
+
+<SCRIPT language="JavaScript">
+<!-- Hide
+
+var hidden = "hidden";
+var visible = "visible";
+
+function checkin(id) { 
+if (document.getElementById) // NN6, IE5, Opera 5
+  {return document.getElementById([id]).style;}
+else if (document.all) // IE4
+  {return document.all[id].style;}
+else if (document.layers) // NN4
+  {return document.layers[id];} 
+}
+
+function loadvisible(id) {
+      oldObj = checkin(id);
+      oldObj.visibility = visible;
+      tabid = id + "tab";
+      oldtabObj = checkin(tabid);
+      oldtabObj.backgroundImage = 'url(tab_on.gif)';
+}
+
+function tabload(id,setVisible) {
+      oldObj.visibility = hidden;
+      oldtabObj.backgroundImage = 'url(tab_off.gif)';
+      daObj = checkin(id);
+      tabid = id + "tab";
+      tabObj = checkin(tabid);
+
+      if (setVisible == hidden) {
+        daObj.visibility = hidden;
+	tabObj.backgroundImage = 'url(tab_off.gif)';
+     }
+
+  if (setVisible == visible) {
+  tabObj.backgroundImage = 'url(tab_on.gif)';
+        daObj.visibility = visible;
+	oldObj = daObj;
+	oldtabObj = tabObj;
+       }
+}
+// -->
+</SCRIPT>
+<body bgcolor="#ffffff" text="#000000" topmargin="0" leftmargin="0" 
+marginwidth="0" marginheight="0" onload="loadvisible('intro')">
+<table height="60" border=0 cellpadding=0 cellspacing=0 width=100% 
+style="border-bottom: 1px solid #888">
+<tr><th><script type="text/javascript"><!--
+google_ad_client = "pub-3576425780629643";
+google_ad_width = 800;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text_image";
+google_ad_channel ="";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></th></tr>
+<tr><td valign=top bgcolor="#555555">
+
+<div align="right" style="float: right">
+
+<script Language="JavaScript"> <!--
+document.write('<script src="http://www.joncamfield.com/code/trans/translate.js"><\/script>');
+//-->
+</script>
+</div>
+
+<h1 class=title align=center>School Tools</h1><h3 align="center" 
+class="subtitle">By Jon Camfield</h3>
+</td></tr>
+<tr><td colspan="2" valign="bottom" bgcolor="#555555">
+<center>
+<table cellspacing=0 cellpadding=0 border=0>
+<tr>
+<td width="25"> </td>
+<td width=125 valign=bottom id=introtab background="tab_off.gif">
+<center><a href="#" id=tab onclick="tabload('intro',visible)">Intro</a>
+</center></td>
+<td width=125 valign=bottom id=mediatab background="tab_off.gif">
+<center><a href="#" id=tab onclick="tabload('media',visible)">Media</a>
+</center></td>
+<td width=125 valign=bottom id=officetab background="tab_off.gif">
+<center><a href="#" id=tab 
+onclick="tabload('office',visible)">Office</a>
+</center></td>
+<td width=125 valign=bottom id=educationaltab background="tab_off.gif">
+<center><a href="#" id=tab 
+onclick="tabload('educational',visible)">Education</a>
+</center></td>
+<td width=125 valign=bottom id=internettab background="tab_off.gif">
+<center><a href="#" id=tab onclick="tabload('internet',visible)">Net</a>
+</center></td>
+<td width=125 valign=bottom id=utilstab background="tab_off.gif">
+<center><a href="#" id=tab onclick="tabload('utils',visible)">Tools</a>
+</center></td>
+<td width=125 valign=bottom background="tab_off.gif">
+<center><a href="Reference/reference.html" id=tab>Reference</a>
+</center></td>
+<td width="25">&nbsp;</td>
+
+</tr>
+</table>
+
+</center>
+
+
+
+</td></tr>
+</table>
+<table width="100%" ID=intro class=tabcontent>
+<tr><td>
+<h2 class=header>Welcome...</h2>
+<p>This page is designed to provide schools with a wide array of useful 
+tools and utilities to help manage and maintain computer labs.  It 
+contains software that is free, and often "open source" software, which 
+means that if needed, the school can modify the software to fit its own 
+needs.</p>
+<p>This was originally (and with any hope still is) a resource CD for 
+schools in Jamaica which had little if any Internet, but did have 
+computers that desparately needed virus protection, educational 
+software, and so on.  Obviously, in changing it to a website, I didn't 
+want to get into any hot water about copyrights/distribution rights, so 
+I merely provide links to the software on the developer's site.</p>
+<p>It is loosely modeled after the excellent project, <a 
+href="http://www.theopencd.org/" target="_blank">TheOpenCD</a>, which is 
+a showcase of free/open source software.</p>
+<p>By clicking on the other tabs above, you may navigate to the sections 
+of software available on the Internet.  Each section has its own 
+instructions 
+and recommendations for use.  In general, here is what is found under 
+each section:</p>
+<dl>
+<dt class="main"><a href="#" onclick="tabload('media',visible)">Media 
+&gt;&gt;</a> </dt>
+<dd>This contains various media players to listen to music, watch 
+videos, and also some tools for media creation -- a professional 
+graphics program, as well as a tool to broadcast music over the 
+Internet.</dd>
+<dt class="main"><a href="#" onclick="tabload('office',visible)">Office 
+&gt;&gt;</a> </dt>
+<dd>This contains productivity software, like OpenOffice -- a free 
+Office suite that can read and write MS Office files.</dd>
+<dt class="main"><a href="#" 
+onclick="tabload('educational',visible)">Educational &gt;&gt;</a> </dt>
+<dd>Games and learning software that can be found useful in classes to 
+teach math, literacy, critical thinking and typing/computing skills</dd>
+<dt class="main"><a href="#" 
+onclick="tabload('internet',visible)">Internet &gt;&gt;</a> </dt>
+<dd>Programs useful for utilizing the Internet -- up-to-date web 
+browsers, FTP programs, etc.</dd>
+<dt class="main"><a href="Reference/reference.html">Reference 
+&gt;&gt;</a> </dt>
+<dd>References, documentation, and curricula to use in your lessons</dd>
+
+</dl>
+
+<h2 class=header>Using this Web Site</h2>
+<h3>Installing "Zip" Software</h3>
+<p>Many computer will already have "WinZip" installed, and Windows XP 
+handles it automatically.  However, if, while you are installing any 
+software from this listing, to locate the program to read ZIP files, you 
+need 
+to install what is called archiving software.  This 
+software allows you to shrink one or many files into a single, much 
+smaller, file.  Two programs are included to do this.  One is 
+completely free, called ICEows.  It supports ZIP and many other 
+ formats, and has its own format (ICE) that can be used to 
+split up files across many floppy disks if you have a really large file 
+to copy.  You can <a href="../tools/Ice420U.exe">install ICEows 
+here</a>.  This listing also includes WinZip, which is familiar and easy 
+to 
+use.  It expires after 30 days, but can still be used to unzip files.  
+You can <a href="../tools/winzip81.exe">install WinZip here</a>.</p>
+
+<h3>Where to start?</h3>
+      <p>Admittedly, there is a whole heap of tools and software 
+to 
+use. Start off 
+        with the next chapter, Optimization, and once you get your 
+computer in 
+        top shape, consider what you need, and what the computer will be 
+used 
+        as. If it is to be used by children, you might focus on the 
+Educational 
+        section and look at the paint programmes and typing programmes 
+aimed at 
+        children. If it is to be used in an office setting, you will 
+want to focus 
+        on the Office section, and possibly the Media and Utilities 
+sections. 
+        If you have students interested in media creation, you can use 
+tools from 
+        this list to do things such as fly 
+        around the solar system, create web pages, make live 
+Internet radio stations and more!</p>
+<br clear=all>
+<br><br><br><br><br>
+</td></tr></table>
+
+<table width="100%" ID=media class=tabcontent>
+<tr><td>
+<h2 class=header>Media</h2>
+
+<h3>Graphics/Animation</h3>
+<dt><dt><a href="http://www.megalux.hu/upaint/">Ultimate Paint</a> </dt>
+<dd>Advance Paint program with great filters</dd>
+<dt><dt><a 
+href="http://www.adobe.com/products/photoshopalbum/starter.html">PhotoShop 
+Album Starter Edition</a> </dt>
+<dd>Manage digital photos-edit, arrange into albums and create 
+presentations</dd> 
+
+<!--<dt><dt><a 
+href="http://www.eecs.wsu.edu/paint.net/">Paint.NET</a> 
+</dt>
+<dd>A free MSPaint replacement from the University of Washington, 
+requires the .NET framework</dd>-->
+<dt><dt><a href="http://www.irfanview.com/">Irfan View</a> </dt>
+<dd>A free utility to browse and print images</dd>
+<dt><dt><a href="http://www.vallen.de/freeware/">JPegger</a> </dt>
+<dd>A free utility to browse and print images</dd>
+<dt><dt><a href="http://www.gimp.org/">Gnu Image Manipulation Program 
+2.2</a> </dt>
+<dd>"GIMP" is an open source, free, professional-grade image program, 
+much like Photoshop.  The <a 
+href="MediaTools/GIMP/gtk+-2.4.14-setup.exe">GTK library</a> must be 
+installed first.  Also check out the <a 
+href="MediaTools/GIMP/gimp-gap-2.0.2-setup.exe">Animation 
+Package</a>.</dd>
+<dt><dt><a href="http://www.newbreedsoftware.com/tuxpaint/">Tux 
+Paint</a> </dt>
+<dd>An easy-to-learn paint program great for schoolchildren -- use it to 
+teach colors and shapes, as well as how to use a mouse.  Add <a 
+href="educational/tuxpaint-stamps-2003.12.23-win32-installer.exe">Tux 
+Stamps</a> for additional clipart and features, and <A 
+href="Educational/JaStampsSetup.exe">Jamaica Stamps</a> for some 
+Jamaican pictures to use.</dd>
+<dt><dt><a href="http://ranfo.com/iconedit.html">IconEdit</a> </dt>
+<dd>Edits and creates icons suitable for Windows</dd>
+
+<h3>Sound</h3>
+<dt><dt><a href="http://audacity.sourceforge.net/">Audacity</a> </dt>
+<dd>Open-Source Sound editing software</dd>
+<dt><dt><a href="http://www.fruityloops.com/">Fruity Loops 3.5.6 
+(demo)</a> </dt>
+<dd>FruitLoops lets the user make beats and sequence music quickly and 
+easily</dd>
+<dt><dt><a href="http://www.winamp.com/player/">Winamp 5</a> , <a 
+href="MediaTools/winamp281_full.exe">WinAmp 2.8 MP3 player</a> </dt>
+<dd>WinAmp is a popular audio player, which can be used in many 
+interesting ways.  You might want <a 
+href="MediaTools/Multiple-DSP_Stacker.exe">DSP Stacker</a> to use 
+multiple DSP effects</a></dd>
+<dt>WinAmp Shoutcast: (<a 
+href="MediaTools/shoutcast_howto.html">Guide</a>) (<a 
+href="MediaTools/shoutcast-dsp-1-8-2b-windows.exe">plugin</a>) (
+<a href="MediaTools/shoutcast-1-9-4-windows.exe">Server</a>) (<a 
+href="http://www.shoutcast.com/">WWW</a>) </dt>
+<dd>With a high-speed Internet connection, ShoutCast can be used to 
+broadcast an Internet radio station from your school, with original 
+content created by the students</dd>
+<dt><dt><a href="http://www.apple.com/itunes">iTunes</a> </dt>
+<dd>iTunes is a powerful media player/library management with audio-CD 
+burning capabilities</dd>
+<dt>DbPowerAmp: <dt><a href="http://www.dbpoweramp.com/">dBPowerAmp 
+Media Player</a>, <a 
+href="MediaTools/dBpowerAMP-DSP-Karaoke.exe">Karaoke plugin</a>, <a 
+href="MediaTools/dBpowerAMPCDWriter-UnRegistered.exe">CD-Burning 
+plugin</a> </dt>
+<dd>Various Audio tools for the dBPowerAmp player</dd>
+
+<h3>Video/Multimedia</h3>
+<dt><dt><a href="http://www.videolan.org/vlc/">VideoLan Client</a></dt>
+<dd>FREE All-in-one video player for every playform (Windows, Mac, 
+Linux, and more), that additionally has network/broadcasting 
+abilities</dd>
+<dt>Windows Media Player, for <dt><a 
+href="http://windowsmedia.com/download">Windows XP</a>, <a 
+href="MediaTools/MPSetup.exe"> ME/98SE</a>, <a 
+href="MediaTools/mp64full95NT.exe">Windows 95/NT</a></dt>
+<dd>Plays most audio and video formats</dd>
+<dt><dt><a 
+href="http://www.microsoft.com/windows/directx/default.aspx">DirectX 
+9.0b</a> </dt>
+<dd>DirectX Drivers</dd>
+<dt><dt><a href="http://www.apple.com/quicktimes">iTunes + Quick Time 
+6.3</a> </dt>
+<dd>Movie player for Macintosh .mov and .qt files</dd>
+<dt><dt><a href="http://www.free-codecs.com/">Video Codecs</a> </dt>
+<dd>All-in-one package of video codecs, supports DiX 5.1.1, XViD 1.0 
+Final, AC3, MPEG, Subtitles and OGG Vorbis</dd>
+<dt><dt><a href="http://www.headbands.com/gspot/">GSpot</a> </dt>
+<dd>Discover what type of media, and what codecs are used/needed to play 
+it</dd>
+<dt><dt><a href="http://www.real.com">Real Player</a> </dt>
+<dd>Real Player is a common video format used to stream video from the 
+Web</dd>
+<dt><dt><a href="http://www.shockwave.com/">Shockwave</a> </dt>
+<dd>Shockwave allows you to view Flash animations on the Web, and play 
+Shockwave games</dd>
+
+<h3>CD Burning/Ripping</h3>
+<dt><a 
+href="http://www.cdburnerxp.se/">Win XP CD extensions</a></dt>
+<dd>Better interface to the Windows XP CD burning wizard that includes 
+ISO creation/burning</dd>
+<dt><a href="http://www.majorgeeks.com/download4402.html">Virtual CD Control 
+Panel</a></dt>
+<dd>Mount CDs on your hard drive</dd>
+<dt><dt><a href="http://www.burn4free.com/">Burn4Free</a> </dt>
+<dd>Free CD Burning software</dd>
+<dt><dt><a href="http://www.elpros.si/CDCheck/">CDCheck</a> </dt>
+<dd>CD Checking/Recovery tool</dd>
+<dt><dt><a href="http://www.labdv.com/dvdx/">DVDx</a> </dt>
+<dd>A tool to archive DVDs to DivX formats which can fit on normal 
+CD-Rs</dd>
+<dt><dt><a href="http://www.cdex.n3.net/">CDex</a> </dt>
+<dd>A tool to convert CDs into MP3s automatically</dd>
+<dt><dt><a 
+href="http://www.softwarepatch.com/windows/xpvirtualcd.html">Virtual CD 
+Controller</a></dt>
+<dd>A way to archive CDs to your hard drive, for programs that require a 
+CD to be in the drive to run (Expedia, Encarta, etc.)</dd>
+<h3>Web Design</h3>
+<dt><a href="#" id=tab onclick="tabload('internet',visible)">Web Design 
+Software</a></dt>
+<dd>See the Internet section for Web Design software.</dd>
+
+
+<br clear=all><br><br><br><br><br>
+</td></tr></table>
+
+<table width="100%" ID=office class=tabcontent>
+<tr><td>
+<h2 class=header>Office</h2>
+<dt><dt><a href="http://www.openoffice.org">Open Office 2.0</a> </dt>
+<dd>Open Office is an open-source project, giving a free alternative to 
+MicroSoft Office.  It can read and write Word, Excel, and PowerPoint 
+files. <em>May require installation of unicode drivers, <a 
+href="Office/unicows.exe">unicows</a></em>.  You may want to install <A 
+href="Internet/j2re-1_4_2_01-windows-i586-iftw.exe">Java</a> before you 
+install Open Office, for extended functionality..</dd>
+
+<dt><dt><a 
+href="http://www.adobe.com/products/acrobat/readstep2.html">Adobe 
+Acrobat Reader 5.1</a> </dt>
+<dd>This very common program allows you to view and print PDF files</dd>
+<dt><a href="Office/AdbeRdr60_enu_full.exe">Adobe Acrobat Reader 6.0</a> 
+(Windows 98 SE and better only) (<a 
+href="http://www.adobe.com/products/acrobat/readstep2.html">WWW</a>) 
+</dt>
+<dd>This very common program allows you to view and print PDF files</dd>
+<br clear=all><br><br><br><br><br>
+</td></tr></table>
+
+<table width="100%" ID=educational class=tabcontent>
+<tr><td>
+<h2 class=header>Educational</h2>
+<h3>Computation</h3>
+<dt><dt><a href="http://www.newbreedsoftware.com/tuxpaint/">Tux 
+Paint</a> </dt>
+<dd>An easy-to-learn paint program great for schoolchildren -- use it to 
+teach colors and shapes, as well as how to use a mouse.  Add <a 
+href="educational/tuxpaint-stamps-2003.12.23-win32-installer.exe">Tux 
+Stamps</a> for additional clipart and features, and <A 
+href="Educational/JaStampsSetup.exe">Jamaica Stamps</a> for some 
+Jamaican pictures to use.</dd>
+<dt><dt><a href="http://www.newbreedsoftware.com/tuxpaint/">Tux Type 
+2</a> </dt>
+<dd>A great program to teach keyboard layout, finger usage, and speed 
+typing.  Run <a href="Educational/JaType-Setup153.exe">this setup</a> 
+and then you can select "Jamaican" from language options for a Jamaican 
+theme!</dd>
+<dt><dt><a href="http://www.giletech.com/Typing-Tutor.htm">10 Finger 
+Breakout</a> </dt>
+<dd>Play a classic "Breakout" game while learning keyboarding</dd>
+<dt><dt><a href="http://www.aetech.co.uk/ttutor/download.html">Typing 
+Tutor</a> </dt>
+<dd>A typing tutor (works on older machines)</dd>
+
+<h3>Science</h3>
+<dt><dt><a href="http://www.shatters.net/celestia/">Celestia</a> </dt>
+<dd>Fly around the solar system, with beautiful views of the planets and 
+stars -- keep track of the International Space Station in real time!  
+Also available in a <a 
+href="educational/celestia-win32-1.3.2.exe">High-Resolution Version</a> 
+for computers with 3D graphics cards<br>
+Browse <a href="educational/celestia/">Celestia Resources</a> for lesson 
+plans and guides to using Celestia in your classroom.</dd>
+<dt><a href="educational/stellarium.exe">Stellarium</a></dt>
+<dd>Look at tonight's sky</dd>
+<dt><dt><a href="http://earth.google.com">Google Earth</a></dt>
+<dd>Fly to anywhere on the Earth and see the sights!  Requires 
+connection to the Internet</dd>
+<dt><A href="educational/menstrua.exe">Menstrua</a> (<a 
+href="http://archives.math.utk.edu/software/msdos/life.sciences/menstrua/">WWW</a>) 
+</dt>
+<dd>Learn about the menstruation cycle (Works in DOS)</dd>
+<dt><dt><a 
+href="gopher://life.anu.edu.au/59/landscape_ecology/software/curacao.zip">Curcacao</a> 
+</dt>
+<dd>A simulation of pest control methods</dd>
+<dt><dt><a 
+href="http://www.geocities.com/willboyne/nosurrender/PotatCom.html#Late%20Blight%20Simulation">LateBlight</a> 
+</dt>
+<dd>A game simulating plant disease spread</dd>
+
+<h3>Literacy</h3>
+<dt><dt><a href="http://www.yourchildlearns.com/learnletters.htm">Letter 
+Learner</a> </dt>
+<dd>Teaches the letters</dd>
+<dt><dt><a href="http://www.yourchildlearns.com/lettersounds.htm">Letter 
+Sounds</a> </dt>
+<dd>Connect the letter with the sound (requires sound card and 
+speakers/headphones)</dd>
+<dt><dt><a href="http://www.alan-warriner.co.uk">Rebecca's Letters and 
+Numbers</a> </dt>
+<dd>Teach letters and numbers on the computer</dd>
+
+<h3>Math</h3>
+<dt><a href="educational/sorting.exe">Sorting</a></dt>
+<dd>Sorting game</dd>
+<dt><a href="educational/NumberBoard.exe">NumberBoard</a></dt>
+<dd>A Calculation game</dd>
+<dt><dt><a href="http://www.newbreedsoftware.com/tuxmath/">Tux Math</a> 
+</dt>
+<dd>A "Missile Command" Game that teaches Math</dd>
+<dt><dt><a href="http://www.mathscribe.com/">MathScribe</a> </dt>
+<dd>Graphing and Equation editing</dd>
+<dt><a href="educational/SetupGraph.exe">Graph</a></dt>
+<dd>Function Graphing</dd>
+<dt><a href="educational/ConverterSetup.exe">Converter</a></dt>
+<dd>Convert almost any measurement unit</dd>
+<dt><dt><a 
+href="http://spanky.triumf.ca/www/fractint/fractint.html">Fractint</a> 
+</dt>
+<dd>A program to explore the beautiful patterns made by fractals</dd>
+<dt><dt><a href="http://www.superliminal.com/cube/cube.htm">Magic Cube 
+4d</a> </dt>
+<dd>A 4-Dimensional Rubiks Cube!</dd>
+
+<h3>Music</h3>
+<dt><dt><a href="http://familygames.com/free/notecard.html">NoteCard</a> 
+</dt>
+<dd>NoteCard is a small program with a simple purpose: to help you learn 
+to read the musical notes, and to recognize them instantly.</dd>
+<dt><a href="educational/fmusic19.zip">Fractal Music Generator (Zipped) 
+(<a href="http://www.fractal-vibes.com/fm/">WWW</a>) </dt>
+<dd>Creates music out of fractal patterns.  Requires <a 
+href="educational/mfc40rt.exe">this library</a></dd>
+
+<h3>Integrated Studies</h3>
+<dt><dt><a 
+href="http://www.mape.org.uk/activities/#Whodunnit?">WhoDunnit?</a> (for 
+<a href="educational/whodunnit.sit">Mac</a> </dt>
+<dd>Help Sherlocke Holmes solve mysteries</dd>
+
+<h3>School Administration</h3>
+<dt><A href="educational/cproof-1.exe">ChildProof</a> (<a 
+href="http://www.cs.uu.nl/people/markov/kids/cproof.html">WWW</a>) </dt>
+<dd>Child-Proof a computer desktop, locking down features</dd>
+
+<dt><a href="#" id=tab onclick="tabload('internet',visible)">Lab 
+Administration</a> </dt>
+<dd>See the Internet section for lab administration software (Policy 
+Mangement, Proxy servers...)</dd>
+
+<h3>Programming</h3>
+<dt><a href="educational/Scratch13Oct04.exe">Scratch/Squeak</a> </dt>
+<dd>Scratch, a visual programming tool.</dd>
+<dt><a href="educational/vcsetup.exe">MS Visual C++ Educational 
+Edition</a> </dt>
+<dd>Create programs in Visual C++</dd>
+<dt><a href="educational/vbsetup.exe">MS Visual Basic Educational 
+Edition</a> </dt>
+<dd>Create programs using Visual Basic</dd>
+<dt><a href="Internet/INDIGOPERL-5.6.ZIP">Perl + Apache Web Server</a> 
+(<a href="http://www.apache.org">WWW</a>, See also <a 
+href="http://www.indigostar.com/indigoperl.htm">IndigoPerl</a>) </dt>
+<dd>Perl is a very powerful language for reading and editing files, web 
+development, and more.  This distribution includes the Apache web 
+server</dd>
+<dt><A href="Internet/j2re-1_4_2_01-windows-i586-iftw.exe">Java</a> (<a 
+href="http://java.com/en/index.jsp">WWW</a>) </dt>
+<dd>Java Runtime Engine</dd>
+<dt><dt><a 
+href="http://lab.msdn.microsoft.com/express/default.aspx">Visual Basic 6 
+Runtime</a> </dt>
+<dd>The runtime files for VB6</dd>
+<dt><A href="Tools/Spoon-Installer-r8.exe">Spoon Installer</a> (<a 
+href="http://www.dbpoweramp.com/developer-spoon-installer.htm">WWW</a>) 
+</dt>
+<dd>Make your own program installations</dd>
+<dt><dt><a 
+href="http://www.users.on.net/~johnson/resourcehacker/">ResHack</a> 
+</dt>
+<dd>Modify existing programs with new text and graphics</dd>
+<dt><dt><a 
+href="http://www.angelfire.com/falcon/speedload/Enabler.htm">Enabler</a> 
+</dt>
+<dd>Find, show, and hide buttons and hidden options in programs</dd>
+<br clear=all><br><br><br><br><br>
+</td></tr></table>
+
+<table width="100%" ID=internet class=tabcontent>
+<tr><td>
+<h2 class=header>Interent</h2>
+<h3>Web Browsing</h3>
+<dt><dt><a href="http://toolbar.google.com/">Google ToolBar for IE</a> 
+</dt>
+<dd>The Google Toolbar blocks pop-ups and lets you search Google from 
+your browser! (This is built-in with Mozilla and FireFox browsers)</dd>
+<dt><dt><a href="http://mozilla.org/products/firefox/">Mozilla 'FireFox' 
+Internet Browser</a> </dt>
+<dd>Mozilla 'FireFox' Web Browser -- Blazingly fast, with good default 
+settings for privacy, use <dt><a 
+href="http://www.totalidea.com/freestuff4.htm">Fire Tune</a> to 
+customize it to your computer and Internet speeds.</dd>
+<dt><dt><a href="http://update.mozilla.org/">FireFox Extensions</a> 
+</dt>
+<dd>Plug-ins for FireFox.  AdBlock is a particularly powerful one which 
+improve web surfing speeds on modems dramatically by not downloading 
+advertisements, now automatically-updating if you also install 
+FilterSet.G Updater!</dd>
+<dt><dt><a href="http://www.Opera.com">Opera Web Browser</a></dt>
+<dd>Opera is less fully-featured than Firefox, but it is super-fast and 
+may be better suited for slower computers</dd>
+<dt><A href="Internet/j2re-1_4_2_01-windows-i586-iftw.exe">Java</a> (<a 
+href="http://java.com/en/index.jsp">WWW</a>) </dt>
+<dd>Java Runtime Engine</dd>
+<dt><dt><a href="http://www.shockwave.com">Shockwave</a> </dt>
+<dd>Shockwave allows you to view Flash animations on the Web, and play 
+Shockwave games</dd>
+<dt>Lynx <dt><a href="http://lynx.browser.org/">(Win NT/2k/XP)</a>, <a 
+href="Internet/LYNX-win32.zip">(Win98)</a> </dt>
+<dd>Lynx is an extremely fast web browser, as it is text-only. Excellent 
+for slow connections.
+
+<h3>Web Design</h3>
+<dt><dt><a href="http://www.evrsoft.com/">1st Page 2000</a> </dt>
+<dd>Web Design Program that adapts to your level of knowledge</dd>
+<dt><dt><a href="http://www.w3.org/Amaya/">Amaya</a> </dt>
+<dd>Official web development tool developed by the World Wide Web 
+Consortium, also contains tools to validate existing web pages.</dd>
+<dt><a href="MediaTools/Arachnophilia.exe">Arachnophilia</a>(<a 
+href="http://www.arachnoid.com/arachnophilia/">WWW</a>) </dt>
+<dd>An excellent customizable tool to create web pages.
+</dd>
+<dt><A href="Internet/keyexi.exe">Keyword Extractor</a> (<a 
+href="http://www.analogx.com/contents/download/network/keyex.htm">WWW</a>) 
+</dt>
+<dd>Helps you optimize keywords in web pages</dd>
+<dt><A href="Internet/whoisi.exe">Whois</a> (<a 
+href="http://www.analogx.com/contents/download/network/whois.htm">WWW</a>) 
+</dt>
+<dd>Finds names available for your website</dd>
+
+<h3>Internet Utilities</h3>
+<dt><dt><a href="http://www.ceruleanstudios.com/">Trillian 3.1</a> </dt>
+<dd>A program to interface with any chat/Instant Messaging system (like 
+Yahoo!, MSN, AIM, ICQ...)</dd>
+<dt><dt><a href="http://gaim.sourceforge.net/">GAIM</a> </dt>
+<dd>An open source IM program that also includes Jabber support, and 
+spell-checking</dd>
+<dt><a href="http://www.viksoe.dk/code/gmail.htm</a> </dt>
+<dd>Use your Google Mail account as networked file storage</dd>
+<dt><dt><a href="http://www.ftpplanet.com/downloadLE.asp">WS FTP</a> 
+</dt>
+<dd>Easy FTP program for uploading files to websites</dd>
+<dt><dt><a href="http://winscp.sourceforge.net/eng/">Win SCP</a> </dt>
+<dd>Visual Secure-FTP/SecureCopy (scp) program for Windows to upload 
+files to websites</dd>
+<dt><dt><a 
+href="http://www.mozilla.org/projects/thunderbird/">ThunderBird</a> 
+</dt>
+<dd>A high-quality open-source email client with spam-filtering built 
+in</dd>
+<dt><dt><a href="http://www.ypopsemail.com/">YahooPOPS</a> </dt>
+<dd>Enables using Yahoo! mail like a POP3 client for normal email 
+programs (Outlook, Eudora, etc.)</dd>
+<dt><dt><a href="http://azureus.sourceforge.net/">Azureus</a></dt>
+<dd>A powerful bitTorrent client -- makes sharing large files easy and 
+fast!</dd>
+<dt><dt><a 
+href="http://www.oldversion.com/program.php?n=kazaalite">Kazaa Lite</a> 
+</dt>
+<dd>An ad-free version of Kazaa, used to download programs and 
+music</dd>
+<dt><dt><a 
+href="http://www.oldversion.com/program.php?n=kazaalite">Kazaa Lite K++ 
+2.43</a> </dt>
+<dd>A more advanced ad-free version of Kazaa with privacy enhancements, 
+used to download programs and music, may not work well on Windows 
+95/98/ME</dd>
+<dt><dt><a href="http://www.shareaza.com/">Shareaza</a> </dt>
+<dd>A Multi-network P2P Client</dd>
+<dt><dt><a href="http://www.interlog.com/~tcharron/wgetwin.html">WGet 
+for Windows</a></dt>
+<dd>WGet is a command-line tool to download content from websites</dd>
+<dt><dt><a 
+href="http://www.chiark.greenend.org.uk/~sgtatham/putty/">PuTTY</a> 
+</dt>
+<dd>A telnet and SSH client</dd>
+<dt><a href="Internet/OnionRouting.exe">Onion Routing</a></dt>
+<dd>A collection of files to enable Onion Routing, a private, anonymous 
+distributed proxy service</dd>
+
+<h3>Network Tools</h3>
+
+<dt><dt><a 
+href="http://www.practicallynetworked.com/sharing/ics/icsconfiguration.htm">Internet 
+Connection Sharing Configurator</a> </dt>
+<dd>Tool for configuring Internet Connection Sharing on Win98</dd>
+<dt><a href="Internet/getrt52a.exe">GetRight Download Manager</a> )<a 
+href="http://www.getright.com/">WWW</a>)</dt>
+<dd>Download Manager increases speed and recovers from 
+disconnections</dd>
+<dt><dt><a href="http://tor.eff.org">The Onion Router + Privoxy</a></dt>
+<dd>Web Proxy that cleans out malicious HTML and Javascript, combined 
+with TOR, The Onion Router, to add some basic protection to your IP 
+address.  Proxy setup and browser restart required</dd>
+<dt><dt><a 
+href="http://www.analogx.com/contents/download/network/proxy.htm">Proxy</a> 
+</dt>
+<dd>AnalogX's Internet Proxy, with full features for Internet Connection 
+Sharing</dd>
+<dt><dt><a 
+href="http://www.analogx.com/contents/download/network/pmapper.htm">PortMapper</a> 
+</dt>
+<dd>Map ports through proxy servers</dd>
+<dt>SocksCap (<dt><a 
+href="http://www.socks.permeo.com/Download/SocksCapDownload/index.asp">32-bit</a>, 
+<a href="Internet/sc16r102.exe">16-bit)</a> </dt>
+<dd>A tool to use to get through SOCKS proxy servers</dd>
+<dt><dt><a href="http://smb.sygate.com/products/spf_standard.htm">Sygate 
+Personal Firewall</a> </dt>
+<dd>Use Sygate Personal Firewall to protect your computer while 
+online</dd>
+<dt><dt><a href="http://www.grisoft.com/">AVG Anti-Virus 7</a> </dt>
+<dd>AVG Anti-Virus is a high-quality but free (for personal use) 
+anti-virus tool. You may need Internet Access to get a serial number if 
+you do not have one already (from AVG6)</tt></dd>
+<dt><dt><a 
+href="http://www.analogx.com/contents/download/network/nsl.htm">NetStat 
+Live</a> </dt>
+<dd>AnalogX's NetStat displays current network usage statistics</dd>
+<dt><dt><a 
+href="http://www.analogx.com/contents/download/network/fc.htm">FastCache</a> 
+</dt>
+<dd>AnalogX's FastCache saves DNS info locally
+<dt><dt><a 
+href="http://www.analogx.com/contents/download/network/ats.htm">Atomic 
+Time Sync</a> </dt>
+<dd>AnalogX's Atomic Time Sync for accurate time, and network time 
+server</dd>
+<dt><dt><a href="http://www.netstumbler.com/">Net Stumbler</a> </dt>
+<dd>A Wireless Network analysis tool</dd>
+<dt><dt><a href="http://www.samspade.org/">Sam Spade</a> </dt>
+<dd>Use this to check your Internet connection</dd>
+<dt><dt><a 
+href="http://www.foundstone.com/index.htm?subnav=resources/navigation.htm&subcontent=/resources/proddesc/superscan.htm">Superscan4</a>, 
+<a href="Internet/SUPERSCAN.EXE">SuperScan3 (Win9x)</a> </dt>
+<dd>Use this to scan a computer for open ports</dd>
+
+<h3>Server Software</h3>
+<dt><dt><a 
+href="http://www.analogx.com/contents/download/network/sswww.htm">WWW</a> 
+</dt>
+<dd>AnalogX's Simple WWW server</dd>
+<dt><a href="Internet/INDIGOPERL-5.6.ZIP">Perl + Apache Web Server</a> 
+(<a href="http://www.apache.org">WWW</a>, See also <a 
+href="http://www.indigostar.com/indigoperl.htm">IndigoPerl</a>) </dt>
+<dd>Run the leading web server at school!</dd>
+<dt><dt><a href="http://www.fictional.net/">Fictional Daemon</a> </dt>
+<dd>Advanced users only: run an FTP and telnet server on Windows</dd>
+<br clear=all><br><br><br><br><br>
+</td></tr></table>
+
+<table width="100%" ID=utils class=tabcontent>
+<tr><td>
+<h2 class=header>Utilities</h2>
+<h3>Required Tools</h3>
+<dt><dt><a href="http://www.winzip.com/">WinZip8</a> </dt>
+<dd>Shareware Zip tool</dd>
+<dt><dt><a href="http://www.7-zip.org/">7-zip</a></dt>
+<dd>Free, no-nag, powerful zip program</dd>
+<dt><dt><a href="http://www.iceows.com/HomePageUS.html">ICE archiving 
+utility</a> </dt>
+<dd>Free software that can open and create zip archives</dd>
+
+<h3>Security / Privacy</h3>
+<dt><dt><a href="http://www.grisoft.com/">AVG Anti-Virus</a>  </dt>
+<dd>AVG Anti-Virus is a high-quality but free anti-virus tool. <!--The 
+serial number is <tt>AVG-1-22816420-VAU</tt>--></dd>
+<dt><dt><a href="http://smb.sygate.com/products/spf_standard.htm">Sygate 
+Personal Firewall</a> </dt>
+<dd>Use Sygate Personal Firewall to protect your computer while 
+online</dd>
+<dt><dt><a href="http://www.lavasoftusa.com/software/adaware/">Ad-Aware 
+6 SE</a> </dt>
+<dd>Ad Aware detects and removes ad-ware, installed by programs 
+downloaded from the Internet, which slow your computer down</dd>
+<dt><dt><a href="http://security.kolla.de/">SpyBot 
+Search-and-Destroy</a> </dt>
+<dd>Similar to Ad-Aware, but, like virus software, monitors threats as 
+they happen</dd>
+<dt><a href="http://vil.nai.com/vil/stinger/">Stinger</a>< </dt>
+<dd>Stinger is a stand-alone utility used to detect and remove specific 
+viruses. It is not a substitute for full anti-virus protection, but 
+rather a tool to assist administrators and users when dealing with an 
+infected system.</dd>
+<dt><dt><a 
+href="http://www.spychecker.com/program/hijackthis.html">Hijack 
+This!</a></dt>
+<dd>HijackThis is a tool that lists all installed browser add-on, 
+buttons, startup items and allows you to inspect, and optionally remove 
+selected items.</dd>
+<dt><dt><a href="http://www.spywareinfo.com/~merijn/downloads.html">CW 
+Shredder</a></dt>
+<dd>CW Shredder takes care of CoolWebSearch, which other programs can't 
+quite get all of</dd>
+
+<dt><dt><a href="http://www.tenablesecurity.com/newt.html">NEWT</a> 
+</dt>
+<dd>Network analyzing tool</dd>
+
+<h3>Optimization / Customization</h3>
+<dt><dt><a href="http://www.toniarts.com/ecleane.htm">EZ Cleaner</a> 
+</dt>
+<dd>EZCleaner has various tools to speed your computer by cleaning out 
+old junk (Win 95/98/ME ONLY!!)</dd>
+<dt><a href="http://www.majorgeeks.com/download.php?det=2048">RegScrubXP</a></dt>
+<dd>Registry Cleaner for XP/2k</dd>
+<dt><dt><a href="http://www.mlin.net/StartupCPL.shtml">Startup Control 
+Panel</a> </dt>
+<dd>This Control Panel utility lets you change what starts up with 
+Windows, including the msconfig, Registry, and Startup folder 
+locations</dd>
+<!--<dt><dt><a href="http://www.faberbox.com/fabertoys.asp">Faber 
+Toys</a> </dt>
+<dd>Process and Modules management for Windows</dd>-->
+<dt><dt><a 
+href="http://www.analogx.com/contents/download/system/dllarch.htm">DLL 
+Archive</a> </dt>
+<dd>AnalogX's tool to clean unused DLL files in Win9x</dd>
+<dt><dt><a 
+href="http://www.analogx.com/contents/download/system/maxmem.htm">MaxMem</a> 
+</dt>
+<dd>AnalogX's Win9x Memory manager</dd>
+<dt><dt><a 
+href="http://www.analogx.com/contents/download/system/cb.htm">CacheBooster</a> 
+</dt>
+<dd>AnalogX's disk cache optimizer</dd>
+<dt><dt><a 
+href="http://www.microsoft.com/windows95/downloads/contents/WUToys/W95PwrToysSet/Default.asp">Windows 
+9x Power Toys (TweakUI)</a> </dt>
+<dd>A collection of utilities to customize Windows 9x</dd>
+<dt><a href="http://www.zisman.ca/poledit/">Windows 98 Policy 
+Editor</a></dt>
+<dd>Control who can use what on Windows 98 computers, with guide 
+online</dd>
+
+<h3>Cell Phone Tools</h3>
+<dt><dt><a href="http://bitpm.org">BitPM</a></dt>
+<dd>Free communication tool for your cell phone if you have a 
+cable/IR/Bluetooth connection to your computer -- synchronize files, add 
+contacts, etc.</dd>
+
+
+<h3>File Utilities</h3>
+<dt><dt><a href="http://www.dekabyte.com/filesplitter/">The File 
+Splitter</a> </dt>
+<dd>A Utility to split a file across multiple floppy disks with 
+automatic re-construction on the target computer (i.e. no need to have 
+the program installed to put the files back together!)</dd>
+<dt><A href="http://www.soft32.com/download_102801.html">Disk 
+Rescue</a></dt>
+<dd>A tool to rescue data from floppy disks</dd>
+<dt><dt><a href="http://nu2.nu/pebuilder/">Bootable Windows CD 
+Builder</a></dt>
+<dd>Use an existing Windows CD to build a bootable "Live" CD -- useful 
+for emergency virus and spyware cleaning</dd>
+
+<br clear=all><br><br><br><br><br>
+</td></tr></table>
+
+  <!--#include virtual="/code/footer.txt"-->
+
+</body></html>
