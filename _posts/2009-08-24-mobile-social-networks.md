@@ -1,6 +1,6 @@
 ---
 excerpt: "Something is still missing in the world of mobiles and social networks.\r\n\r\nI
-  strongly believe in the power of <a href=\"https://joncamfield.com/blog/2009.07/social_networks_including.html\">social
+  strongly believe in the power of <a href=\"https://joncamfield.com/blog/2009.07/social-networks-including.html\">social
   networks in development</a>, be they online or offline.  They create communities
   of practice from the local to the global level, which promotes better understanding
   of what a best practice is versus what is just a good theory that doesn't reliably
@@ -24,7 +24,7 @@ created: 1251146553
 ---
 Something is still missing in the world of mobiles and social networks.
 
-I strongly believe in the power of <a href="https://joncamfield.com/blog/2009.07/social_networks_including.html">social networks in development</a>, be they online or offline.  They create communities of practice from the local to the global level, which promotes better understanding of what a best practice is versus what is just a good theory that doesn't reliably work.  You also have amazing, <a href="https://mobileactive.org/mobiledata">unprecedented access through mobile phones and SMS</a>.
+I strongly believe in the power of <a href="https://joncamfield.com/blog/2009.07/social-networks-including.html">social networks in development</a>, be they online or offline.  They create communities of practice from the local to the global level, which promotes better understanding of what a best practice is versus what is just a good theory that doesn't reliably work.  You also have amazing, <a href="https://mobileactive.org/mobiledata">unprecedented access through mobile phones and SMS</a>.
 
 But there's nothing solidly connecting the two (unless I'm missing something?)
 <!--break-->

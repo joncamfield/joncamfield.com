@@ -55,6 +55,6 @@ Even today countries wrestle with the question of if and how to extend their ele
 
 To be fair, Negroponte touched on this with a nod to a new focus on driving the cost of the OLPC down and promoting the hard numbers on the OLPC Total Cost of Ownership presented by CEIBAL, and I don't want to dwell any longer on his analogy.
 
-The important note, going forward, is not to repeat <a href="https://joncamfield.com/blog/2007.06/olpc_history_senegalese_failur.html">past mistakes</a> but to start to learn from them -- beyond simply doing more or using different technology, but by beginning to approach the problem differently.
+The important note, going forward, is not to repeat <a href="https://joncamfield.com/blog/2007.06/olpc-history-senegalese-failur.html">past mistakes</a> but to start to learn from them -- beyond simply doing more or using different technology, but by beginning to approach the problem differently.
 
 Having so many different viewpoints as were provided by the presenters today is a good start.

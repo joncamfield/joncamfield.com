@@ -19,7 +19,7 @@ created: 1297128314
 ---
 Register now at https://ict4dev.eventbrite.com/ - only 20 RSVPs available until we nail down a venue!
 
-<img src="https://joncamfield.com/sites/default/files/images/IMG_4315.blog.JPG" hspace="2" vspace="2" align="right" alt="ICT4Dev Happy Hour at SXSW2010" /> In Austin for SXSWi?  A Geek? (ok, granted) Interested in changing the world?  Building off of last year's <a href="https://joncamfield.com/blog/2010.03/ict4d_meetup_in_austin_during.html">amazing ICT4D meetup</a> during SXSW, we're back at it this year with the second annual ICT4D Happy Hour: Geeks, Drinks, and Doing Good. We're also planning more than a day in advance this time (wow!).
+<img src="https://joncamfield.com/sites/default/files/images/IMG-4315.blog.JPG" hspace="2" vspace="2" align="right" alt="ICT4Dev Happy Hour at SXSW2010" /> In Austin for SXSWi?  A Geek? (ok, granted) Interested in changing the world?  Building off of last year's <a href="https://joncamfield.com/blog/2010.03/ict4d-meetup-in-austin-during.html">amazing ICT4D meetup</a> during SXSW, we're back at it this year with the second annual ICT4D Happy Hour: Geeks, Drinks, and Doing Good. We're also planning more than a day in advance this time (wow!).
 
 We'll gather on <strong>Monday, March 14, 2011, starting around 5pm</strong> for a happy hour at a downtown watering hole (Hopefully the Gingerman like last year).  Bring your favorite ICT4D toys (OLPCs, solar-powered GSM thingamajiggers, mHealth diagnostics and other gizmos) and your best ideas and inspiring innovations to talk about while sharing drinks with your colleagues from across the street and around the world.
 

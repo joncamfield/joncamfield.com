@@ -6,7 +6,7 @@ excerpt: "<p>For the past year or so, I've repeatedly been trying to bring up wh
   lasts as few as four minutes before becoming infected, and rarely more than a day.
   \ Multiply that by hundreds of thousands of <a href=\"https://www.olpcnews.com/software/windows/\">OLPC
   XOs running Windows</a> (with no mention of anti-virus software to date), and you
-  have a nightmare scenario pretty rapidly.</p>\r\n\r\n<p>The much-debated <a href=\"https://www.joncamfield.com/blog/2008.11/tomorrow_total_cost_of_operati.html\">VitalWave
+  have a nightmare scenario pretty rapidly.</p>\r\n\r\n<p>The much-debated <a href=\"https://www.joncamfield.com/blog/2008.11/tomorrow-total-cost-of-operati.html\">VitalWave
   TCO paper we discussed at the World Bank</a>, which argued that the higher cost
   of Linux administrators balanced out licensing costs for discounted Microsoft and
   anti-virus software, even admitted the significant costs of purchasing and maintaining
@@ -36,7 +36,7 @@ created: 1227108420
 ---
 <p>For the past year or so, I've repeatedly been trying to bring up what I see as a huge, <a href="https://www.olpcnews.com/sales_talk/microsoft/windows_xo_video_dissection_.html">gaping hole</a> in any project which uses Microsoft products for an ICT4Development rollout - computer viruses.  Windows XP, when connected to the Internet sans protection, lasts as few as four minutes before becoming infected, and rarely more than a day.  Multiply that by hundreds of thousands of <a href="https://www.olpcnews.com/software/windows/">OLPC XOs running Windows</a> (with no mention of anti-virus software to date), and you have a nightmare scenario pretty rapidly.</p>
 
-<p>The much-debated <a href="https://www.joncamfield.com/blog/2008.11/tomorrow_total_cost_of_operati.html">VitalWave TCO paper we discussed at the World Bank</a>, which argued that the higher cost of Linux administrators balanced out licensing costs for discounted Microsoft and anti-virus software, even admitted the significant costs of purchasing and maintaining a subscription to anti-virus tools</p>
+<p>The much-debated <a href="https://www.joncamfield.com/blog/2008.11/tomorrow-total-cost-of-operati.html">VitalWave TCO paper we discussed at the World Bank</a>, which argued that the higher cost of Linux administrators balanced out licensing costs for discounted Microsoft and anti-virus software, even admitted the significant costs of purchasing and maintaining a subscription to anti-virus tools</p>
 
 <p>If Microsoft wants to continue to capture the developing world market, this is going to be a barrier.  They can drop their own licensing costs for the XP Starter Edition (which at this point is zero cost to them) down, and hand out older Office software; but the initial and subscription costs for anti-virus software are not (directly) under MS's control.  Regardless, having anti-virus protection directly impacts the functionality of the device - if installed, A-V can slow a less powerful computer down to a crawl during a scan and at startup, but the consequences of not having it can render the system absolutely useless.</p>
 

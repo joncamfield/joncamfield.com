@@ -1,8 +1,8 @@
 ---
-excerpt: "<p><strong>Series</strong>: <em><a href=\"\">Overview</a> | <a href=\"https://www.joncamfield.com/blog/2008.10/drupal_and_maps_ii_modules_in_1.html\">Modules</a>
-  | <a href=\"https://www.joncamfield.com/blog/2008.11/drupal_and_maps_iii_getting_di.html\">Structure
-  and Taxonomies</a> | <a href=\"https://joncamfield.com/blog/2008.12/drupal_mapping_iii5_moving_up.html\">On
-  Drupal 6</a> | <a href=\"https://joncamfield.com/blog/2008.12/drupal_mapping_iv_filtering_an.html\">Functionality</a></em></p>\r\n
+excerpt: "<p><strong>Series</strong>: <em><a href=\"\">Overview</a> | <a href=\"https://www.joncamfield.com/blog/2008.10/drupal-and-maps-ii-modules-in-1.html\">Modules</a>
+  | <a href=\"https://www.joncamfield.com/blog/2008.11/drupal-and-maps-iii-getting-di.html\">Structure
+  and Taxonomies</a> | <a href=\"https://joncamfield.com/blog/2008.12/drupal-mapping-iii5-moving-up.html\">On
+  Drupal 6</a> | <a href=\"https://joncamfield.com/blog/2008.12/drupal-mapping-iv-filtering-an.html\">Functionality</a></em></p>\r\n
   \r\n<p>Drupal by itself is pretty powerful, but where it really shines is when you
   start plugging in the modules which have been developed for it.  There are hundreds
   (if not thousands), and the first mistake I made on my first Drupal install was
@@ -18,7 +18,7 @@ categories:
 title: 'Drupal and GYSD Maps II: Modules in Play'
 created: 1224788541
 ---
-<p><strong>Series</strong>: <em><a href="">Overview</a> | <a href="https://www.joncamfield.com/blog/2008.10/drupal_and_maps_ii_modules_in_1.html">Modules</a> | <a href="https://www.joncamfield.com/blog/2008.11/drupal_and_maps_iii_getting_di.html">Structure and Taxonomies</a> | <a href="https://joncamfield.com/blog/2008.12/drupal_mapping_iii5_moving_up.html">On Drupal 6</a> | <a href="https://joncamfield.com/blog/2008.12/drupal_mapping_iv_filtering_an.html">Functionality</a></em></p>
+<p><strong>Series</strong>: <em><a href="">Overview</a> | <a href="https://www.joncamfield.com/blog/2008.10/drupal-and-maps-ii-modules-in-1.html">Modules</a> | <a href="https://www.joncamfield.com/blog/2008.11/drupal-and-maps-iii-getting-di.html">Structure and Taxonomies</a> | <a href="https://joncamfield.com/blog/2008.12/drupal-mapping-iii5-moving-up.html">On Drupal 6</a> | <a href="https://joncamfield.com/blog/2008.12/drupal-mapping-iv-filtering-an.html">Functionality</a></em></p>
  
 <p>Drupal by itself is pretty powerful, but where it really shines is when you start plugging in the modules which have been developed for it.  There are hundreds (if not thousands), and the first mistake I made on my first Drupal install was to just start clicking away before I'd learned the ropes.  Luckily, this is what sandbox installs are made from, so a few database drops and folder deletions later I could start from scratch (again).</p>
 

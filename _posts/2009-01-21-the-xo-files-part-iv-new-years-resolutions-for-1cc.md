@@ -1,8 +1,8 @@
 ---
 excerpt: "<p><em>This entry is part four in the series, \"The XO Files: I Want to
-  Believe in the XO\" <a href=\"https://www.joncamfield.com/blog/2008.09/i_want_to_believe.html\">Read
-  Part I here</a></em>, then <a href=\"https://www.joncamfield.com/blog/2008.09/the_xo_files_part_ii_the_new_4.html\">Part
-  II, The New 4PC Market, and its Failings</a>, and  <a href=\"https://www.joncamfield.com/blog/2008.09/iwtb_part_iii_reimagining_the.html\">Part
+  Believe in the XO\" <a href=\"https://www.joncamfield.com/blog/2008.09/i-want-to-believe.html\">Read
+  Part I here</a></em>, then <a href=\"https://www.joncamfield.com/blog/2008.09/the-xo-files-part-ii-the-new-4.html\">Part
+  II, The New 4PC Market, and its Failings</a>, and  <a href=\"https://www.joncamfield.com/blog/2008.09/iwtb-part-iii-reimagining-the.html\">Part
   III: Re-imagining the OLPC Distribution</a>.</em></p>\r\n\r\n<h2>The XO Files Part
   IV: New Years Resolutions for 1CC</h2>\r\n<div style=\"float: right; margin-left:
   10px; margin-bottom: 10px;\"><img alt=\"The XO Files: I Want To Believe\" src=\"https://joncamfield.com//images/xo-files-i-want-to-believe_sm.jpg\"
@@ -35,7 +35,7 @@ tags:
 title: 'The XO Files Part IV: New Years Resolutions for 1CC'
 created: 1232535055
 ---
-<p><em>This entry is part four in the series, "The XO Files: I Want to Believe in the XO" <a href="https://www.joncamfield.com/blog/2008.09/i_want_to_believe.html">Read Part I here</a></em>, then <a href="https://www.joncamfield.com/blog/2008.09/the_xo_files_part_ii_the_new_4.html">Part II, The New 4PC Market, and its Failings</a>, and  <a href="https://www.joncamfield.com/blog/2008.09/iwtb_part_iii_reimagining_the.html">Part III: Re-imagining the OLPC Distribution</a>.</em></p>
+<p><em>This entry is part four in the series, "The XO Files: I Want to Believe in the XO" <a href="https://www.joncamfield.com/blog/2008.09/i-want-to-believe.html">Read Part I here</a></em>, then <a href="https://www.joncamfield.com/blog/2008.09/the-xo-files-part-ii-the-new-4.html">Part II, The New 4PC Market, and its Failings</a>, and  <a href="https://www.joncamfield.com/blog/2008.09/iwtb-part-iii-reimagining-the.html">Part III: Re-imagining the OLPC Distribution</a>.</em></p>
 
 <h2>The XO Files Part IV: New Years Resolutions for 1CC</h2>
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;"><img alt="The XO Files: I Want To Believe" src="https://joncamfield.com//images/xo-files-i-want-to-believe_sm.jpg" style="border: 2px solid black;"><br><span style="font-size: 0.9em; margin-top: 0px;">The XO Files: I Want To Believe</span></div>

@@ -1,6 +1,6 @@
 ---
 excerpt: I keep swearing that I'll shift gears and focus more on the good parts
-  of the One Laptop Per Child project like the <a href="https://www.joncamfield.com/blog/2008.08/more_on_olpc_in_india.html">fusion
+  of the One Laptop Per Child project like the <a href="https://www.joncamfield.com/blog/2008.08/more-on-olpc-in-india.html">fusion
   of public and private interests in India</a>, but then I keep getting pulled in
   to the stupidity du jour.
 categories:
@@ -16,7 +16,7 @@ header:
 title: One old OS per Child
 created: 1218283887
 ---
-<p>I keep swearing that I'll shift gears and focus more on the good parts of the One Laptop Per Child project like the <a href="https://www.joncamfield.com/blog/2008.08/more_on_olpc_in_india.html">fusion of public and private interests in India</a>, but then I keep getting pulled in to the stupidity du jour.  Of late, that frustration has been Windows XP for the XO, spurred on by Wayan's post at <a href="https://www.olpcnews.com/sales_talk/microsoft/how_to_run_windows_xo.html">OLPCNews.com on Windows' firmware modifications</a>, and of course my posting on the <a href="https://www.olpcnews.com/sales_talk/microsoft/windows_xo_video_dissection_.html">XP on XO video</a> that got <a href="https://mobile.slashdot.org/article.pl?sid=08/07/26/239231">slashdotted</a>.</p>
+<p>I keep swearing that I'll shift gears and focus more on the good parts of the One Laptop Per Child project like the <a href="https://www.joncamfield.com/blog/2008.08/more-on-olpc-in-india.html">fusion of public and private interests in India</a>, but then I keep getting pulled in to the stupidity du jour.  Of late, that frustration has been Windows XP for the XO, spurred on by Wayan's post at <a href="https://www.olpcnews.com/sales-talk/microsoft/how-to-run-windows-xo.html">OLPCNews.com on Windows' firmware modifications</a>, and of course my posting on the <a href="https://www.olpcnews.com/sales-talk/microsoft/windows-xo-video-dissection-.html">XP on XO video</a> that got <a href="https://mobile.slashdot.org/article.pl?sid=08/07/26/239231">slashdotted</a>.</p>
 
 <p>As a caveat, I have an iron in this fire.  At home I have one XP system (formerly my primary computer, now mostly my email archive and mp3 player), my primary Linux (Ubuntu) laptop, a really old Linux (Ubuntu+xfce) laptop, and my OLPC (Sugar/olpc-build 703).  I'm unabashedly an open-source evangelist, and I think there's a clear partnership between the non-profit/NGO/development world and F/LOSS -- we're all working to improve the world (on some level).  I'm not rabidly  anti-MS, but I think it's rarely the right solution, doubly so in low-resource environments, whether that be low- money, electricity, bandwidth or computing power.</p>
 

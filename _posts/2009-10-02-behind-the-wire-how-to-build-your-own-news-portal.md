@@ -43,7 +43,7 @@ Read on to learn all about how it works, how you can take greater advantage of i
 
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;"><img src="https://tools.ysa.org//logos/reflection250/rss_reflection.png" alt="Large RSS Symbol"></div>Let's start with the "takes content from the service field" part. ServiceWire draws from a variety of news sources and RSS feeds - Google scans for keywords, feeds from volunteer and service blogs, key service and service-learning websites such as Youth Service America, ServiceLearning.org, and <a href="https://servicewire.org/wire/sources">many other websites</a>.  ServiceWire also has a blogging system for more in-depth commentary on current service and volunteer events. 
 
-<em>Wait, what are these feeds you're talking about?</em> Learn about feeds (RSS) at my <a href="https://joncamfield.com/blog/2008.08/rss_is_my_favorite_web_magic.html">RSS is my favorite web magic</a> blog entry.
+<em>Wait, what are these feeds you're talking about?</em> Learn about feeds (RSS) at my <a href="https://joncamfield.com/blog/2008.08/rss-is-my-favorite-web-magic.html">RSS is my favorite web magic</a> blog entry.
 
 Guests can use the <a href="https://servicewire.org/contact">contact page</a> to suggest other news feeds, or <a href="https://servicewire.org/contribute ">contribute individual items</a>, which get screened to prevent spam.
 

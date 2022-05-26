@@ -6,8 +6,8 @@ excerpt: "<p>Note to techies - this article is intended for the nonprofit crowd 
   technology, making it easier for people who didn't grow up taking computers apart
   and programming games from themselves out of instructions from <em>3-2-1 Contact</em>
   magazine article to contribute to online websites via easy-to-update blogs, wikis,
-  and so on.  These are all fantastic tools, mostly <a href=\"https://www.joncamfield.com/blog/2007.12/open_source_software_by_volunt.html\">free
-  and open</a>.  You can also read my overall <a href=\"https://www.joncamfield.com/blog/2007.12/web_20_guide_for_nonprofits.html\">guide
+  and so on.  These are all fantastic tools, mostly <a href=\"https://www.joncamfield.com/blog/2007.12/open-source-software-by-volunt.html\">free
+  and open</a>.  You can also read my overall <a href=\"https://www.joncamfield.com/blog/2007.12/web-20-guide-for-nonprofits.html\">guide
   to open source tools for non-profits</a> to get situated in some terminology and
   theory.</p>\r\n\r\n<p>There's one technology embedded in almost all of these systems
   that lets you track updates, news, events, even changes to a wiki page.  These updates
@@ -31,7 +31,7 @@ created: 1219229560
 ---
 <p>Note to techies - this article is intended for the nonprofit crowd and as such is basically an introduction to RSS.  There's a few interesting things at the end (RSS->animated gif via feedburner, Yahoo Pipes, and MIT/Google's Exhibit tool).</p>
 
-<p>The Web 2.0 revolution has democratized huge swaths of online technology, making it easier for people who didn't grow up taking computers apart and programming games from themselves out of instructions from <em>3-2-1 Contact</em> magazine article to contribute to online websites via easy-to-update blogs, wikis, and so on.  These are all fantastic tools, mostly <a href="https://www.joncamfield.com/blog/2007.12/open_source_software_by_volunt.html">free and open</a>.  You can also read my overall <a href="https://www.joncamfield.com/blog/2007.12/web_20_guide_for_nonprofits.html">guide to open source tools for non-profits</a> to get situated in some terminology and theory.</p>
+<p>The Web 2.0 revolution has democratized huge swaths of online technology, making it easier for people who didn't grow up taking computers apart and programming games from themselves out of instructions from <em>3-2-1 Contact</em> magazine article to contribute to online websites via easy-to-update blogs, wikis, and so on.  These are all fantastic tools, mostly <a href="https://www.joncamfield.com/blog/2007.12/open-source-software-by-volunt.html">free and open</a>.  You can also read my overall <a href="https://www.joncamfield.com/blog/2007.12/web-20-guide-for-nonprofits.html">guide to open source tools for non-profits</a> to get situated in some terminology and theory.</p>
 
 <p>There's one technology embedded in almost all of these systems that lets you track updates, news, events, even changes to a wiki page.  These updates can pop up on your desktop, appear in most email clients (but not Outlook 2003, <a href="https://office.microsoft.com/en-us/help/FX100340981033.aspx">Outlook 2007</a> supports RSS however!), appear in your web browser, and even get embedded on your web page.  </p>
 
@@ -72,7 +72,7 @@ Well, presumably you have a website, and an audience.  You might send out weekly
 
 <h3>Write Once, Post Everywhere! (i.e. - so now what?)</h3>
 
-<p>Now that you have an RSS "Feed" - what are some things you can do with it besides putting it on your website and hoping people subscribe?  If you have a Facebook account, you can set it up so that your RSS items are imported as "Notes" automatically.  If you use <a href="https://www.joncamfield.com/blog/2008.02/twittering_for_good.html">Twitter</a>, <a href="https://twitterfeed.com/">TwitterFeed</a> can post your stories into Twitter (but be sure to balance that out with some human entries as well, purely announcement-based twitters rarely are followed!).  Many other websites and web 2.0 tools allow you to place your RSS feed on your profile (Ning sites encourage this, and it's also possible in servenet.org profiles)</p>
+<p>Now that you have an RSS "Feed" - what are some things you can do with it besides putting it on your website and hoping people subscribe?  If you have a Facebook account, you can set it up so that your RSS items are imported as "Notes" automatically.  If you use <a href="https://www.joncamfield.com/blog/2008.02/twittering-for-good.html">Twitter</a>, <a href="https://twitterfeed.com/">TwitterFeed</a> can post your stories into Twitter (but be sure to balance that out with some human entries as well, purely announcement-based twitters rarely are followed!).  Many other websites and web 2.0 tools allow you to place your RSS feed on your profile (Ning sites encourage this, and it's also possible in servenet.org profiles)</p>
 
 <p>Naturally, you should consider working with partners and see if they would consider re-publishing your feed on their site somehow (see how below!).  </p>
 

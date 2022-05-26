@@ -15,13 +15,13 @@ created: 1208965739
 ---
 <p><a href="https://www.olpcnews.com/people/leadership/olpc_soul_learning_or_laptops.html">OLPCNews</a> has been ripe with the continuing disintegration of OLPC, from <a href="https://www.olpcnews.com/people/leadership/goodbye_mary_lou_jepsen.html">Mary Lou Jepsen</a> who got out just in time, then with <a href="https://www.olpcnews.com/people/leadership/ivan_krstic_resigned_from_olpc.html">Ivan's departure due to differences</a>, and now as the search for a new CEO goes on so that <a href="https://www.olpcnews.com/people/negroponte/olpc_ceo_search_negroponte.html">Negroponte</a> can "step aside", now Walter Bender, Mr. Constructivism himself, has <a href="https://www.olpcnews.com/people/leadership/walter_bender_resignation.html">resigned</a>.</p>
 
-<p>If this exodus due to internal politics, problems with technology purchasing (XP or Sugar? All F/LOSS or not?) <a href="https://www.joncamfield.com/blog/2007.06/olpc_history_senegalese_failur.html">sounds familiar</a>, it is:</p>
+<p>If this exodus due to internal politics, problems with technology purchasing (XP or Sugar? All F/LOSS or not?) <a href="https://www.joncamfield.com/blog/2007.06/olpc-history-senegalese-failur.html">sounds familiar</a>, it is:</p>
 
 Naturally, it failed. Nothing is that independent, especially an organization  ... staffed by highly individualistic industry visionaries from around the world. Besides, altruism has a credibility problem in an industry that thrives on intense commercial competition.
 
 <p>By the end of the Center's first year, Papert had quit, so had American experts Nicholas Negroponte and Bob Lawler. It had become a battlefield, scarred by clashes of management style, personality, and political conviction. It never really recovered. </p>
 
-<p>That quote is from 1983, discussing Negroponte's original Computers-for-education pilot with <a href="https://www.joncamfield.com/blog/2007.06/olpc_history_senegalese_failur.html">Apple II computers in Senegal</a>.  The more <a href="https://www.thestate.com/technology-wire/story/383365.html">recent news on the OLPC organization</a> is:</p>
+<p>That quote is from 1983, discussing Negroponte's original Computers-for-education pilot with <a href="https://www.joncamfield.com/blog/2007.06/olpc-history-senegalese-failur.html">Apple II computers in Senegal</a>.  The more <a href="https://www.thestate.com/technology-wire/story/383365.html">recent news on the OLPC organization</a> is:</p>
 
 But in March, after OLPC's initial run of its $188 laptops reached fewer children than originally envisioned, Bender became head of "deployment."
 

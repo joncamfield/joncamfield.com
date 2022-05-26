@@ -1,7 +1,7 @@
 ---
 excerpt: "<p><em>This is the continuation of my journal on getting mapping to work
-  for Global Youth Service Day in Drupal, which <a href=\"https://www.joncamfield.com/blog/2008.10/how_i_made_a_map_for_global_yo.html\">starts
-  with an overview of maps and drupal</a>, and continues <a href=\"https://www.joncamfield.com/blog/2008.10/drupal_and_maps_ii_modules_in_1.html\">with
+  for Global Youth Service Day in Drupal, which <a href=\"https://www.joncamfield.com/blog/2008.10/how-i-made-a-map-for-global-yo.html\">starts
+  with an overview of maps and drupal</a>, and continues <a href=\"https://www.joncamfield.com/blog/2008.10/drupal-and-maps-ii-modules-in-1.html\">with
   a discussion of modules</a>.</em></p>\r\n\r\n<p>So now we have the basic setup and
   are ready to start on the map - placeholders for content, maps, and actual content,
   and it's time to forge ahead with improving the user experience and information
@@ -23,7 +23,7 @@ tags:
 title: 'Drupal and Maps III: Getting Dirty.'
 created: 1227090660
 ---
-<p><em>This is the continuation of my journal on getting mapping to work for Global Youth Service Day in Drupal, which <a href="https://www.joncamfield.com/blog/2008.10/how_i_made_a_map_for_global_yo.html">starts with an overview of maps and drupal</a>, and continues <a href="https://www.joncamfield.com/blog/2008.10/drupal_and_maps_ii_modules_in_1.html">with a discussion of modules</a>.</em></p>
+<p><em>This is the continuation of my journal on getting mapping to work for Global Youth Service Day in Drupal, which <a href="https://www.joncamfield.com/blog/2008.10/how-i-made-a-map-for-global-yo.html">starts with an overview of maps and drupal</a>, and continues <a href="https://www.joncamfield.com/blog/2008.10/drupal-and-maps-ii-modules-in-1.html">with a discussion of modules</a>.</em></p>
 
 <p>So now we have the basic setup and are ready to start on the map - placeholders for content, maps, and actual content, and it's time to forge ahead with improving the user experience and information architecture (at the same time, even!).</p>
 

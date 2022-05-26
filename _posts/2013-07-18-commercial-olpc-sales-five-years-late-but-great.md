@@ -1,6 +1,6 @@
 ---
 excerpt: "I'm glad that OLPC has finally released what was originally put out as the
-  <a href=\"https://www.joncamfield.com/blog/2010.01/the_olpc_vaporware_product.html\">vapourware-ish
+  <a href=\"https://www.joncamfield.com/blog/2010.01/the-olpc-vaporware-product.html\">vapourware-ish
   XO-3 concept</a>"
 categories:
 - olpc
@@ -13,13 +13,13 @@ header:
 title: Commercial OLPC Sales‽ Five years late, but great!
 created: 1374155797
 ---
-I'm glad that OLPC has finally released what was originally put out as the <a href="https://www.joncamfield.com/blog/2010.01/the_olpc_vaporware_product.html">vapourware-ish XO-3 concept</a> three and a half years back.  At the end of the day, though, that's "just" a change in technology (though a huge shift in hardware and underlying software!).
+I'm glad that OLPC has finally released what was originally put out as the <a href="https://www.joncamfield.com/blog/2010.01/the-olpc-vaporware-product.html">vapourware-ish XO-3 concept</a> three and a half years back.  At the end of the day, though, that's "just" a change in technology (though a huge shift in hardware and underlying software!).
 
-What I'm actually very excited about is <a href="https://www.fastcodesign.com/1673029/on-sale-for-150-one-laptop-per-child-is-now-a-touchscreen-tablet?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company%29#1" target="_blank">commercial sales</a>.  This is something I've been arguing in favor of for only around <a href="https://www.joncamfield.com/blog/2008.03/rethinking_the_olpc.html">five years or so</a>:
+What I'm actually very excited about is <a href="https://www.fastcodesign.com/1673029/on-sale-for-150-one-laptop-per-child-is-now-a-touchscreen-tablet?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+fastcompany%2Fheadlines+%28Fast+Company%29#1" target="_blank">commercial sales</a>.  This is something I've been arguing in favor of for only around <a href="https://www.joncamfield.com/blog/2008.03/rethinking-the-olpc.html">five years or so</a>:
 
 <blockquote>The bottom-of-they-pyramid microfinance approach doesn't even have to drop the education focus. While the returns on education are much to slow to repay loans effectively in most cases, grant programs or other implementations could focus on child usage. For example; the XO could be on sale for anyone; but only young entrepreneurs could qualify for the micro-loans, and they'd have to provide some explanation of how this would fit into their learning. Schools or education-oriented civil groups could to buy on credit in bulk, provided they could support both an educational aspect and a profit-making aspect. Grants could be available to even younger children participating in educational programs, skimming profits off of the loan system and successful entrepreneurs in a new G1G1 style program.</blockquote>
 
-In my <a href="https://www.joncamfield.com/blog/2008.09/i_want_to_believe.html">XO Files series</a>, my final piece (which was mostly the last substantive work I put in to writing about OLPC) proposed four "<a href="https://www.joncamfield.com/blog/2009.01/the_xo_files_part_iv_new_years.html">new years resolutions</a>" (...in 2009) -- deciding on a mission statement,  stop overreaching, listen to the community, and sell the OLPC commercially:
+In my <a href="https://www.joncamfield.com/blog/2008.09/i-want-to-believe.html">XO Files series</a>, my final piece (which was mostly the last substantive work I put in to writing about OLPC) proposed four "<a href="https://www.joncamfield.com/blog/2009.01/the-xo-files-part-iv-new-years.html">new years resolutions</a>" (...in 2009) -- deciding on a mission statement,  stop overreaching, listen to the community, and sell the OLPC commercially:
 
 <blockquote>I strongly believe that the technology behind the XO is, as Wayan likes to put it, "clock-stopping hot." It's valuable. It's the best travel laptop on the market. Make a new form factor for it, or at least an adultish color scheme, optionally bump up the specs a slight bit, ship it with Ubuntu or pure-RH boot/install USB sticks, and market it to international travelers, hikers (with an extra solar panel charging kit!), parents, kitchen warriors (it makes a great Internet/epicurious.com station in the kitchen), geeks (probably almost saturated market there), and people who just want a reliable, sturdy, and lightweight laptop/netbook.
 https://www.olpcnews.com/tablets/xo_tablet/149_dollar_olpc_xo_tablet_pre_order_starts_at_what_to_make_of_it.html

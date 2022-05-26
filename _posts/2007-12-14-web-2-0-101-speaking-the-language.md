@@ -1,5 +1,5 @@
 ---
-excerpt: <p>The last entry was the <a href="https://www.joncamfield.com/blog/2007.12/the_power_of_open.html">theoretical
+excerpt: <p>The last entry was the <a href="https://www.joncamfield.com/blog/2007.12/the-power-of-open.html">theoretical
   underpinnings of how this whole web 2.0 thing can work</a>, so today let's get into
   some of the more common terms you've heard thrown around, what they mean and how
   they work.  We'll start talking about blogs (like this), wikis, social networks,
@@ -12,7 +12,7 @@ categories:
 title: 'Web 2.0 101: Speaking the Language'
 created: 1197665974
 ---
-<p>The last entry was the <a href="https://www.joncamfield.com/blog/2007.12/the_power_of_open.html">theoretical underpinnings of how this whole web 2.0 thing can work</a>, so today let's get into some of the more common terms you've heard thrown around, what they mean and how they work.  We'll start talking about blogs (like this), wikis, social networks, and other crazy web 2.0 tools themselves.</p>
+<p>The last entry was the <a href="https://www.joncamfield.com/blog/2007.12/the-power-of-open.html">theoretical underpinnings of how this whole web 2.0 thing can work</a>, so today let's get into some of the more common terms you've heard thrown around, what they mean and how they work.  We'll start talking about blogs (like this), wikis, social networks, and other crazy web 2.0 tools themselves.</p>
 
 <p>We'll start with crowd-sourcing/peer production/user generated content -- all aspects of, if not straight up copies of the same thing.  Peer production is what you generally think of when you think web 2.0; wikipedia is an encyclopedia produced not by an editorial board and professional writers, but by you and me, and thousands of others like us, each shepherding their own causes and topics, with enough critics to keep us honest.  Again, a lot of this is just summarizing what Benkler has gone over in greater detail in <a href="https://www.benkler.org/wealth_of_networks/index.php/Main_Page">The Wealth of Networks</a>; I highly recommend flipping/page-downing through that if you're at all going to move into web 2.0 projects.  He has a wealth of case studies and good hard data on the power of random website users coming by your site and contributing time and effort to improve your content.  Even NASA, a bureaucratic and overworked government agency, has tapped into the power of website users to help identify and label craters on Mars with higher accuracy -- and a whole lot cheaper -- than programs have been able to manage.  Properly empowered through low transaction costs and the promise of adding to something larger and greater than they are, users can power your entire website -- just look at <a href="https://www.craigslist.org/about/sites.html">craigslist</a> -- a huge, profitable site where people post classified ads.  It's nothing pretty, which in turn is part of its popularity; it's quick and down to business, empowering users to add information, flag abuse, and export their specific search requests as RSS streams to their own systems (more, lots more, on RSS later).</p>
 

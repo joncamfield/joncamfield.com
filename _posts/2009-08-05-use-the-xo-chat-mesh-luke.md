@@ -1,5 +1,5 @@
 ---
-excerpt: "I've updated my <a href=\"https://joncamfield.com/blog/2009.07/collaboration_and_the_xo_mesh.html\">mesh
+excerpt: "I've updated my <a href=\"https://joncamfield.com/blog/2009.07/collaboration-and-the-xo-mesh.html\">mesh
   post</a> with new Jabber server info - click read more for the full scoop!\r\n"
 categories:
 - olpc
@@ -11,7 +11,7 @@ tags:
 title: Use the XO Chat Mesh, Luke.
 created: 1249483192
 ---
-I've updated my <a href="https://joncamfield.com/blog/2009.07/collaboration_and_the_xo_mesh.html">mesh post</a> with new Jabber server info - click read more for the full scoop!
+I've updated my <a href="https://joncamfield.com/blog/2009.07/collaboration-and-the-xo-mesh.html">mesh post</a> with new Jabber server info - click read more for the full scoop!
 <!--break-->
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a 
 href="https://www.flickr.com/photos/dcmetroblogger/2026119441/in/set-72157594232448993/"><img src="https://www.olpcnews.com/images/olpc-lcdc-mesh.jpg" alt="olpc learning club" style="border: 2px solid rgb(0, 0, 0); width: 200px; height: 197px;"></a><br><span style="font-size: 0.9em; margin-top: 0px;"><b>Time to mesh XOs</b></span></div>

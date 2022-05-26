@@ -1,7 +1,7 @@
 ---
 excerpt: "The same constraints that make the XO revolutionary for schools also produce technological
   solutions that make the XO attractive to a certain set of users who want a no-frills,
-  but highly functional laptop (like world travelers), as I mentioned in <a href=\"https://www.joncamfield.com/blog/2008.09/i_want_to_believe.html\">Part I</a> -- it's lightweight, rugged, and low-power (solar chargeable), but powerful
+  but highly functional laptop (like world travelers), as I mentioned in <a href=\"https://www.joncamfield.com/blog/2008.09/i-want-to-believe.html\">Part I</a> -- it's lightweight, rugged, and low-power (solar chargeable), but powerful
   enough to connect to faint wifi, play movies, or review digital photos.</p>\r\n"
 categories:
 - ict4d
@@ -15,10 +15,10 @@ header:
 title: 'The XO Files Part II: The New 4PC Market, and its Failings'
 created: 1221035613
 ---
-<p><em>This entry is part two in the series, "The XO Files: I Want to Believe in the XO" <a href="https://www.joncamfield.com/blog/2008.09/i_want_to_believe.html">Read Part I about the Laptop Project / Education Project disconnect here</a>.</em></p>
+<p><em>This entry is part two in the series, "The XO Files: I Want to Believe in the XO" <a href="https://www.joncamfield.com/blog/2008.09/i-want-to-believe.html">Read Part I about the Laptop Project / Education Project disconnect here</a>.</em></p>
 
 <h2>Part II: The New 4PC Market, and its Failings</h2>
-<p><div style="float: right; margin-left: 10px; margin-bottom: 10px;"><img alt="The XO Files: I Want To Believe" src="https://joncamfield.com//images/xo-files-i-want-to-believe_sm.jpg" style="border: 2px solid black;"><br><span style="font-size: 0.9em; margin-top: 0px;">The XO Files: I Want To Believe</span></div> The OLPC XO is a path-breaking, jaw-dropping piece of technology.  And not just any traditional, consumer-focused (faster, shinier) way, but in specific and strategic areas that make the laptop perfect for developing world situations where it might be damp or dusty, the sun might be your light source at school, and you probably don't have reliable electricity at home.  It happens to be that those same constraints also produce technological solutions that make the XO attractive to a certain set of users who want a no-frills, but highly functional laptop (like world travelers), as I mentioned in <a href="https://www.joncamfield.com/blog/2008.09/i_want_to_believe.html">Part I</a> -- it's lightweight, rugged, and low-power (solar chargeable), but powerful enough to connect to faint wifi, play movies, or review digital photos.</p>
+<p><div style="float: right; margin-left: 10px; margin-bottom: 10px;"><img alt="The XO Files: I Want To Believe" src="https://joncamfield.com//images/xo-files-i-want-to-believe-sm.jpg" style="border: 2px solid black;"><br><span style="font-size: 0.9em; margin-top: 0px;">The XO Files: I Want To Believe</span></div> The OLPC XO is a path-breaking, jaw-dropping piece of technology.  And not just any traditional, consumer-focused (faster, shinier) way, but in specific and strategic areas that make the laptop perfect for developing world situations where it might be damp or dusty, the sun might be your light source at school, and you probably don't have reliable electricity at home.  It happens to be that those same constraints also produce technological solutions that make the XO attractive to a certain set of users who want a no-frills, but highly functional laptop (like world travelers), as I mentioned in <a href="https://www.joncamfield.com/blog/2008.09/i-want-to-believe.html">Part I</a> -- it's lightweight, rugged, and low-power (solar chargeable), but powerful enough to connect to faint wifi, play movies, or review digital photos.</p>
 <!--break-->
 <p>These features come with drawbacks - the long battery life required a processor that's simply not as fast as common laptop processors.  The cost constraints meant a smaller screen design, a "hard drive" that's microscopic in comparison to most, and much RAM.  Still, the laptop still performs admirably - or at least well enough - for most usage.</p>
 

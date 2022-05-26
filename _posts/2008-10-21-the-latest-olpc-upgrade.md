@@ -6,7 +6,7 @@ excerpt: "<a href=\"https://flickr.com/photos/dcmetroblogger/2951128469/\" targe
   some beers</a> -- sometimes, the best (<a href=\"https://www.olpcnews.com/hardware/keyboard/olpc_keyboard_water_test.html\">and
   worst</a>) ways to really test technology's limits is while slightly inebriated.
   \ The upgrade (using a Microsoft Unlimited Potenial USB stick gimme as the boot
-  USB.\r\n\r\n<p>The upgrade went <a href=\"https://www.joncamfield.com/blog/2008.07/failed_joyride_upgrade_or_what.html\">surprisingly
+  USB.\r\n\r\n<p>The upgrade went <a href=\"https://www.joncamfield.com/blog/2008.07/failed-joyride-upgrade-or-what.html\">surprisingly
   smoothly</a>, and it even included a good chunk of activities, which saved a big
   post-upgrade time sink in Update.1</p>\r\n"
 categories:
@@ -19,7 +19,7 @@ created: 1224604672
 ---
 <a href="https://flickr.com/photos/dcmetroblogger/2951128469/" target="_blank"><img align="right" src="https://farm4.static.flickr.com/3270/2951128469_126d95ec56_m.jpg" alt="OLPC upgrade process" /></a><br>OLPC Upgrading - like an old defrag!Last Thursday, I upgraded my OLPC <a href="https://www.olpcnews.com/use_cases/community/olpc_upgrade_party_weekend.html">over some beers</a> -- sometimes, the best (<a href="https://www.olpcnews.com/hardware/keyboard/olpc_keyboard_water_test.html">and worst</a>) ways to really test technology's limits is while slightly inebriated.  The upgrade (using a Microsoft Unlimited Potenial USB stick gimme as the boot USB.
 
-<p>The upgrade went <a href="https://www.joncamfield.com/blog/2008.07/failed_joyride_upgrade_or_what.html">surprisingly smoothly</a>, and it even included a good chunk of activities, which saved a big post-upgrade time sink in Update.1</p>
+<p>The upgrade went <a href="https://www.joncamfield.com/blog/2008.07/failed-joyride-upgrade-or-what.html">surprisingly smoothly</a>, and it even included a good chunk of activities, which saved a big post-upgrade time sink in Update.1</p>
 <!--break-->
 <p>As for the new Sugar itself - first and foremost - amazing job.  Great improvements on the UX/UI, suspend is fantabulous, the wifi connection system is much, much improved ... alt-tabbing, even copy/paste is better.  This is a usable interface in ways that the previous stable builds were not, and it's hard to explain all of the polish that's been added -- the best I can explain is like moving from Microsoft to Mac or Linux/KDE -- things are <em>different</em> and a bit confusing at first, but then you realize that what's new is simply all the things you used to wish Microsoft did, and eventually gave up wishing.  The interface provides a much more natural response to your actions.</p>
 

@@ -39,7 +39,7 @@ excerpt: "There's been a lot of noise about the role of Twitter in the recent Mo
   are also a few moving English-language Twitter posts like this - \"in #pman  a grenade
   thrown by the police has torn apart one of the protester's leg\"-  that would surely
   be perused by foreign journalists. </blockquote>\r\n\r\nWe saw the role of SMS and
-  Twitter in getting the news out about the <a href=\"https://joncamfield.com/blog/2008.11/whats_happening_in_mumbai_twit.html\">Mumbai
+  Twitter in getting the news out about the <a href=\"https://joncamfield.com/blog/2008.11/whats-happening-in-mumbai-twit.html\">Mumbai
   bombings</a> in November 2008.  As microblogging sites get increasingly sophisticated
   (or their users settle on hashtags and location update formats) I think we can expect
   to see fast local news coming not from traditional media but from our peers.  Without
@@ -47,7 +47,7 @@ excerpt: "There's been a lot of noise about the role of Twitter in the recent Mo
   of twitterers reporting on each event to present an evenhanded view, but overall
   I see this move towards instant sharing of information as an amazing development
   that will only getbetter and more interesting, both in the case of free speech and
-  media, and for <a href=\"https://joncamfield.com/blog/2009.04/whats_next.html\">mobile
+  media, and for <a href=\"https://joncamfield.com/blog/2009.04/whats-next.html\">mobile
   possibilities for development</a>.\r\n"
 categories:
 - web 2.0 and f/loss
@@ -80,5 +80,5 @@ That's not the only story here, though.  While I'm excited about turning online 
 
 <blockquote>There are also a few moving English-language Twitter posts like this - "in #pman  a grenade thrown by the police has torn apart one of the protester's leg"-  that would surely be perused by foreign journalists. </blockquote>
 
-We saw the role of SMS and Twitter in getting the news out about the <a href="https://joncamfield.com/blog/2008.11/whats_happening_in_mumbai_twit.html">Mumbai bombings</a> in November 2008.  As microblogging sites get increasingly sophisticated (or their users settle on hashtags and location update formats) I think we can expect to see fast local news coming not from traditional media but from our peers.  Without editorial oversight or research/verification, we'll have to rely on mass numbers of twitterers reporting on each event to present an evenhanded view, but overall I see this move towards instant sharing of information as an amazing development that will only getbetter and more interesting, both in the case of free speech and media, and for <a href="https://joncamfield.com/blog/2009.04/whats_next.html">mobile possibilities for development</a>.
+We saw the role of SMS and Twitter in getting the news out about the <a href="https://joncamfield.com/blog/2008.11/whats-happening-in-mumbai-twit.html">Mumbai bombings</a> in November 2008.  As microblogging sites get increasingly sophisticated (or their users settle on hashtags and location update formats) I think we can expect to see fast local news coming not from traditional media but from our peers.  Without editorial oversight or research/verification, we'll have to rely on mass numbers of twitterers reporting on each event to present an evenhanded view, but overall I see this move towards instant sharing of information as an amazing development that will only getbetter and more interesting, both in the case of free speech and media, and for <a href="https://joncamfield.com/blog/2009.04/whats-next.html">mobile possibilities for development</a>.
 <!--break-->

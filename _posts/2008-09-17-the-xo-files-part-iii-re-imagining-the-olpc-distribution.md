@@ -1,6 +1,6 @@
 ---
 excerpt: "This entry is the third in the four-part series, \"The XO Files:
-  I Want to Believe\" <a href=\"https://www.joncamfield.com/blog/2008.09/i_want_to_believe.html\">Read
+  I Want to Believe\" <a href=\"https://www.joncamfield.com/blog/2008.09/i-want-to-believe.html\">Read
   Part I here</a></em>  What has OLPC done
   and what should it continue to change to make XO deployment smoother and more successful?"
 categories:
@@ -16,8 +16,8 @@ header:
 title: 'The XO Files Part III: Re-imagining the OLPC Distribution'
 created: 1221648653
 ---
-<p><em>This entry is the third in the four-part series, "The XO Files: I Want to Believe" <a href="https://www.joncamfield.com/blog/2008.09/i_want_to_believe.html">Read Part I here</a></em>, and <br />
-<a href="https://www.joncamfield.com/blog/2008.09/the_xo_files_part_ii_the_new_4.html">Part II, The New 4PC Market, and its Failings</a></em></p>
+<p><em>This entry is the third in the four-part series, "The XO Files: I Want to Believe" <a href="https://www.joncamfield.com/blog/2008.09/i-want-to-believe.html">Read Part I here</a></em>, and <br />
+<a href="https://www.joncamfield.com/blog/2008.09/the-xo-files-part-ii-the-new-4.html">Part II, The New 4PC Market, and its Failings</a></em></p>
 
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;"><img alt="The XO Files: I Want To Believe" src="https://joncamfield.com/images/i-want-to-believe-in-the-xo_sm.jpg" style="border: 2px solid black;"><br><span style="font-size: 0.9em; margin-top: 0px;">The XO Files: I Want To Believe</span></div>Part III: Re-imagining the OLPC Distribution
 
@@ -47,12 +47,12 @@ With time, this will change. “After the 2007 launch, as little as eight to 10 
 <p>The restriction of G1G1 2007 to North American donors was unfortunate, but hopefully G1G1 2008 will be more open.  Creating a global community of "early adopters" is key, beyond merely adding to the cadre of software developers (of course, whether that matters now with the move towards Windows XP is another question).  A global community will find innovative ways to use the XO, contribute to debugging, and content translation and creation.  At the very least, the experience will reveal remaining gaps in the software and UI through common tech support problems.</p>
 
 <h3>Fixing Distribution</h3>
-Again, OLPC has made some great strides in addressing their distribution problems -- running smaller pilot projects; the initial G1G1, though hasslesome, increased the user community; and G1G1 2008 looks to be even better.  There's even rumors of an OLPC partner in India looking at <a href="https://joncamfield.com/blog/2008.07/olpcs_with_cellmodems.html">selling OLPCs with cellmodems</a>.
+Again, OLPC has made some great strides in addressing their distribution problems -- running smaller pilot projects; the initial G1G1, though hasslesome, increased the user community; and G1G1 2008 looks to be even better.  There's even rumors of an OLPC partner in India looking at <a href="https://joncamfield.com/blog/2008.07/olpcs-with-cellmodems.html">selling OLPCs with cellmodems</a>.
 
 <p>OLPC needs to go further, to match innovation in distribution with their innovation in design.  The goals are to improve education worldwide at a fundamental, constructivist way.  The needs are high production runs to keep the costs low (ish).  </p>
 
 <p>An ongoing <a href="https://www.olpcnews.com/sales_talk/g1g1/give_almost_1_get_1.html">G1G1</a> with the ability for anyone in the world to order an XO would be a good start.  OLPC might have to be careful managing the non-profit side of that, but worst case is they spin off a small, focused for-profit company that manages selling and limited support -- which can provide even further feedback as to which features users find interesting and what are common requests (though, at the end of the day, I feel strongly that the <a href="https://www.olpcnews.com/sales_talk/competition/the_xo_files_part_ii.html">XO should retain its design focus</a> on low-cost and education-in-developing-world needs).</p>
 
-<p>Another option is to refactor the OLPC as a <a href="https://joncamfield.com/blog/2008.03/rethinking_the_olpc_distributi.html">"base of the pyramid" style technology</a>, selling it through financing and providing training to small businesses and entrepreneurs interested in bringing a portable cybercafe to their village, or in creating citizen media reports.</p>
+<p>Another option is to refactor the OLPC as a <a href="https://joncamfield.com/blog/2008.03/rethinking-the-olpc-distributi.html">"base of the pyramid" style technology</a>, selling it through financing and providing training to small businesses and entrepreneurs interested in bringing a portable cybercafe to their village, or in creating citizen media reports.</p>
 
 <p>In short, OLPC needs to look at new ways to get the XO into more hands - more users, more educators, more children, more entrepreneurs, more developers.  This creates a better infrastructure of content/guides/curricula for current and future deployments, helps in bug-testing, translation/localization, and creates a larger community like we already see in the global grassroots organizations and learning clubs, and on the <a href="https://www.olpcnews.com/forums">OLPCNews forums</a>.  These might not all march to the tune of the 1CC drums, but might just be the crowd the XO needs to thrive.</p>

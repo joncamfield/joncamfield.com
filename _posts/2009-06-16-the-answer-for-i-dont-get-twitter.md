@@ -16,7 +16,7 @@ The next time somebody cracks wise about Twitter, points to the vast numbers of 
 
 <blockquote>A critical network upgrade must be performed to ensure continued operation of Twitter. In coordination with Twitter, our network host had planned this upgrade for tonight. However, our network partners at NTT America recognize the role Twitter is currently playing as an important communication tool in Iran. Tonight's planned maintenance has been rescheduled to tomorrow between 2-3p PST (1:30a in Iran).</blockquote>
 
-As much as I fear <a href="https://joncamfield.com/blog/2009.05/after_the_sms_honeymoon_update.html">what happens after the honeymoon</a> with SMS and social media under repressive governments, currently they provide an amazing tool for immediate news even during crisis, citizen voice and discussion.
+As much as I fear <a href="https://joncamfield.com/blog/2009.05/after-the-sms-honeymoon-update.html">what happens after the honeymoon</a> with SMS and social media under repressive governments, currently they provide an amazing tool for immediate news even during crisis, citizen voice and discussion.
 
 <strong>Update</strong>: The State Department is now involved; https://ac360.blogs.cnn.com/2009/06/16/state-department-to-twitter-keep-iranian-tweets-coming/ :
 

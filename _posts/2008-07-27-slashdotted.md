@@ -1,7 +1,7 @@
 ---
 excerpt: <p>I seem to be up at <a href="https://mobile.slashdot.org/article.pl?sid=08/07/26/239231">Slashdot.org</a>
   again with the OLPC; this time with my OLPCNews piece combing through the <a href="https://www.olpcnews.com/sales_talk/microsoft/windows_xo_video_dissection_.html">video
-  of Windows on the OLPC</a> (also <a href="https://www.joncamfield.com/blog/2008.05/ms_on_xo_its_so_bad_you_have_t.html">published
+  of Windows on the OLPC</a> (also <a href="https://www.joncamfield.com/blog/2008.05/ms-on-xo-its-so-bad-you-have-t.html">published
   on JonCamfield.com</a>.  The comments are a lot better this time around, with a
   few complaints about my clear anti-MS bias.  </p>
 categories:
@@ -12,7 +12,7 @@ categories:
 title: Slashdotted
 created: 1217134902
 ---
-<p>I seem to be up at <a href="https://mobile.slashdot.org/article.pl?sid=08/07/26/239231">Slashdot.org</a> again with the OLPC; this time with my OLPCNews piece combing through the <a href="https://www.olpcnews.com/sales_talk/microsoft/windows_xo_video_dissection_.html">video of Windows on the OLPC</a> (also <a href="https://www.joncamfield.com/blog/2008.05/ms_on_xo_its_so_bad_you_have_t.html">published on JonCamfield.com</a>.  The comments are a lot better this time around, with a few complaints about my clear anti-MS bias.  </p>
+<p>I seem to be up at <a href="https://mobile.slashdot.org/article.pl?sid=08/07/26/239231">Slashdot.org</a> again with the OLPC; this time with my OLPCNews piece combing through the <a href="https://www.olpcnews.com/sales_talk/microsoft/windows_xo_video_dissection_.html">video of Windows on the OLPC</a> (also <a href="https://www.joncamfield.com/blog/2008.05/ms-on-xo-its-so-bad-you-have-t.html">published on JonCamfield.com</a>.  The comments are a lot better this time around, with a few complaints about my clear anti-MS bias.  </p>
 
 <p>You know when slashdotters are complaining about your <strong>anti</strong>-Microsoft bias, you must be doing something right.</p>
 

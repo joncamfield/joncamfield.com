@@ -1,5 +1,5 @@
 ---
-excerpt: "In <a href=\"https://joncamfield.com/blog/2009.07/social_networks_not_facebook_a.html\">Social
+excerpt: "In <a href=\"https://joncamfield.com/blog/2009.07/social-networks-not-facebook-a.html\">Social
   Networks (not Facebook) and Development</a> I covered the relevance of local social
   networks and social capital / trust for successful, long-term community and economic
   development.\r\n\r\nFinding, engaging an empowering local social networks is the
@@ -31,7 +31,7 @@ tags:
 title: Social Networks (including Facebook) and Technology Transfer
 created: 1248891055
 ---
-In <a href="https://joncamfield.com/blog/2009.07/social_networks_not_facebook_a.html">Social Networks (not Facebook) and Development</a> I covered the relevance of local social networks and social capital / trust for successful, long-term community and economic development.
+In <a href="https://joncamfield.com/blog/2009.07/social-networks-not-facebook-a.html">Social Networks (not Facebook) and Development</a> I covered the relevance of local social networks and social capital / trust for successful, long-term community and economic development.
 
 Finding, engaging an empowering local social networks is the first step.  I believe connecting these networks to the global communities of interest and practice on the Internet can provide a multiplier effect.
 

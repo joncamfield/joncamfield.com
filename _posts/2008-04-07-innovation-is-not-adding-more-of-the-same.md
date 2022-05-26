@@ -1,7 +1,7 @@
 ---
-excerpt: "<p>You might say that I've <a href=\"https://www.joncamfield.com/blog/2008.01/news_update_competitors_have_a.html\">at
-  times</a> been <a href=\"https://www.joncamfield.com/blog/2007.07/blasts_from_the_past.html\">critical</a>
-  of the <a href=\"https://www.joncamfield.com/blog/2006.12/the_true_cost_of_the_olpc.html\">OLPC
+excerpt: "<p>You might say that I've <a href=\"https://www.joncamfield.com/blog/2008.01/news-update-competitors-have-a.html\">at
+  times</a> been <a href=\"https://www.joncamfield.com/blog/2007.07/blasts-from-the-past.html\">critical</a>
+  of the <a href=\"https://www.joncamfield.com/blog/2006.12/the-true-cost-of-the-olpc.html\">OLPC
   project</a>, but rarely do I have anything bad to say about their actual technology.
   \ Intel has a <a href=\"https://www.technologyreview.com/Wire/20514/?nlid=985\" target=\"_blank\">new
   hardware revision out for their Classmate</a>, and it reveals that while they get
@@ -26,7 +26,7 @@ categories:
 title: Innovation is not adding more of the same
 created: 1207605117
 ---
-<p>You might say that I've <a href="https://www.joncamfield.com/blog/2008.01/news_update_competitors_have_a.html">at times</a> been <a href="https://www.joncamfield.com/blog/2007.07/blasts_from_the_past.html">critical</a> of the <a href="https://www.joncamfield.com/blog/2006.12/the_true_cost_of_the_olpc.html">OLPC project</a>, but rarely do I have anything bad to say about their actual technology.  Intel has a <a href="https://www.technologyreview.com/Wire/20514/?nlid=985" target="_blank">new hardware revision out for their Classmate</a>, and it reveals that while they get the implementation angle, they continue to miss the innovation needs:</p>
+<p>You might say that I've <a href="https://www.joncamfield.com/blog/2008.01/news-update-competitors-have-a.html">at times</a> been <a href="https://www.joncamfield.com/blog/2007.07/blasts-from-the-past.html">critical</a> of the <a href="https://www.joncamfield.com/blog/2006.12/the-true-cost-of-the-olpc.html">OLPC project</a>, but rarely do I have anything bad to say about their actual technology.  Intel has a <a href="https://www.technologyreview.com/Wire/20514/?nlid=985" target="_blank">new hardware revision out for their Classmate</a>, and it reveals that while they get the implementation angle, they continue to miss the innovation needs:</p>
 
 Intel Corp. unveiled new features for its line of low-cost laptops for schools Wednesday, adding bigger screens and more data storage capacity as the chip maker ratchets up its rivalry with the One Laptop per Child organization, which sells a competing machine.
 

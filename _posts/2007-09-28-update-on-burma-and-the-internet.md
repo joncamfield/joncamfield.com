@@ -15,4 +15,4 @@ created: 1191004277
 <p>As a clarification, and no surprise here: officials in the military regime controlling Burma (Myanmar) still have internet access, regular folks do not.</p><p>BB reader <a href="https://shareintent.blogspot.com">Dave Hecht</a> adds</p>The NYT's Lede blog has pretty extensive coverage of Burmese military junta's shutdown of public internet and other communications channels.  We must be living in the future if to stop a revolution, the government needs to shutdown the Internet.  The Times page has links to blogs, some of which are still up, some which are ominously blacked out. <a href="https://thelede.blogs.nytimes.com/2007/09/28/burmese-government-clamps-down-on-internet/index.html">Link</a>.
 
 
-<p>Anybody got some <a href="https://www.joncamfield.com/blog/2006.02/pringles_cans_on_the_saudi_bor.html">Pringles cans</a> handy?</p>
+<p>Anybody got some <a href="https://www.joncamfield.com/blog/2006.02/pringles-cans-on-the-saudi-border.html">Pringles cans</a> handy?</p>

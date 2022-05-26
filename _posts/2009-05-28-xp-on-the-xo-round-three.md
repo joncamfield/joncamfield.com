@@ -8,7 +8,7 @@ excerpt: "<div style=\"float: right; margin-left: 10px; margin-bottom: 5px;\"><a
   representatives inquire if Windows XP runs on the XO laptop. That doesn't really
   come as a surprise - for many people Windows is the definition of a computer. However,
   upon further investigation every country decided to stick to Sugar.</blockquote>\r\n\r\nIt's
-  hardly a surprise, based on the wretched state of <a href=\"https://joncamfield.com/blog/2008.05/ms_on_xo_its_so_bad_you_have_t.html\">XP
+  hardly a surprise, based on the wretched state of <a href=\"https://joncamfield.com/blog/2008.05/ms-on-xo-its-so-bad-you-have-t.html\">XP
   on the XO</a> for educational purposes.\r\n\r\nThe surprising part is that after
   thousands of people screaming (including myself) about XP on the XO, the news that
   everyone is choosing Sugar went almost unnoticed.\r\n\r\nThis is a very good, if
@@ -35,7 +35,7 @@ created: 1243524050
 
 <blockquote>Apparently the conversations are going pretty much as many of us had expected: Initially country representatives inquire if Windows XP runs on the XO laptop. That doesn't really come as a surprise - for many people Windows is the definition of a computer. However, upon further investigation every country decided to stick to Sugar.</blockquote>
 
-It's hardly a surprise, based on the wretched state of <a href="https://joncamfield.com/blog/2008.05/ms_on_xo_its_so_bad_you_have_t.html">XP on the XO</a> for educational purposes.
+It's hardly a surprise, based on the wretched state of <a href="https://joncamfield.com/blog/2008.05/ms-on-xo-its-so-bad-you-have-t.html">XP on the XO</a> for educational purposes.
 
 The surprising part is that after thousands of people screaming (including myself) about XP on the XO, the news that everyone is choosing Sugar went almost unnoticed.
 

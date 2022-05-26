@@ -1,5 +1,5 @@
 ---
-excerpt: <p>In thinking about eBay in my post on <a href="https://www.joncamfield.com/blog/2008.07/can_many_give_many.html">tricky
+excerpt: <p>In thinking about eBay in my post on <a href="https://www.joncamfield.com/blog/2008.07/can-many-give-many.html">tricky
   ways to "Give Many" OLPC XO laptops</a>, I was reminded about something that has
   bugged me for a very long time about eBay.</p>
 categories:
@@ -10,7 +10,7 @@ categories:
 title: eBay Market Data
 created: 1215511543
 ---
-<p>In thinking about eBay in my post on <a href="https://www.joncamfield.com/blog/2008.07/can_many_give_many.html">tricky ways to "Give Many" OLPC XO laptops</a>, I was reminded about something that has bugged me for a very long time about eBay.</p>
+<p>In thinking about eBay in my post on <a href="https://www.joncamfield.com/blog/2008.07/can-many-give-many.html">tricky ways to "Give Many" OLPC XO laptops</a>, I was reminded about something that has bugged me for a very long time about eBay.</p>
 
 <a href="https://developer.ebay.com/programs/marketdata/"></a><br><b>eBay's data goldmine</b>
 eBay is sitting on a vast goldmine of data that for the longest time I wasn't sure they realize they have.  eBay knows the market price of just about anything, from a soul (well, not anymore) to <a href="https://www.weirdebay.com/" target="_Blank">random and weird goods</a> to a pretty specific hardware-configuration of a used laptop.  Even more, they know the market price for these items over time.

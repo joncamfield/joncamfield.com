@@ -28,4 +28,4 @@ Other than the incredible Carla Gomez-Monroy who worked on setting up the pilots
 
 <p>[...] That OLPC was never serious about solving deployment, and that it seems to no longer be interested in even trying, is criminal. Left uncorrected, it will turn the project into a historical fuckup unparalleled in scale.</p>
 
-<p>I <a> <a href="https://www.olpcnews.com/sales_talk/price/the_real_cost_of_the.html">put it</a>  <a href="https://www.joncamfield.com/blog/2006.11/library_grants_laptop_gambles.html">better</a>  <a href="https://www.joncamfield.com/blog/2006.12/lets_try_this_again.html">myself</a>.</p>
+<p>I <a> <a href="https://www.olpcnews.com/sales_talk/price/the_real_cost_of_the.html">put it</a>  <a href="https://www.joncamfield.com/blog/2006.11/library-grants-laptop-gambles.html">better</a>  <a href="https://www.joncamfield.com/blog/2006.12/lets-try-this-again.html">myself</a>.</p>
