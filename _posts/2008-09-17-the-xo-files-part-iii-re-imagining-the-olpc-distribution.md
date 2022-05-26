@@ -16,8 +16,8 @@ header:
 title: 'The XO Files Part III: Re-imagining the OLPC Distribution'
 created: 1221648653
 ---
-<p><em>This entry is the third in the four-part series, "The XO Files: I Want to Believe" <a href="https://www.joncamfield.com/blog/2008.09/i-want-to-believe.html">Read Part I here</a></em>, and <br />
-<a href="https://www.joncamfield.com/blog/2008.09/the-xo-files-part-ii-the-new-4.html">Part II, The New 4PC Market, and its Failings</a></em></p>
+
+<p><em>This entry is the beginning of a four part series, "The XO Files: I Want to Believe in the XO" <a href="https://www.joncamfield.com/blog/2008.09/the-xo-files-i-want-to-believe.html">Read Part I here</a>, then <a href="https://www.joncamfield.com/blog/2008.09/the-xo-files-part-ii-the-new-4pc-market-and-its-failings.html">Part II, The New 4PC Market, and its Failings</a>,  <a href="https://www.joncamfield.com/blog/2008.09/the-xo-files-part-iii-re-imagining-the-olpc-distribution.html">Part III: Re-imagining the OLPC Distribution</a>, and <a href="https://www.joncamfield.com/blog/2009.01/the-xo-files-part-iv-new-years-resolutions-for-1cc.html">Part IV: New Years Resolutions for 1CC</a>.</em></p>
 
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;"><img alt="The XO Files: I Want To Believe" src="https://joncamfield.com/images/i-want-to-believe-in-the-xo_sm.jpg" style="border: 2px solid black;"><br><span style="font-size: 0.9em; margin-top: 0px;">The XO Files: I Want To Believe</span></div>Part III: Re-imagining the OLPC Distribution
 

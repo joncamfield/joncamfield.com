@@ -1,29 +1,9 @@
 ---
-excerpt: "<p><em>This entry is part four in the series, \"The XO Files: I Want to
-  Believe in the XO\" <a href=\"https://www.joncamfield.com/blog/2008.09/i-want-to-believe.html\">Read
-  Part I here</a></em>, then <a href=\"https://www.joncamfield.com/blog/2008.09/the-xo-files-part-ii-the-new-4.html\">Part
-  II, The New 4PC Market, and its Failings</a>, and  <a href=\"https://www.joncamfield.com/blog/2008.09/iwtb-part-iii-reimagining-the.html\">Part
-  III: Re-imagining the OLPC Distribution</a>.</em></p>\r\n\r\n<h2>The XO Files Part
-  IV: New Years Resolutions for 1CC</h2>\r\n<div style=\"float: right; margin-left:
-  10px; margin-bottom: 10px;\"><img alt=\"The XO Files: I Want To Believe\" src=\"https://joncamfield.com//images/xo-files-i-want-to-believe_sm.jpg\"
-  style=\"border: 2px solid black;\"><br><span style=\"font-size: 0.9em; margin-top:
-  0px;\">The XO Files: I Want To Believe</span></div>\r\n\r\n<p>The beginning of 2009
-  <a href=\"https://www.olpcnews.com/people/negroponte/olpc_just_got_gutted.html\">isn't
-  going so well for the OLPC Foundation</a> over at 1CC, with <a href=\"https://www.olpcnews.com/people/leadership/give_one_gone_one_olpc_developer.html\">layoffs</a>
-  and <a href=\"https://www.olpcnews.com/sales_talk/g1g1_2008/olpc_bust_g1g1_2008_sales.html\">very
-  disappointing G1G1 sales</a>.</p>\r\n\r\n<p>To (finally) close up my \"I want to
-  believe\" series on how things went wrong, and how things could go very right with
-  the OLPC dream, let me offer some resolutions for the Foundation to consider for
-  2009.</p>\r\n\r\n<p><strong>I will decide on a mission statement</strong><br />\r\nThat
-  is, \"I will accept that OLPC is and has always been a laptop project, not an education
-  project\".  And that's OK, if presented as such.  The world needs a laptop like
-  the XO, and it can still help improve education.  But let's agree that the XO is
-  a laptop and not an education miracle, and treat it as such - a wonderfully well-designed
-  and flexible tool that can be used in many contexts in international development
-  projects and in more quotidian ways as well.  This opens up more \"markets\" for
-  the XO, widens the potential scope, and creates a much larger and diverse user-base
-  who can benefit from and contribute back to the ongoing development of the XO.</p>\r\n\r\n<p><strong>I
-  will stop overreaching</strong><br />\r\n"
+header:
+  image: /assets/images/xo-files-i-want-to-believe.jpg
+  teaser: /assets/images/xo-files-i-want-to-believe.jpg
+  #caption: ""
+
 categories:
 - ict4d
 - olpc
@@ -35,7 +15,7 @@ tags:
 title: 'The XO Files Part IV: New Years Resolutions for 1CC'
 created: 1232535055
 ---
-<p><em>This entry is part four in the series, "The XO Files: I Want to Believe in the XO" <a href="https://www.joncamfield.com/blog/2008.09/i-want-to-believe.html">Read Part I here</a></em>, then <a href="https://www.joncamfield.com/blog/2008.09/the-xo-files-part-ii-the-new-4.html">Part II, The New 4PC Market, and its Failings</a>, and  <a href="https://www.joncamfield.com/blog/2008.09/iwtb-part-iii-reimagining-the.html">Part III: Re-imagining the OLPC Distribution</a>.</em></p>
+<p><em>This entry is the beginning of a four part series, "The XO Files: I Want to Believe in the XO" <a href="https://www.joncamfield.com/blog/2008.09/the-xo-files-i-want-to-believe.html">Read Part I here</a>, then <a href="https://www.joncamfield.com/blog/2008.09/the-xo-files-part-ii-the-new-4pc-market-and-its-failings.html">Part II, The New 4PC Market, and its Failings</a>,  <a href="https://www.joncamfield.com/blog/2008.09/the-xo-files-part-iii-re-imagining-the-olpc-distribution.html">Part III: Re-imagining the OLPC Distribution</a>, and <a href="https://www.joncamfield.com/blog/2009.01/the-xo-files-part-iv-new-years-resolutions-for-1cc.html">Part IV: New Years Resolutions for 1CC</a>.</em></p>
 
 <h2>The XO Files Part IV: New Years Resolutions for 1CC</h2>
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;"><img alt="The XO Files: I Want To Believe" src="https://joncamfield.com//images/xo-files-i-want-to-believe_sm.jpg" style="border: 2px solid black;"><br><span style="font-size: 0.9em; margin-top: 0px;">The XO Files: I Want To Believe</span></div>
