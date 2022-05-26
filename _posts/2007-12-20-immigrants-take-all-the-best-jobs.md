@@ -1,7 +1,7 @@
 ---
 excerpt: <p>For example, I bet there's a long line of good ol' american workers who
   would love to have solid, agriculture jobs in Florida, like the one described in
-  <a href="http://www.nzherald.co.nz/section/2/story.cfm?c_id=2&objectid=10483620">this
+  <a href="https://www.nzherald.co.nz/section/2/story.cfm?c_id=2&objectid=10483620">this
   article</a>:</p>
 categories:
 - ict4d
@@ -10,7 +10,7 @@ categories:
 title: Immigrants take all the best jobs
 created: 1198175134
 ---
-<p>For example, I bet there's a long line of good ol' american workers who would love to have solid, agriculture jobs in Florida, like the one described in <a href="http://www.nzherald.co.nz/section/2/story.cfm?c_id=2&objectid=10483620">this article</a>:</p>
+<p>For example, I bet there's a long line of good ol' american workers who would love to have solid, agriculture jobs in Florida, like the one described in <a href="https://www.nzherald.co.nz/section/2/story.cfm?c_id=2&objectid=10483620">this article</a>:</p>
 
 Fruit-pickers, who typically earn about US$200 a week, are part of an unregulated system designed to keep food prices low and the plates of the US's overweight families piled high. The migrants, largely Hispanic and with many of them from Mexico, are the last wretched link in a long chain of exploitation and abuse. They are paid US45c for every 14.5kg bucket of tomatoes collected. A worker has to pick nearly 2 1/2 tonnes of tomatoes - a near impossibility - in order to reach minimum wage.
 

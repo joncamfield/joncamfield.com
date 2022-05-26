@@ -33,7 +33,7 @@ created: 1225920269
 Total Cost of Ownership (TCO): A Study  of Models of Affordable Computing for<br />
             Schools in Developing Countries</strong></p>
 <p>
-The event will be webcast live via <a href="http://www.worldbank.org/edevelopment/live" target="_blank">http://www.worldbank.org/edevelopment/live</a>            and archived for later viewing online.<br />
+The event will be webcast live via <a href="https://www.worldbank.org/edevelopment/live" target="_blank">https://www.worldbank.org/edevelopment/live</a>            and archived for later viewing online.<br />
   <br />
 Speakers: Karen Coppock, PhD., VP of  Consulting Services, and Brendan Smith,
           Senior Consultant, Vital Wave Consulting<br />
@@ -95,13 +95,13 @@ to technology use in education and presents  several major findings, including:<
   Ownership (TCO) Model for Education  Officials<br />
   Affordable Computing for Schools in India:  A Total Cost of Ownership (TCO)<br />
   Case Study<br />
-  <a href="http://www.vitalwaveconsulting.com/insights/articles-presentations.htm" target="_blank">http://www.vitalwaveconsulting.com/insights/articles-presentations.htm</a><br />
+  <a href="https://www.vitalwaveconsulting.com/insights/articles-presentations.htm" target="_blank">https://www.vitalwaveconsulting.com/insights/articles-presentations.htm</a><br />
   <br />
   infoDev Knowledge Map: ICTs in Education:  Costs<br />
-  <a href="http://infodev.org/en/Publication.159.html" target="_blank">http://infodev.org/en/Publication.159.html</a><br />
+  <a href="https://infodev.org/en/Publication.159.html" target="_blank">https://infodev.org/en/Publication.159.html</a><br />
   <br />
   GeSCI TCO Tool<br />
-  <a href="http://www.gesci.org/index.php?option=com_content&task=view&id=37&Itemid=43" target="_blank">http://www.gesci.org/index.php?option=com_content&task=view&id=37&Itemid=43</a><br />
+  <a href="https://www.gesci.org/index.php?option=com_content&task=view&id=37&Itemid=43" target="_blank">https://www.gesci.org/index.php?option=com_content&task=view&id=37&Itemid=43</a><br />
   <br />
   <strong>Logistics for participation in Washington DC:</strong><br />
   Registration is required for outside  participants / non-World Bank staff.<br />

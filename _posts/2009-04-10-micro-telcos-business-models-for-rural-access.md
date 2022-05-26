@@ -1,9 +1,9 @@
 ---
 excerpt: "<div style=\"float: right; margin-left: 10px; margin-bottom: 10px;\"><a
-  href=\"http://www.flickr.com/photos/griffjon/1429666728/\" ><img src=\"http://farm2.static.flickr.com/1429/1429666728_b194ece9e2_m.jpg\"
+  href=\"https://www.flickr.com/photos/griffjon/1429666728/\" ><img src=\"https://farm2.static.flickr.com/1429/1429666728_b194ece9e2_m.jpg\"
   width=\"240\" height=\"180\" alt=\"Can Urban Connectivity Go Rural?\" style=\"border:
   2px solid rgb(0, 0, 0);\" /><br /><span style=\"font-size: 0.9em; margin-top: 0px;\">Can
-  Urban Connectivity Go Rural?</span></a></div>  This month's <a href=\"http://technologysalon.org/2009/03/designing-a-micro-mobile-telco.html\">Technology
+  Urban Connectivity Go Rural?</span></a></div>  This month's <a href=\"https://technologysalon.org/2009/03/designing-a-micro-mobile-telco.html\">Technology
   Salon</a> approached last-mile connectivity problems from an entrepreneurship standpoint.
   \ What are the barriers to creating small, possibly local-only telcos using various
   technologies, and how can those scale through investment, international development
@@ -27,7 +27,7 @@ tags:
 title: Micro Telcos - Business Models for Rural Access?
 created: 1239379508
 ---
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="http://www.flickr.com/photos/griffjon/1429666728/" ><img src="http://farm2.static.flickr.com/1429/1429666728_b194ece9e2_m.jpg" width="240" height="180" alt="Can Urban Connectivity Go Rural?" style="border: 2px solid rgb(0, 0, 0);" /><br /><span style="font-size: 0.9em; margin-top: 0px;">Can Urban Connectivity Go Rural?</span></a></div>  This month's <a href="http://technologysalon.org/2009/03/designing-a-micro-mobile-telco.html">Technology Salon</a> approached last-mile connectivity problems from an entrepreneurship standpoint.  What are the barriers to creating small, possibly local-only telcos using various technologies, and how can those scale through investment, international development assistance, or franchising?
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="https://www.flickr.com/photos/griffjon/1429666728/" ><img src="https://farm2.static.flickr.com/1429/1429666728_b194ece9e2_m.jpg" width="240" height="180" alt="Can Urban Connectivity Go Rural?" style="border: 2px solid rgb(0, 0, 0);" /><br /><span style="font-size: 0.9em; margin-top: 0px;">Can Urban Connectivity Go Rural?</span></a></div>  This month's <a href="https://technologysalon.org/2009/03/designing-a-micro-mobile-telco.html">Technology Salon</a> approached last-mile connectivity problems from an entrepreneurship standpoint.  What are the barriers to creating small, possibly local-only telcos using various technologies, and how can those scale through investment, international development assistance, or franchising?
 
 The on-the-ground situation is good connectivity in urban and peri-urban areas, often including land-line support as well as mobile coverage. As you get further out into rural areas, coverage dwindles; without populations large enough to support (currently) the cost of installation and maintenance of a cell tower, the large firms are not interested.  The telecom industry is often dominated by 3-4 large companies, often heavily regulated and/or in cahoots with the government.
 
@@ -35,7 +35,7 @@ We're taking as a given that communications are essential to further economic de
 
 Rural areas in the United States encountered similar problems during our own roll out of telecommunications, and created rural telcos at first, and eventually were connected thanks to the Universal Service Fund. The Fund model was often suggested as a path forward for expanding rural access; as was simply requiring rural access as part of the licensing requirements with the government.
 
-We see in the wild today many pilots and entrepreneurial attempts to bridge this gap, from the Grameen Village Phone style projects (which help if there's cell coverage but no cell phones) and more ambitious (and expensive) <a href="http://joncamfield.com/blog/2008/07/technology_transformations_for.html">WiMax in Vietnam</a>; but none of the micro-telco projects has fully caught fire and scaled up or spread out where there is no infrastructure available.  As the hardware prices and complexity drop, it seems like there should be some business plan that could provide connectivity and be a good business for a local entrepreneur.
+We see in the wild today many pilots and entrepreneurial attempts to bridge this gap, from the Grameen Village Phone style projects (which help if there's cell coverage but no cell phones) and more ambitious (and expensive) <a href="https://joncamfield.com/blog/2008.07/technology_transformations_for.html">WiMax in Vietnam</a>; but none of the micro-telco projects has fully caught fire and scaled up or spread out where there is no infrastructure available.  As the hardware prices and complexity drop, it seems like there should be some business plan that could provide connectivity and be a good business for a local entrepreneur.
 
 Costs and compatibility are one problem - the cheapest wireless handsets by a wide margin remain GSM cellphones, with wifi and WiMax phones trailing behind. The wifi/wimax systems are easier to put together for a local phone system, but GSM phones are cheaper and could integrate better into existing telco networks over time.  Regardless of the handsets, the backhaul system remains expensive and requires either scale or other paid services to link a rural telco to the national system.
 
@@ -53,4 +53,4 @@ This helps co-opt the large telcos and involve them rather than competing with t
 
 There is no clear path forward for micro telco success.  Much depends on the local government and existing large telco providers, as well as demand and constantly-changing technology prices.  The ongoing task for now is finding and sharing business models that are showing success and gracefully managing the transition to working and/or competing with large telcos.
 
-Check out another writeup back at <a href="http://technologysalon.org/2009/04/micro-mobile-telco-business-model.html">TechnologySalon.org</a>
+Check out another writeup back at <a href="https://technologysalon.org/2009/04/micro-mobile-telco-business-model.html">TechnologySalon.org</a>

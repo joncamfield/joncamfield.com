@@ -22,7 +22,7 @@ created: 1339205267
 <table><tr><td width="50%">
 "The telescreen received and transmitted simultaneously. Any sound [...] would be picked up by it, moreover, so long as he remained within the field of vision which the metal plaque commanded, he could be seen as well as heard.[...] [T]hey could plug in your wire whenever they wanted to. You had to live--did live, from habit that became instinct--in the assumption that every sound you made was overheard, and, except in darkness, every movement scrutinized.</td><td>[The]  promising technology in a set-top box that can, “can distinguish who is watching, potentially allowing Intel to target advertising”. The technology could potentially identify if the viewer is an adult or a child, male or female, and so on, through interactive features and face recognition technology.
 </td></tr></table>
-The product description on the left is from George Orwell's <a href="http://gutenberg.net.au/ebooks01/0100021.txt">1984's telescreen</a>.  On the right, we have Intel's <a href="http://hothardware.com/News/Intel-Hoping-to-Launch-TV-Service-by-the-End-of-the-Year/">ad-targeting, face-recognizing TV</a>.
+The product description on the left is from George Orwell's <a href="https://gutenberg.net.au/ebooks01/0100021.txt">1984's telescreen</a>.  On the right, we have Intel's <a href="https://hothardware.com/News/Intel-Hoping-to-Launch-TV-Service-by-the-End-of-the-Year/">ad-targeting, face-recognizing TV</a>.
 
 Speculative fiction nailed reality, but missed the target on who was doing the spying.
 

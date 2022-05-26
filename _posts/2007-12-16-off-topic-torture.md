@@ -1,5 +1,5 @@
 ---
-excerpt: <p><a href="http://www.salon.com/news/feature/2007/12/14/bashmilah/">Salon.com</a>
+excerpt: <p><a href="https://www.salon.com/news/feature/2007/12/14/bashmilah/">Salon.com</a>
   has an exclusive article detailing the detainment of an innocent Yemeni citizen
   in CIA's black site prisons:</p>
 categories:
@@ -9,7 +9,7 @@ categories:
 title: 'Off Topic: Torture'
 created: 1197855004
 ---
-<p><a href="http://www.salon.com/news/feature/2007/12/14/bashmilah/">Salon.com</a> has an exclusive article detailing the detainment of an innocent Yemeni citizen in CIA's black site prisons:</p>
+<p><a href="https://www.salon.com/news/feature/2007/12/14/bashmilah/">Salon.com</a> has an exclusive article detailing the detainment of an innocent Yemeni citizen in CIA's black site prisons:</p>
 
 The guards wore black masks and black clothes. They would not utter a word as they extracted Bashmilah from his cell for interrogation -- one of his few interactions with other human beings during his entire 19 months of imprisonment. Nobody told him where he was, or if he would ever be freed.
 

@@ -29,7 +29,7 @@ As we debate "responsible encryption," here is a long scroll of pullquotes from 
 
 ## 1996
 > "The problem is this: Individuals and businesses have **a legitimate need to protect information from interlopers** through the use of cryptography. But law enforcement officials fear that drug dealers and terrorists using cryptography will be able to thwart legally authorized surveillance and search warrants. National security officials are concerned that encrypted communications may frustrate intelligence collection against parties that might be building nuclear or biological weapons for use against the United States."
--- http://www.washingtonpost.com/wp-srv/politics/special/encryption/stories/ocr072396.htm
+-- https://www.washingtonpost.com/wp-srv/politics/special/encryption/stories/ocr072396.htm
 
 ## 1997
 
@@ -54,12 +54,12 @@ As we debate "responsible encryption," here is a long scroll of pullquotes from 
 
 ## 2014, note - 2 years before the San Bernadino case
 > "Comey also posed as a question “whether companies not subject currently to Calea should be **required to build lawful intercept capabilities** for law enforcement”, something he contended would not “expand” FBI authorities”. Calea is a 1994 surveillance law mandating that law enforcement and intelligence agencies have access to telecommunications data, which Comey described as archaic in the face of technological innovation. …  Comey, **frequently referring to “bad guys” using encryption**, argued access to the cloud is insufficient. “Uploading to the cloud doesn’t include all the stored data on the bad guy’s phone,” he said. “It’s the people who are most worried what’s on the device who will be most likely to avoid the cloud.”"
--- http://www.theguardian.com/us-news/2014/oct/16/fbi-director-attacks-tech-companies-encryption
+-- https://www.theguardian.com/us-news/2014/oct/16/fbi-director-attacks-tech-companies-encryption
 
 
 ## 2015
 > "Under questioning Comey admitted that **even if the US did pass laws allowing law enforcement access to encrypted information, there were still plenty of tools produced outside of the US that would be untappable**, saying "we'd have a heck of a time trying to do that." Comey declined to say if selling borked crypto would put American companies at a disadvantage when trying to sell overseas. "
--- http://www.theregister.co.uk/2015/07/08/crap_crypto_enforcement_laws_coming_as_fbi_boss_testifies_to_congress/
+-- https://www.theregister.co.uk/2015/07/08/crap_crypto_enforcement_laws_coming_as_fbi_boss_testifies_to_congress/
 
 
 ## 2016
@@ -67,7 +67,7 @@ As we debate "responsible encryption," here is a long scroll of pullquotes from 
 Oh you dear sweet summer child...
 
 > "**If history repeats itself first as tragedy and then as farce, what does the FBI have in store next for its encryption war with Apple**? … Yet forgive us if this “conversation” now seems more like a Jim Comey monologue. The debate might start to be productive if the FBI Director would stop trying to use the courts as an ad hoc policy tool and promised not to bring any more cases like the one in Brooklyn. Meanwhile, the White House has taken the profile-in-courage stand of refusing to endorse or oppose any encryption bill that Congress may propose. If the Obama team won’t start adjusting to the technological realities of strong and legal encryption, they could at least exercise some adult supervision at Main Justice.
--- http://www.wsj.com/articles/the-encryption-farce-1461624399  / https://archive.is/CYpbc
+-- https://www.wsj.com/articles/the-encryption-farce-1461624399  / https://archive.is/CYpbc
 
 
 ## 2017
@@ -76,7 +76,7 @@ Oh you dear sweet summer child...
 
 > "The Justice Department signaled Tuesday it intends to take a more aggressive posture in seeking access to encrypted information from technology companies, setting the stage for another round of clashes in the tug of war between privacy and public safety. … “Warrant-proof encryption is not just a law enforcement problem,” Mr. Rosenstein said at a conference at the U.S. Naval Academy. “The public bears the cost. When our investigations of violent criminal organizations come to a halt because we cannot access a phone, even with a court order, lives may be lost.
 >" “Technology **companies almost certainly will not develop responsible encryption if left to their own devices**,” Mr. Rosenstein said. “Competition will fuel a mind-set that leads them to produce products that are more and more impregnable. That will give criminals and terrorists more opportunities to cause harm with impunity.””
--- https://www.wsj.com/articles/justice-department-to-be-more-aggressive-in-seeking-encrypted-data-1507651438 / http://archive.is/i1jNu
+-- https://www.wsj.com/articles/justice-department-to-be-more-aggressive-in-seeking-encrypted-data-1507651438 / https://archive.is/i1jNu
 
 ## 2018
 > "Warrant-proof encryption defeats the constitutional balance by elevating privacy above public safety.  Encrypted communications that cannot be intercepted and locked devices that cannot be opened are law-free zones that permit criminals and terrorists to operate without detection by police and without accountability by judges and juries."
@@ -89,7 +89,7 @@ Oh you dear sweet summer child...
 > "One of the most profoundly disruptive developments occurring in the cyber security arena today is the headlong rush by a set of parties to ubiquitously implement extreme End-to-End (e2e) encryption […] The generally understood objective by its zealous leaders is to cause everyone except the end parties of the communications services to "go dark""
 > "Responsible commercial and intergovernmental industry technical venues have for decades adopted appropriate forms of Transport, Network, and Application Layer Security — rejecting extreme e2e encryption capabilities"
 > "There is flatly no "right" to unfettered personal encrypted communication on publicly available infrastructures and services."
--- Future talking points to watch for, via http://www.circleid.com/posts/20171024_legal_controls_on_extreme_end_to_end_encryption_ee2ee/
+-- Future talking points to watch for, via https://www.circleid.com/posts/20171024_legal_controls_on_extreme_end_to_end_encryption_ee2ee/
 
 > “I think there should be [room for compromise],” Wray said Wednesday night at a national security conference in Aspen, Colorado. “I don’t want to characterize private conversations we’re having with people in the industry. We’re not there yet for sure. And if we can’t get there, there may be other remedies, like legislation, that would have to come to bear.” -- https://www.cyberscoop.com/fbi-director-without-compromise-encryption-legislation-may-remedy/
 

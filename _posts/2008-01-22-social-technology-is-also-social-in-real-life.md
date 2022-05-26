@@ -1,5 +1,5 @@
 ---
-excerpt: <p><a href="http://www.wired.com/culture/lifestyle/magazine/16-02/st_essay">Wired
+excerpt: <p><a href="https://www.wired.com/culture/lifestyle/magazine/16-02/st_essay">Wired
   is running a story</a> on how social networking technologies support, rather than
   diminish real-life networks of people:</p>
 categories:
@@ -8,7 +8,7 @@ categories:
 title: Social Technology is also Social (in real life)
 created: 1201024339
 ---
-<p><a href="http://www.wired.com/culture/lifestyle/magazine/16-02/st_essay">Wired is running a story</a> on how social networking technologies support, rather than diminish real-life networks of people:</p>
+<p><a href="https://www.wired.com/culture/lifestyle/magazine/16-02/st_essay">Wired is running a story</a> on how social networking technologies support, rather than diminish real-life networks of people:</p>
 
 Technology makes it more fun and more profitable to live and work close to the people who matter most to your life and work. Harvard economist Ed Glaeser, an expert on city economies, argues that communications technology and face-to-face interactions are complements like salt and pepper, rather than substitutes like butter and margarine. Paradoxically, your cell phone, email, and Facebook networks are making it more attractive to meet people in the flesh. [...]
 

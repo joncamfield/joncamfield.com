@@ -15,7 +15,7 @@ created: 1141092743
 
 Market conditions have facilitated the imposition of censorship: since 1999, Saudi Arabia has outsourced the provision of censorship software to U.S.-based Secure Computing. Saudi authorities currently rely on the pre-set list of sexually-explicit sites contained in Secure Computingâ€™s SmartFilter software, which is customized with the addition of political and religious sites (Zittrain and Edelman 2002a).
 
-<p>BoingBoing.net got blocked from UAE this past week, which has revealed more countries using SmartFilter, (including most branches of the US Military).  Interestingly, while the US Military is proudly listed on their customers page (http://www.securecomputing.com/our_customers.cfm), Saudi Arabia, Iran, and UAE are absent.</p>
+<p>BoingBoing.net got blocked from UAE this past week, which has revealed more countries using SmartFilter, (including most branches of the US Military).  Interestingly, while the US Military is proudly listed on their customers page (https://www.securecomputing.com/our_customers.cfm), Saudi Arabia, Iran, and UAE are absent.</p>
 
 <p>Further, the US Gov's getting all paranoid about Israel's CheckPoint Security acquiring Snort (an open-source Intrusion Detection System, it's like anti-virus against hackers).</p>
 

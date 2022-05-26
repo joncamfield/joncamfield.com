@@ -12,7 +12,7 @@ tags:
 title: Beyond Crowdsourcing
 created: 1247792191
 ---
-I am weary of the term "crowdsourcing."  Now, I'm not against the concept. I think small, bite-sized acts of service and kindness can make huge differences in the right situations.  Indeed, it's the social-benefits business model of <a href="http://www.theextraordinaries.org/">The Extraordinaries</a>, and is at the core of what Yochai Benkler means when he discusses the power of "peer production" in <a href="http://www.benkler.org/wealth_of_networks/index.php/Main_Page">The Wealth of Networks</a>:
+I am weary of the term "crowdsourcing."  Now, I'm not against the concept. I think small, bite-sized acts of service and kindness can make huge differences in the right situations.  Indeed, it's the social-benefits business model of <a href="https://www.theextraordinaries.org/">The Extraordinaries</a>, and is at the core of what Yochai Benkler means when he discusses the power of "peer production" in <a href="https://www.benkler.org/wealth_of_networks/index.php/Main_Page">The Wealth of Networks</a>:
 
 <blockquote>People began to apply behaviors they practice in their living rooms or in the elevator — "Here, let me lend you a hand," or "What did you think of last night’s speech?"  — to production problems that had, throughout the twentieth century, been solved on the model of Ford and General Motors. The rise of peer production is neither mysterious nor ﬁckle when viewed through this lens. It is as rational and efficient given the objectives and material conditions of information production at the turn of the twenty-ﬁrst century as the assembly line was for the conditions at the turn of the twentieth.</blockquote>
 
@@ -24,7 +24,7 @@ But Twitter (and citizen journalism writ large) is just the first step.  As mobi
 
 It will be mobile, immediate, global, empowering, and very, very exciting.
 
-<strong>Update</strong>: Grameen's <a href="http://www.kiwanja.net/blog/2009/06/grameens-applab-comes-of-age/">AppLab</a> is an early example of this evolution in mobile platforms, as it relates to development.  It's more centralized still, but is a (huge) step.
+<strong>Update</strong>: Grameen's <a href="https://www.kiwanja.net/blog/2009/06/grameens-applab-comes-of-age/">AppLab</a> is an early example of this evolution in mobile platforms, as it relates to development.  It's more centralized still, but is a (huge) step.
 
 ### Archived Comments
 

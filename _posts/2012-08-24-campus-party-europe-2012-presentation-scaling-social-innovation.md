@@ -13,9 +13,9 @@ tags:
 title: 'Campus Party Europe 2012 presentation: Scaling Social Innovation'
 created: 1345849244
 ---
-What follows are my speaking notes from my talk with on the role of open source models in scaling social change.  You can see this, plus Ashoka Fellow Gregor Hackmack's presentation onhis own amazing scale, at http://live.campus-party.org/player/load/id/27aba4389df7558611f3f6d5967b5c7f .
+What follows are my speaking notes from my talk with on the role of open source models in scaling social change.  You can see this, plus Ashoka Fellow Gregor Hackmack's presentation onhis own amazing scale, at https://live.campus-party.org/player/load/id/27aba4389df7558611f3f6d5967b5c7f .
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/14064783" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/14064783" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 
 <h2>Intro</h2>
 <h3>[Slide 1: Title Slide]</h3>
@@ -66,7 +66,7 @@ The open nature of technology, and the non-rivalrous, unlimited supply of inform
 <h3>[Slide 6, Video preview]</h3>
 One story that is simply amazing is that of Sanjeev Arora  and his Project ECHO: Extension for Community Healthcare Outcomes
 
-Video:  http://www.youtube.com/watch?v=CfqRwNd0Nao&feature=player_embedded#!
+Video:  https://www.youtube.com/watch?v=CfqRwNd0Nao&feature=player_embedded#!
 
 In 2007, Sanjeev's project won a Changemakers competition for disruptive innovations in healthcare. The competition funder, the Robert Wood Johnson Foundation, went on to fund him in multiple rounds, far beyond the prize he originally won. RWJF remains a core partner for Project Echo. In parallel, Ashoka elected Sanjeev as a fellow in 2009, connecting him with our broad collection of resources and other fellows.
 
@@ -136,7 +136,7 @@ Where Changemakers is sourcing and scaling early stage innovators, Ashoka has ot
 <h3>[Slide 17: Globalizer]</h3>
 Globalizer takes successful entrepreneurs who have a solid model and a plan to scale, and connects them with resources - strategists, talent, partners, networks and funding - to scale globally. Globalizer brings select participants together for an intense series of in-person workshops, organized twice annually here in Europe since 2010.
 
-The globalizer program is building a resource bank of successful scaling models at http://www.ashokaglobalizer.org/scaling-resources
+The globalizer program is building a resource bank of successful scaling models at https://www.ashokaglobalizer.org/scaling-resources
 
 <h3>[Slide 18: Localizer / ChangeNation]</h3>
 Localizers use similar selection criteria for the participants, but are hosted in a specific country to bring in social entrepreneurs from both the host country and across the world and match them with partners and funders to replicate or scale their success in the local context. So far, Ireland has run the only Localizer and is the driving force and expertise behind the program, which our other country offices are working to replicate themselves.
@@ -145,7 +145,7 @@ Ireland's ChangeNation event brought 50 hand picked innovators to Dublin to spen
 
 <h3>[Slide 19: ChangeNation Video]</h3>
 
-Video link: http://www.youtube.com/watch?v=3Q7VmkS3TZU&feature=player_embedded
+Video link: https://www.youtube.com/watch?v=3Q7VmkS3TZU&feature=player_embedded
 <h3>[Slide 20: Gregor's Introduction]</h3>
 
 <h3>[Slide 21/22: Q&A, Thanks]</h3>

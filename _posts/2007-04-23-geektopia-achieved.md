@@ -1,5 +1,5 @@
 ---
-excerpt: "<p>My <a href=\"http://www.joncamfield.com/blog/2006/04/death_by_synonym.html\">geektopia</a>
+excerpt: "<p>My <a href=\"https://www.joncamfield.com/blog/2006.04/death_by_synonym.html\">geektopia</a>
   has arrived:</p>\r\n\r\n<blockquote>The fridge has now become aware of its contents;
   and it is capable of establishing direct contact between you and their producers.
   Like you, the fridge is on the Internet and thus able to get hold of you â€“ even
@@ -22,7 +22,7 @@ categories:
 title: Geektopia achieved
 created: 1177380566
 ---
-<p>My <a href="http://www.joncamfield.com/blog/2006/04/death_by_synonym.html">geektopia</a> has arrived:</p>
+<p>My <a href="https://www.joncamfield.com/blog/2006.04/death_by_synonym.html">geektopia</a> has arrived:</p>
 
 <blockquote>The fridge has now become aware of its contents; and it is capable of establishing direct contact between you and their producers. Like you, the fridge is on the Internet and thus able to get hold of you â€“ even on your mobile. It will let you know what you need to buy if you want to prepare a simmering beef stroganoff; also, it will alert you if you are out of chocolate-and-fruit flavoured ice cream.</blockquote> 
 

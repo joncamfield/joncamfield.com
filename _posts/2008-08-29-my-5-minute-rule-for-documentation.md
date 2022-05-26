@@ -10,7 +10,7 @@ categories:
 title: My 5 Minute Rule for Documentation
 created: 1220032764
 ---
-<p>I have a policy which I follow religiously regarding when to document something, which I promote to my co-workers when training them on the staff wikis I create wherever I go -- and trust me, I leave wikis like a trail of breadcrumbs in every organization I touch. I've made wikis for my <a href="http://whagwan.org">Peace Corps group</a>, my <a href="http://www.joncamfield.com/blog/gwu.edu/~cistp">grad school program</a>, UT's <a href="http://www.otc.utexas.edu/">Office of Technology Commercialization</a>, <a href="http://crisislink.org">CrisisLink</a>, and <a href="http://www.ysa.org">Youth Service America</a>, and myself of course.</p>
+<p>I have a policy which I follow religiously regarding when to document something, which I promote to my co-workers when training them on the staff wikis I create wherever I go -- and trust me, I leave wikis like a trail of breadcrumbs in every organization I touch. I've made wikis for my <a href="https://whagwan.org">Peace Corps group</a>, my <a href="https://www.joncamfield.com/blog/gwu.edu/~cistp">grad school program</a>, UT's <a href="https://www.otc.utexas.edu/">Office of Technology Commercialization</a>, <a href="https://crisislink.org">CrisisLink</a>, and <a href="https://www.ysa.org">Youth Service America</a>, and myself of course.</p>
 
 <p>My rule is that if something takes you more than 5 minutes to figure out, it's worth a few second on the wiki - if absolutely nothing more than to jot down the key ah-ha!s so as to provide a roadmap to others.  Ideally you add in a lot more guidance around that, but we all know how documentation generally goes.</p>
 

@@ -1,6 +1,6 @@
 ---
 excerpt: |-
-  <p><a href="http://news.zdnet.com/2100-9588_22-6117553.html?part=rss&tag=feed&subj=zdnn">Someone has to pay the 'net bill</a>:</p>
+  <p><a href="https://news.zdnet.com/2100-9588_22-6117553.html?part=rss&tag=feed&subj=zdnn">Someone has to pay the 'net bill</a>:</p>
 
 
   Internet traffic in Zimbabwe has come close to a standstill after an international satellite firm slashed its bandwidth because the cash-starved government failed to pay the bill.
@@ -13,7 +13,7 @@ categories:
 title: The limits of ICT4D
 created: 1158799786
 ---
-<p><a href="http://news.zdnet.com/2100-9588_22-6117553.html?part=rss&tag=feed&subj=zdnn">Someone has to pay the 'net bill</a>:</p>
+<p><a href="https://news.zdnet.com/2100-9588_22-6117553.html?part=rss&tag=feed&subj=zdnn">Someone has to pay the 'net bill</a>:</p>
 
 
 Internet traffic in Zimbabwe has come close to a standstill after an international satellite firm slashed its bandwidth because the cash-starved government failed to pay the bill.

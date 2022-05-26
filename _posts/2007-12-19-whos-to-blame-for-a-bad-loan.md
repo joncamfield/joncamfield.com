@@ -1,7 +1,7 @@
 ---
 excerpt: <p>A good friend of mine has condensed a lot of good, critical thoughts on
-  lending -- from the subprime market to the World Bank, into one <a href="http://the-macnab.livejournal.com/93599.html">good
-  blog post</a>, riffing off of an exploration of the <a href="http://www.salon.com/tech/htww/2007/12/18/mortgage_guidelines/index.html">subprime
+  lending -- from the subprime market to the World Bank, into one <a href="https://the-macnab.livejournal.com/93599.html">good
+  blog post</a>, riffing off of an exploration of the <a href="https://www.salon.com/tech/htww/2007/12/18/mortgage_guidelines/index.html">subprime
   disaster at salon.com</a>.
 categories:
 - ict4d
@@ -10,7 +10,7 @@ categories:
 title: Who's to blame for a bad loan?
 created: 1198077381
 ---
-<p>A good friend of mine has condensed a lot of good, critical thoughts on lending -- from the subprime market to the World Bank, into one <a href="http://the-macnab.livejournal.com/93599.html">good blog post</a>, riffing off of an exploration of the <a href="http://www.salon.com/tech/htww/2007/12/18/mortgage_guidelines/index.html">subprime disaster at salon.com</a>.  After my friend reminds us that the central function of the World Bank is as a bank - lending money and recouping interest from those loans (which are development projects so wonderful that the governments involved will be able to pay the loans back from the benefits of the project), he goes on to make some specific points (warning:some curse words to make a point follow):</p>
+<p>A good friend of mine has condensed a lot of good, critical thoughts on lending -- from the subprime market to the World Bank, into one <a href="https://the-macnab.livejournal.com/93599.html">good blog post</a>, riffing off of an exploration of the <a href="https://www.salon.com/tech/htww/2007/12/18/mortgage_guidelines/index.html">subprime disaster at salon.com</a>.  After my friend reminds us that the central function of the World Bank is as a bank - lending money and recouping interest from those loans (which are development projects so wonderful that the governments involved will be able to pay the loans back from the benefits of the project), he goes on to make some specific points (warning:some curse words to make a point follow):</p>
 
 First, whenever you hear someone say that the Bank or other such institutions should switch to providing for basic human needs--building schools, vaccinating, empowering women--there's nothing wrong with those goals per se, but do you want to take out a loan to advocate for them? When do you think you're going to see the payoff that let's you pay off the loan?
 

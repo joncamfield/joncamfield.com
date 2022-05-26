@@ -131,7 +131,7 @@ curriki in india; s.af.; focus on innovation to avoid high costs
 </p>
 random notes
 
-<ul><li>tweem hashtag #cgdmcnealy : <a href="http://m.twemes.com/cgdmcnealy" class="external free" title="http://m.twemes.com/cgdmcnealy" rel="nofollow">http://m.twemes.com/cgdmcnealy</a>
+<ul><li>tweem hashtag #cgdmcnealy : <a href="https://m.twemes.com/cgdmcnealy" class="external free" title="https://m.twemes.com/cgdmcnealy" rel="nofollow">https://m.twemes.com/cgdmcnealy</a>
 </li><li>yunus blogging youth project yunus social action group .org 
 </li><li>curriki.org
 </li></ul>

@@ -12,13 +12,13 @@ tags:
 title: The answer for "I don't get Twitter"
 created: 1245156372
 ---
-The next time somebody cracks wise about Twitter, points to the vast numbers of <a href="http://www.slate.com/id/2219995">Twitter Orphan Accounts</a>, or otherwise belittles it, I will point them to this <a href="http://blog.twitter.com/2009/06/down-time-rescheduled.html">Twitter Blog posting</a>:
+The next time somebody cracks wise about Twitter, points to the vast numbers of <a href="https://www.slate.com/id/2219995">Twitter Orphan Accounts</a>, or otherwise belittles it, I will point them to this <a href="https://blog.twitter.com/2009/06/down-time-rescheduled.html">Twitter Blog posting</a>:
 
 <blockquote>A critical network upgrade must be performed to ensure continued operation of Twitter. In coordination with Twitter, our network host had planned this upgrade for tonight. However, our network partners at NTT America recognize the role Twitter is currently playing as an important communication tool in Iran. Tonight's planned maintenance has been rescheduled to tomorrow between 2-3p PST (1:30a in Iran).</blockquote>
 
-As much as I fear <a href="http://joncamfield.com/blog/2009/05/after_the_sms_honeymoon_update.html">what happens after the honeymoon</a> with SMS and social media under repressive governments, currently they provide an amazing tool for immediate news even during crisis, citizen voice and discussion.
+As much as I fear <a href="https://joncamfield.com/blog/2009.05/after_the_sms_honeymoon_update.html">what happens after the honeymoon</a> with SMS and social media under repressive governments, currently they provide an amazing tool for immediate news even during crisis, citizen voice and discussion.
 
-<strong>Update</strong>: The State Department is now involved; http://ac360.blogs.cnn.com/2009/06/16/state-department-to-twitter-keep-iranian-tweets-coming/ :
+<strong>Update</strong>: The State Department is now involved; https://ac360.blogs.cnn.com/2009/06/16/state-department-to-twitter-keep-iranian-tweets-coming/ :
 
 <blockquote>By necessity, the US is staying hands off of the election drama playing out in Iran, and officials say they are not providing messages to Iranians or “quarterbacking” the disputed election process.
 

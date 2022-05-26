@@ -1,17 +1,17 @@
 ---
-excerpt: "I missed the recent <a href=\"http://technologysalon.org/2009/05/m-development-challenge.html\">Technology
-  Salon on Mobiles for Development</a> (I was kind of busy with <a href=\"http://GYSD.org\">Global
-  Youth Service Day</a>), and was already scheduled to make it to the <a href=\"http://mobileactive.org/\">Mobile
+excerpt: "I missed the recent <a href=\"https://technologysalon.org/2009/05/m-development-challenge.html\">Technology
+  Salon on Mobiles for Development</a> (I was kind of busy with <a href=\"https://GYSD.org\">Global
+  Youth Service Day</a>), and was already scheduled to make it to the <a href=\"https://mobileactive.org/\">Mobile
   Active m4Change</a> unconference the next week.\r\n\r\nA prime outcome of the Tech
-  Salon was a challenge from Vodafone's <a href=\"http://www.vodafone.com/start/about_vodafone/corporate_governance/executive_committee/terry_kramer.html\">Terry
+  Salon was a challenge from Vodafone's <a href=\"https://www.vodafone.com/start/about_vodafone/corporate_governance/executive_committee/terry_kramer.html\">Terry
   Kramer</a>: \r\n\r\n<blockquote>Mobile network operators (MNO) want increase revenues
   and market share by expanding into rural areas, and see partnerships with the development
   community as a key market entry strategy. Specifically, Vodafone is looking to the
   development community for key applications that solve a common need for many and
   can be scaled into commercial activities.</blockquote>\r\n\r\nHere's my response,
   an idea that's been rattling around in my head for quite some time.\r\n\r\n<div
-  style=\"float: right; margin-left: 10px; margin-bottom: 10px;\"><a href=\"http://www.flickr.com/photos/phauly/399692232/\"><img
-  src=\"http://farm1.static.flickr.com/168/399692232_fedd542c2c_m_d.jpg\" alt=\"An
+  style=\"float: right; margin-left: 10px; margin-bottom: 10px;\"><a href=\"https://www.flickr.com/photos/phauly/399692232/\"><img
+  src=\"https://farm1.static.flickr.com/168/399692232_fedd542c2c_m_d.jpg\" alt=\"An
   openMoko Linux Phone\" style=\"border: 2px solid rgb(0, 0, 0);\" width=\"240\" height=\"180\"><br><span
   style=\"font-size: 0.9em; margin-top: 0px;\">This would be easier on open platforms...</div>A
   common \"form\" application to send out encoded questions and receive back answers
@@ -45,15 +45,15 @@ tags:
 title: 'Blue-skying Mobile Apps: Common Forms'
 created: 1241539525
 ---
-I missed the recent <a href="http://technologysalon.org/2009/05/m-development-challenge.html">Technology Salon on Mobiles for Development</a> (I was kind of busy with <a href="http://GYSD.org">Global Youth Service Day</a>), and was already scheduled to make it to the <a href="http://mobileactive.org/">Mobile Active m4Change</a> unconference the next week.
+I missed the recent <a href="https://technologysalon.org/2009/05/m-development-challenge.html">Technology Salon on Mobiles for Development</a> (I was kind of busy with <a href="https://GYSD.org">Global Youth Service Day</a>), and was already scheduled to make it to the <a href="https://mobileactive.org/">Mobile Active m4Change</a> unconference the next week.
 
-A prime outcome of the Tech Salon was a challenge from Vodafone's <a href="http://www.vodafone.com/start/about_vodafone/corporate_governance/executive_committee/terry_kramer.html">Terry Kramer</a>: 
+A prime outcome of the Tech Salon was a challenge from Vodafone's <a href="https://www.vodafone.com/start/about_vodafone/corporate_governance/executive_committee/terry_kramer.html">Terry Kramer</a>: 
 
 <blockquote>Mobile network operators (MNO) want increase revenues and market share by expanding into rural areas, and see partnerships with the development community as a key market entry strategy. Specifically, Vodafone is looking to the development community for key applications that solve a common need for many and can be scaled into commercial activities.</blockquote>
 
 Here's my response, an idea that's been rattling around in my head for quite some time.
 
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="http://www.flickr.com/photos/phauly/399692232/"><img src="http://farm1.static.flickr.com/168/399692232_fedd542c2c_m_d.jpg" alt="An openMoko Linux Phone" style="border: 2px solid rgb(0, 0, 0);" width="240" height="180"><br><span style="font-size: 0.9em; margin-top: 0px;">This would be easier on open platforms...</div>A common "form" application to send out encoded questions and receive back answers via SMS.
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="https://www.flickr.com/photos/phauly/399692232/"><img src="https://farm1.static.flickr.com/168/399692232_fedd542c2c_m_d.jpg" alt="An openMoko Linux Phone" style="border: 2px solid rgb(0, 0, 0);" width="240" height="180"><br><span style="font-size: 0.9em; margin-top: 0px;">This would be easier on open platforms...</div>A common "form" application to send out encoded questions and receive back answers via SMS.
 
 The core would be an agreed-upon encoding/compression format for sending form questions and receiving the answers via SMS.
 

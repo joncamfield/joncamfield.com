@@ -1,6 +1,6 @@
 ---
-excerpt: "Inveno's <a href=\"http://www.ictworks.org\">ICT_Works</a> blog recently
-  advertised their awesome addition to the ICT4D world - a <a href=\"http://www.ictworks.org/news/2010/05/31/introducing-inveneo-certified-ict-hand-tool-kit\">solid
+excerpt: "Inveno's <a href=\"https://www.ictworks.org\">ICT_Works</a> blog recently
+  advertised their awesome addition to the ICT4D world - a <a href=\"https://www.ictworks.org/news/2010/05/31/introducing-inveneo-certified-ict-hand-tool-kit\">solid
   toolkit to carry to the field</a>.\r\n\r\nI made a much lower-tech personal version
   many years ago, as an IT Peace Corps volunteer.  Mine of course was (a) very low
   cost and (b) designed to travel stuck in side-pocket of a backpack on a crowded
@@ -31,7 +31,7 @@ tags:
 title: 'Tech4Dev: What''s in your backpack?'
 created: 1275415456
 ---
-Inveno's <a href="http://www.ictworks.org">ICT_Works</a> blog recently advertised their awesome addition to the ICT4D world - a <a href="http://www.ictworks.org/news/2010/05/31/introducing-inveneo-certified-ict-hand-tool-kit">solid toolkit to carry to the field</a>.
+Inveno's <a href="https://www.ictworks.org">ICT_Works</a> blog recently advertised their awesome addition to the ICT4D world - a <a href="https://www.ictworks.org/news/2010/05/31/introducing-inveneo-certified-ict-hand-tool-kit">solid toolkit to carry to the field</a>.
 
 I made a much lower-tech personal version many years ago, as an IT Peace Corps volunteer.  Mine of course was (a) very low cost and (b) designed to travel stuck in side-pocket of a backpack on a crowded country-bound bus.  OK, it was really just a few screwdrivers, a 3-2 prong electrical adapter, and a flashlight. 
 
@@ -53,5 +53,5 @@ My favorite toolkit items were more around the software end of the spectrum, tho
 
 1 CD and USB stick of common free/shareware/OSS software tools - anti-virus, various anti-mal/spy-ware, registry cleaners, zip/archive software, OpenOffice, PDF creation tools, and so on.  
 
-That last CD eventually grew into its own sideproject when I was working the the Min. of Education in Jamaica -- you can see (the now 6-years-out-of-date) webified version at http://joncamfield.com/oss/schooltools/ .  It would autorun a local copy of that webpage, and link to recent versions of the software (the web version simply links to the software's homepage)
+That last CD eventually grew into its own sideproject when I was working the the Min. of Education in Jamaica -- you can see (the now 6-years-out-of-date) webified version at https://joncamfield.com/oss/schooltools/ .  It would autorun a local copy of that webpage, and link to recent versions of the software (the web version simply links to the software's homepage)
 

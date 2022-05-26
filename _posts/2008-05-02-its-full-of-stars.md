@@ -4,7 +4,7 @@ excerpt: |-
 
   <p></p>
 
-  <p>Courtesy of <a href="http://nexus.ludios.net/">Nexus's Facebook plugin</a></p>
+  <p>Courtesy of <a href="https://nexus.ludios.net/">Nexus's Facebook plugin</a></p>
 
   <p>All I can say is wow.</p>
 categories:
@@ -19,6 +19,6 @@ created: 1209754550
 
 <p></p>
 
-<p>Courtesy of <a href="http://nexus.ludios.net/">Nexus's Facebook plugin</a></p>
+<p>Courtesy of <a href="https://nexus.ludios.net/">Nexus's Facebook plugin</a></p>
 
 <p>All I can say is wow.</p>

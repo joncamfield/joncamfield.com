@@ -3,7 +3,7 @@ excerpt: <p>"Buying falafel mix does not a terrorist make."  The FBI might do we
   to write that in chalk 500 times, and hope that it sinks in, as they're wasting
   our money, their time, and invading our privacy while they're at it by trawling
   through credit card records to find people who shop at middle eastern markets and/or
-  buy middle eastern style food from the larger chains.  No, <a href="http://blog.wired.com/27bstroke6/2007/11/fbi-mined-groce.html">seriously</a>:</p>
+  buy middle eastern style food from the larger chains.  No, <a href="https://blog.wired.com/27bstroke6/2007/11/fbi-mined-groce.html">seriously</a>:</p>
 categories:
 - ict4d
 - ict policy
@@ -11,15 +11,15 @@ categories:
 title: Repeat after me
 created: 1194622017
 ---
-<p>"Buying falafel mix does not a terrorist make."  The FBI might do well to write that in chalk 500 times, and hope that it sinks in, as they're wasting our money, their time, and invading our privacy while they're at it by trawling through credit card records to find people who shop at middle eastern markets and/or buy middle eastern style food from the larger chains.  No, <a href="http://blog.wired.com/27bstroke6/2007/11/fbi-mined-groce.html">seriously</a>:</p>
+<p>"Buying falafel mix does not a terrorist make."  The FBI might do well to write that in chalk 500 times, and hope that it sinks in, as they're wasting our money, their time, and invading our privacy while they're at it by trawling through credit card records to find people who shop at middle eastern markets and/or buy middle eastern style food from the larger chains.  No, <a href="https://blog.wired.com/27bstroke6/2007/11/fbi-mined-groce.html">seriously</a>:</p>
 
 
-<a href="http://flickr.com/search/?q=pita&w=all" title="Pita topped with artichoke hummus and lamb"></a><br />
+<a href="https://flickr.com/search/?q=pita&w=all" title="Pita topped with artichoke hummus and lamb"></a><br />
 The mark of terrorism?
 
 Bay Area FBI agents wanting to find Iranian secret agents data-mined grocery store records in 2005 and 2006, hoping that tahini purchases would lead them to domestic terrorists, according to Congressional Quarterly's Jeff Stein. The head of the FBI's criminal investigations unit - Michael Mason - shut down the Total Falafel Awareness program, arguing it would be illegal to put someone on a terrorist watch list for simply sticking skewers into lamb, Stein reports.
 
-<p>More from <a href="http://cqpolitics.com/wmspage.cfm?parm1=5&docID=hsnews-000002620892">Congressional Quarterly</a>:<br />
+<p>More from <a href="https://cqpolitics.com/wmspage.cfm?parm1=5&docID=hsnews-000002620892">Congressional Quarterly</a>:<br />
 FBI spokesman Paul Bresson would neither confirm nor deny that the bureau ran such data mining, or forward-leaning â€œdomain management,â€� experiments, but said he would continue to investigate. â€œIt sounds pretty sensational to me,â€� he said, upon his initial review of the allegation. The techniques were briefly mentioned last year in a PBS Frontline special, â€œThe Enemy Withinâ€�.</p>
 
 <p>Mason, who is leaving the FBI to become security chief for Verizon, could not be reached for comment.</p>

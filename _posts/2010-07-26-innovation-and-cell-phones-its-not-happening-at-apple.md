@@ -1,7 +1,7 @@
 ---
 excerpt: "<div class='posterous_autopost'>Or Google. And certaintly not at any of
   the carriers. The real  innovation and hacking is on the streets of Ghana, India,
-  China, Egypt  and more, as Jan Chipchase reveals in Icon Magazine:  <a href=\"http://www.iconeye.com/index.php?option=com_content&view=article&catid=443&id=4455\">http://www.iconeye.com/index.php?option=com_content&view=article&catid=443&id...</a>:
+  China, Egypt  and more, as Jan Chipchase reveals in Icon Magazine:  <a href=\"https://www.iconeye.com/index.php?option=com_content&view=article&catid=443&id=4455\">https://www.iconeye.com/index.php?option=com_content&view=article&catid=443&id...</a>:
   \r\n\r\n<blockquote> \"In any cluster of mobile phone shops you find someone who
   offers  repair services. This typically starts out as people fixing displays  and
   speakers, which tend to break first. People then come asking if  other things can
@@ -23,7 +23,7 @@ categories: []
 title: 'Innovation and Cell Phones: It''s not happening at Apple'
 created: 1280163204
 ---
-<div class='posterous_autopost'>Or Google. And certaintly not at any of the carriers. The real  innovation and hacking is on the streets of Ghana, India, China, Egypt  and more, as Jan Chipchase reveals in Icon Magazine:  <a href="http://www.iconeye.com/index.php?option=com_content&view=article&catid=443&id=4455">http://www.iconeye.com/index.php?option=com_content&view=article&catid=443&id...</a>: 
+<div class='posterous_autopost'>Or Google. And certaintly not at any of the carriers. The real  innovation and hacking is on the streets of Ghana, India, China, Egypt  and more, as Jan Chipchase reveals in Icon Magazine:  <a href="https://www.iconeye.com/index.php?option=com_content&view=article&catid=443&id=4455">https://www.iconeye.com/index.php?option=com_content&view=article&catid=443&id...</a>: 
 
 <blockquote> "In any cluster of mobile phone shops you find someone who offers  repair services. This typically starts out as people fixing displays  and speakers, which tend to break first. People then come asking if  other things can be fixed, and over time there’s an increased  awareness of how to fix different models. Nokia tends to be the  dominant player in those markets, so people tend to know how to fix  them, right down to soldering bits of the circuit board. It’s from  those repair services that a street-hacker culture originates. " </blockquote>
 

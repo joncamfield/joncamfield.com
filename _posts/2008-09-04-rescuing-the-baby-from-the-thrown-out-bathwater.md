@@ -1,6 +1,6 @@
 ---
 excerpt: |-
-  <p><a href="http://www.worldchanging.com/archives/008453.html">Worldchanging</a>'s Jeremy Faludi calls it <a href="http://www.worldchanging.com/archives//003216.html">"reverse-leapfrogging"</a>, but is looking for a better name.  It's reviving or importing concepts that used to exist:<br />
+  <p><a href="https://www.worldchanging.com/archives/008453.html">Worldchanging</a>'s Jeremy Faludi calls it <a href="https://www.worldchanging.com/archives//003216.html">"reverse-leapfrogging"</a>, but is looking for a better name.  It's reviving or importing concepts that used to exist:<br />
   Green architects in the last twenty years have learned passive-solar design tricks from pre-industrial buildings, both historic ones in their own countries and contemporary buildings in non-industrial societies. (For instance, cool towers come from vernacular middle-eastern architecture.)</p>
 categories:
 - ict4d
@@ -9,7 +9,7 @@ categories:
 title: Rescuing the baby from the thrown-out bathwater
 created: 1220541544
 ---
-<p><a href="http://www.worldchanging.com/archives/008453.html">Worldchanging</a>'s Jeremy Faludi calls it <a href="http://www.worldchanging.com/archives//003216.html">"reverse-leapfrogging"</a>, but is looking for a better name.  It's reviving or importing concepts that used to exist:<br />
+<p><a href="https://www.worldchanging.com/archives/008453.html">Worldchanging</a>'s Jeremy Faludi calls it <a href="https://www.worldchanging.com/archives//003216.html">"reverse-leapfrogging"</a>, but is looking for a better name.  It's reviving or importing concepts that used to exist:<br />
 Green architects in the last twenty years have learned passive-solar design tricks from pre-industrial buildings, both historic ones in their own countries and contemporary buildings in non-industrial societies. (For instance, cool towers come from vernacular middle-eastern architecture.)</p>
 
 <p>Realizing and embracing innovations that were dropped as déclassé, needlessly efficient, our simply outmoded by newer technology; but were in fact ideal adaptations to certain constrained environments:<br />

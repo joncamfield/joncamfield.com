@@ -13,12 +13,12 @@ created: 1241203303
 ---
 <em>Check out some updates -- props to @MobileActive!</em>
 
-During the last breakout at the Mobile for Change (<a href="http://search.twitter.com/search?q=m4change">#m4change in twitter</a>, a good writeup by Development Seed's Will White: <a href="http://www.developmentseed.org/blog/2009/apr/30/recap-mobile-tech-4-social-change-barcamp">Recap of Mobile Tech 4 Social Change BarCamp</a> ) open conference yesterday, we began to get into some of the problems that had been bugging me all day.
+During the last breakout at the Mobile for Change (<a href="https://search.twitter.com/search?q=m4change">#m4change in twitter</a>, a good writeup by Development Seed's Will White: <a href="https://www.developmentseed.org/blog/2009/apr/30/recap-mobile-tech-4-social-change-barcamp">Recap of Mobile Tech 4 Social Change BarCamp</a> ) open conference yesterday, we began to get into some of the problems that had been bugging me all day.
 
-During NDI's Ian Shuler's <a href="http://tinyurl.com/c5mn9w">presentation on the state of Mobile in Development</a> (especially in Election Observation) I twittered:
+During NDI's Ian Shuler's <a href="https://tinyurl.com/c5mn9w">presentation on the state of Mobile in Development</a> (especially in Election Observation) I twittered:
 
 <blockquote style="twitter">what happens when govt catches up, blocks sms during unrest? we need p2p networks #m4change
-<a href="http://twitter.com/joncamfield/status/1649285757">9:38 AM Apr 29th</a> from web</blockquote>
+<a href="https://twitter.com/joncamfield/status/1649285757">9:38 AM Apr 29th</a> from web</blockquote>
 
 Now that I'm not constrained by 140 characters, let me unpack that a bit.
 
@@ -38,23 +38,23 @@ Encryption on cell phones has two big problems - it's not built in on most hands
 
 I think the most valuable solution is a peer-to-peer mesh network that can carry voice, SMS, and data on it.  The downsides of these is that their range can be extremely limited by lack of density of users.
 
-Turns out there are mesh phones out there, a Swedish startup called <a href="http://www.terranet.se/index.php?option=com_content&task=view&id=47&Itemid=87">TerraNet</a> (previously <a href="http://mobileactive.org/tagging/terranet">mentioned on MobileActive</a>) turns capable phones into mesh nodes:
+Turns out there are mesh phones out there, a Swedish startup called <a href="https://www.terranet.se/index.php?option=com_content&task=view&id=47&Itemid=87">TerraNet</a> (previously <a href="https://mobileactive.org/tagging/terranet">mentioned on MobileActive</a>) turns capable phones into mesh nodes:
 
 <blockquote>The technology is simple: Terranet outfits a special Erricson phone with peer-to-peer wireless networking ability. In its pure form, there is no need for base stations, antenna installations or infrastructure. With this phone, a user can call and text anyone at no cost within two kilometers, or up to 20 kilometres in a mesh network.<br/ > (<em>Via MobileActive</em></blockquote>
 
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="http://www.terranet.se/index.php?option=com_content&task=view&id=47&Itemid=87" ><img src="http://www.terranet.se/images/press/tn_cluster_lores.png" width="240" height="180" alt="TerraNet Mesh Phones" style="border: 2px solid rgb(0, 0, 0);" /><br /><span style="font-size: 0.9em; margin-top: 0px;">TerraNet Mesh Phones</span></a></div>
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="https://www.terranet.se/index.php?option=com_content&task=view&id=47&Itemid=87" ><img src="https://www.terranet.se/images/press/tn_cluster_lores.png" width="240" height="180" alt="TerraNet Mesh Phones" style="border: 2px solid rgb(0, 0, 0);" /><br /><span style="font-size: 0.9em; margin-top: 0px;">TerraNet Mesh Phones</span></a></div>
 
-The trick of course is getting these mesh phones (or adding mesh capability into enough existing phones) rolled out in enough numbers to make a difference.  There are some clear use-cases in development for disaster-prone areas, areas without telco service (they could be a great business model for <a href="http://joncamfield.com/blog/2009/04/micro_telcos_business_models_f.html">micro telcos</a>), or as a low-cost phone + data connectivity tool.
+The trick of course is getting these mesh phones (or adding mesh capability into enough existing phones) rolled out in enough numbers to make a difference.  There are some clear use-cases in development for disaster-prone areas, areas without telco service (they could be a great business model for <a href="https://joncamfield.com/blog/2009.04/micro_telcos_business_models_f.html">micro telcos</a>), or as a low-cost phone + data connectivity tool.
 
 However, there are quite a few barriers against this.  The price point is higher than your basic cell phone, and you have to have rapid local adoption for it to even work.  From a business side, it must fight against the existing install base of cell phones (and their providers).  The business plan for the network is itself hamstrung by the very power of the technology - in a mesh network, how do you charge for calls that you don't know about?
 
 If however the mesh technology could be embedded on new phones as part of a disaster-mitigation scenario (even in the US, cell networks are notoriously overloaded during crisis), a powerful technology would find its way into daily usage that was immune to many of the censorship and oppression problems of centralized communications networks.
 
-There's a project <a href="http://community.mit.edu/">Comm.Unity at MIT's Media Lab</a> that runs as a software piece on top of cells, PDAs, and laptops:
+There's a project <a href="https://community.mit.edu/">Comm.Unity at MIT's Media Lab</a> that runs as a software piece on top of cells, PDAs, and laptops:
 
 <blockquote>Comm.unity runs on mobile phones, PDAs, and regular old laptops and PCs, allowing them to easily communicate with each other and build networks of interactions for their users without the need for any centralized servers, coordination, or administration. </blockquote>
 
-There's also <a href="http://www.inclusiva-net.es/fluidnexus/">Fluid Nexus</a> which <cite>is an application for mobile phones that is primarily designed to enable activists to send messages and data amongst themselves independent of a centralized cellular network</cite>
+There's also <a href="https://www.inclusiva-net.es/fluidnexus/">Fluid Nexus</a> which <cite>is an application for mobile phones that is primarily designed to enable activists to send messages and data amongst themselves independent of a centralized cellular network</cite>
 
 Fluid Nexus requires bluetooth, and for people to be within bluetooth range (though it is a store-and-forward style system), so it has its own limitations, but at the same time could be a powerful tool in the right situations.
 
@@ -64,13 +64,13 @@ It's a start.
 
 @MobileActive adds some others thinking along the same lines:
 
-http://community.mit.edu/ : <cite>“Comm.unity” is a new communications platform being developed at the MIT Media Lab that would allow developers to easily create socially aware peer-to-peer applications for face-to-face interactions. Comm.unity runs on mobile phones, PDAs, and regular old laptops and PCs, allowing them to easily communicate with each other and build networks of interactions for their users without the need for any centralized servers, coordination, or administration."</cite>
+https://community.mit.edu/ : <cite>“Comm.unity” is a new communications platform being developed at the MIT Media Lab that would allow developers to easily create socially aware peer-to-peer applications for face-to-face interactions. Comm.unity runs on mobile phones, PDAs, and regular old laptops and PCs, allowing them to easily communicate with each other and build networks of interactions for their users without the need for any centralized servers, coordination, or administration."</cite>
 
-http://www.inclusiva-net.es/fluidnexus/ : Fluid Nexus is an application for mobile phones that is primarily designed to enable activists to send messages and data amongst themselves independent of a centralized cellular network
+https://www.inclusiva-net.es/fluidnexus/ : Fluid Nexus is an application for mobile phones that is primarily designed to enable activists to send messages and data amongst themselves independent of a centralized cellular network
 
 Here's a video on Fluid Nexus:
 
-<object width="400" height="267"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=798016&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=798016&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="267"></embed></object><p><a href="http://vimeo.com/798016">Fluid Nexus Project Video</a> from <a href="http://vimeo.com/zeitkunst">Nick Knouf</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<object width="400" height="267"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="https://vimeo.com/moogaloop.swf?clip_id=798016&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="https://vimeo.com/moogaloop.swf?clip_id=798016&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="267"></embed></object><p><a href="https://vimeo.com/798016">Fluid Nexus Project Video</a> from <a href="https://vimeo.com/zeitkunst">Nick Knouf</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ### Archived Comments
 

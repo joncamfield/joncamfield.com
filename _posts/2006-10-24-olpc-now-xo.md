@@ -1,6 +1,6 @@
 ---
 excerpt: |-
-  <p>There's a developing thread at <a href="http://www.engadget.com/2006/10/24/third-times-a-charm-olpc-notebook-now-called-xo/">Engadget</a> about the branding efforts on the OLPC, as well as some argument to its utility. I of course jumped in, responding to someone talking about the value of laptops as a self-help style tool:</p>
+  <p>There's a developing thread at <a href="https://www.engadget.com/2006/10/24/third-times-a-charm-olpc-notebook-now-called-xo/">Engadget</a> about the branding efforts on the OLPC, as well as some argument to its utility. I of course jumped in, responding to someone talking about the value of laptops as a self-help style tool:</p>
 
   <p><i>...just sending them supplies doesn't solve anything...</i></p>
 categories:
@@ -11,7 +11,7 @@ categories:
 title: OLPC now XO?
 created: 1161714083
 ---
-<p>There's a developing thread at <a href="http://www.engadget.com/2006/10/24/third-times-a-charm-olpc-notebook-now-called-xo/">Engadget</a> about the branding efforts on the OLPC, as well as some argument to its utility. I of course jumped in, responding to someone talking about the value of laptops as a self-help style tool:</p>
+<p>There's a developing thread at <a href="https://www.engadget.com/2006/10/24/third-times-a-charm-olpc-notebook-now-called-xo/">Engadget</a> about the branding efforts on the OLPC, as well as some argument to its utility. I of course jumped in, responding to someone talking about the value of laptops as a self-help style tool:</p>
 
 <p><i>...just sending them supplies doesn't solve anything...</i></p>
 

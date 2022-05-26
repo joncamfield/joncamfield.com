@@ -1,7 +1,7 @@
 ---
-excerpt: "<a href=\"http://xkcd.com/574/\"><img src=\"http://imgs.xkcd.com/comics/swine_flu.png\"
+excerpt: "<a href=\"https://xkcd.com/574/\"><img src=\"https://imgs.xkcd.com/comics/swine_flu.png\"
   border=\"0\" alt=\"XKCD on the Swine Flu on Twitter\" align=\"right\" /></a>\r\n<br
-  />\r\n\r\nEveryone from XKCD to <a href=\"http://www.npr.org/templates/story/story.php?storyId=103562240\">NPR</a>
+  />\r\n\r\nEveryone from XKCD to <a href=\"https://www.npr.org/templates/story/story.php?storyId=103562240\">NPR</a>
   has been blaming Twitter for spreading panic about the Swine Flu:\r\n\r\n<blockquote>Who
   knew that swine flu could also infect Twitter? Yet this is what appears to have
   happened in the last 24 hours, with thousands of Twitter users turning to their
@@ -29,10 +29,10 @@ tags:
 title: 'In Defense of Twitter and #swineflu'
 created: 1241125935
 ---
-<a href="http://xkcd.com/574/"><img src="http://imgs.xkcd.com/comics/swine_flu.png" border="0" alt="XKCD on the Swine Flu on Twitter" align="right" /></a>
+<a href="https://xkcd.com/574/"><img src="https://imgs.xkcd.com/comics/swine_flu.png" border="0" alt="XKCD on the Swine Flu on Twitter" align="right" /></a>
 <br />
 
-Everyone from XKCD to <a href="http://www.npr.org/templates/story/story.php?storyId=103562240">NPR</a> has been blaming Twitter for spreading panic about the Swine Flu:
+Everyone from XKCD to <a href="https://www.npr.org/templates/story/story.php?storyId=103562240">NPR</a> has been blaming Twitter for spreading panic about the Swine Flu:
 
 <blockquote>Who knew that swine flu could also infect Twitter? Yet this is what appears to have happened in the last 24 hours, with thousands of Twitter users turning to their favorite service to query each other about this nascent and potentially lethal threat [...] And despite all the recent Twitter-enthusiasm about this platform's unique power to alert millions of people in decentralized and previously unavailable ways, there are quite a few reasons to be concerned about Twitter's role in facilitating an unnecessary global panic about swine flu.</blockquote>
 

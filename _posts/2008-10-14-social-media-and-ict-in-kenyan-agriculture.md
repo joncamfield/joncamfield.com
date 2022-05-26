@@ -1,5 +1,5 @@
 ---
-excerpt: "<p>CropScience.org has a great paper on <a href=\"http://www.cropscience.org.au/icsc2004/symposia/4/3/238_easdownwj.htm\">the
+excerpt: "<p>CropScience.org has a great paper on <a href=\"https://www.cropscience.org.au/icsc2004/symposia/4/3/238_easdownwj.htm\">the
   potential use of social media and Internet access for rural farmers</a>.  What sets
   it apart from most Social Media for Development writings is that is takes a serious
   look at what must be in place for a project of this scope to work.  </p>\r\n\r\n<p>It
@@ -15,7 +15,7 @@ tags:
 title: Social Media and ICT in Kenyan Agriculture
 created: 1224028800
 ---
-<p>CropScience.org has a great paper on <a href="http://www.cropscience.org.au/icsc2004/symposia/4/3/238_easdownwj.htm">the potential use of social media and Internet access for rural farmers</a>.  What sets it apart from most Social Media for Development writings is that is takes a serious look at what must be in place for a project of this scope to work.  </p>
+<p>CropScience.org has a great paper on <a href="https://www.cropscience.org.au/icsc2004/symposia/4/3/238_easdownwj.htm">the potential use of social media and Internet access for rural farmers</a>.  What sets it apart from most Social Media for Development writings is that is takes a serious look at what must be in place for a project of this scope to work.  </p>
 
 <p>It compares farmers in Uganda and Australia, which is less ridiculous than it sounds.  The Australian farmers - with training and a significantly higher support network (from government regulations all the way to average numbers of computers/100 people;</p>
 <!--break-->

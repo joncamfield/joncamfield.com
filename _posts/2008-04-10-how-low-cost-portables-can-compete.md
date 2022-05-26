@@ -1,5 +1,5 @@
 ---
-excerpt: <p>Wayan at <a href="http://www.olpcnews.com/sales_talk/competition/rise_of_3p_computing_solutions.html"
+excerpt: <p>Wayan at <a href="https://www.olpcnews.com/sales_talk/competition/rise_of_3p_computing_solutions.html"
   target="_new">OLPCNews.com</a> has an article up on what he's terming "3P computing"
   (Power, Price, Performance).  Some of the commentators and myself would also add
   "Portability" to the list.</p>
@@ -11,7 +11,7 @@ categories:
 title: How low-cost portables can compete
 created: 1207843432
 ---
-<p>Wayan at <a href="http://www.olpcnews.com/sales_talk/competition/rise_of_3p_computing_solutions.html" target="_new">OLPCNews.com</a> has an article up on what he's terming "3P computing" (Power, Price, Performance).  Some of the commentators and myself would also add "Portability" to the list.</p>
+<p>Wayan at <a href="https://www.olpcnews.com/sales_talk/competition/rise_of_3p_computing_solutions.html" target="_new">OLPCNews.com</a> has an article up on what he's terming "3P computing" (Power, Price, Performance).  Some of the commentators and myself would also add "Portability" to the list.</p>
 
 <p>I think there's still a lot to shake out to give this market it's own identity -- something more than an iPhone or PDA, but still less than a full (desktop-replacement-style) laptop.  The problem is that there is also a growing small(ish) but high-powered laptop market (the Air, Fujitsu's lifebook, and many of the portable tablet PCs), so the mini-note (HP's working term) or 3P (Wayan's) will have to compete on price as well as a set of features that the high-powered minis can't beat.  This I think is where an expanded notion of Portability comes in.</p>
 

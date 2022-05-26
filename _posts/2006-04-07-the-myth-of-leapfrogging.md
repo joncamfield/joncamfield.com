@@ -1,7 +1,7 @@
 ---
 excerpt: |-
   <p><br />
-  <a href="http://www.kk.org/thetechnium/archives/2006/03/the_myth_of_lea.php">Kevin Kelly</a> provides an excellent analysis of the rust beneath the chrome of leapfrogging:</p>
+  <a href="https://www.kk.org/thetechnium/archives/2006/03/the_myth_of_lea.php">Kevin Kelly</a> provides an excellent analysis of the rust beneath the chrome of leapfrogging:</p>
 categories:
 - ict4d
 
@@ -10,7 +10,7 @@ title: The myth of leapfrogging?
 created: 1144383992
 ---
 <p><br />
-<a href="http://www.kk.org/thetechnium/archives/2006/03/the_myth_of_lea.php">Kevin Kelly</a> provides an excellent analysis of the rust beneath the chrome of leapfrogging:</p>
+<a href="https://www.kk.org/thetechnium/archives/2006/03/the_myth_of_lea.php">Kevin Kelly</a> provides an excellent analysis of the rust beneath the chrome of leapfrogging:</p>
 
 The most commonly cited evidence for leapfrogging is the pattern of cell phone adoption in China and other parts of the world. For hundred of millions of people in Africa, Asia, Latin America, their first telephone is a cell phone. But second examples of skipping the industrial revolution are scarcer. I am aware of a small island in the Ganges delta of India and one village in Thailand that installed solar power. Beyond that, the examples of skipping the industrial revolution evaporate on inspection. A few pilot programs here and there, but no real adoption. In fact the closer one looks at the evidence, the more unlikely it seems to me that leapfrogging actually happens.
 

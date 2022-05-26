@@ -37,7 +37,7 @@ Schools in Developing Countries</p>
 
 <p>The seminar will be streamed live and recorded for on demand viewing.</p>
 
-<p>LIVE WEBCAST: <a href="http://www.worldbank.org/edevelopment/live">http://www.worldbank.org/edevelopment/live</a><br />
+<p>LIVE WEBCAST: <a href="https://www.worldbank.org/edevelopment/live">https://www.worldbank.org/edevelopment/live</a><br />
 </p>
 
-<p>Some more information about the background of TCO calculations on the OLPC at <a href="http://www.olpcnews.com/implementation/plan/total_cost_of_ownership_seminar.html">OLPCNews.com</a>, as well as a discussion on different models.</p>
+<p>Some more information about the background of TCO calculations on the OLPC at <a href="https://www.olpcnews.com/implementation/plan/total_cost_of_ownership_seminar.html">OLPCNews.com</a>, as well as a discussion on different models.</p>

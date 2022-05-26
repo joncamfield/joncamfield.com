@@ -1,5 +1,5 @@
 ---
-excerpt: "<p><a href=\"http://www.stevenberlinjohnson.com/2006/08/five_things_all.html\">Steven
+excerpt: "<p><a href=\"https://www.stevenberlinjohnson.com/2006/08/five_things_all.html\">Steven
   Johnson</a> has a nice quick list of topics we can move beyond when discussing blogs:</p>\n\n\n1.
   Mainstream, top-down, professional journalism will continue to play a vital role
   in covering news events, and in shaping our interpretation of those events, as it
@@ -14,7 +14,7 @@ categories:
 title: Blogreement
 created: 1154810622
 ---
-<p><a href="http://www.stevenberlinjohnson.com/2006/08/five_things_all.html">Steven Johnson</a> has a nice quick list of topics we can move beyond when discussing blogs:</p>
+<p><a href="https://www.stevenberlinjohnson.com/2006/08/five_things_all.html">Steven Johnson</a> has a nice quick list of topics we can move beyond when discussing blogs:</p>
 
 
 1. Mainstream, top-down, professional journalism will continue to play a vital role in covering news events, and in shaping our interpretation of those events, as it should.

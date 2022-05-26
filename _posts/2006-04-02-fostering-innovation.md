@@ -1,5 +1,5 @@
 ---
-excerpt: <p><a href="http://stconsultant.blogspot.com/2006/03/developing-e-development-projects.html">John
+excerpt: <p><a href="https://stconsultant.blogspot.com/2006/03/developing-e-development-projects.html">John
   Daly</a> wins the award for insanely detailed blog entries with his blogel (my neologism
   for novel-length blogs, spread it!) on K4D, which is its own neologism for "Knowledge
   for Development" -- the "new" area of ICT and knowledge-economic stuffs and their
@@ -10,7 +10,7 @@ categories:
 title: Fostering Innovation
 created: 1144029911
 ---
-<p><a href="http://stconsultant.blogspot.com/2006/03/developing-e-development-projects.html">John Daly</a> wins the award for insanely detailed blog entries with his blogel (my neologism for novel-length blogs, spread it!) on K4D, which is its own neologism for "Knowledge for Development" -- the "new" area of ICT and knowledge-economic stuffs and their role in development projects.</p>
+<p><a href="https://stconsultant.blogspot.com/2006/03/developing-e-development-projects.html">John Daly</a> wins the award for insanely detailed blog entries with his blogel (my neologism for novel-length blogs, spread it!) on K4D, which is its own neologism for "Knowledge for Development" -- the "new" area of ICT and knowledge-economic stuffs and their role in development projects.</p>
 
 <p>If you don't have a few hours to digest that blogel, it provides a decent, straightforward summary of a mostly pragmatic approach to ICTs in development.  It's nothing groundbreaking, but it's unique in not really trying to be groundbreaking, but realistic:</p>
 

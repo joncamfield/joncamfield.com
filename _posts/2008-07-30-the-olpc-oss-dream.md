@@ -1,8 +1,8 @@
 ---
 excerpt: |-
-  <p>The always-amusing <a href="http://www.xkcd.com">XKCD</a> webcomic illustrates the secret dream on the OLPC project in encouraging children to learn and, in doing so, learn programming:</p>
+  <p>The always-amusing <a href="https://www.xkcd.com">XKCD</a> webcomic illustrates the secret dream on the OLPC project in encouraging children to learn and, in doing so, learn programming:</p>
 
-  <p><a href="http://xkcd.com/456/" target="_blank"></a><br />
+  <p><a href="https://xkcd.com/456/" target="_blank"></a><br />
   </p>
 categories:
 - ict4d
@@ -12,7 +12,7 @@ categories:
 title: The OLPC / OSS Dream
 created: 1217431624
 ---
-<p>The always-amusing <a href="http://www.xkcd.com">XKCD</a> webcomic illustrates the secret dream on the OLPC project in encouraging children to learn and, in doing so, learn programming:</p>
+<p>The always-amusing <a href="https://www.xkcd.com">XKCD</a> webcomic illustrates the secret dream on the OLPC project in encouraging children to learn and, in doing so, learn programming:</p>
 
-<p><a href="http://xkcd.com/456/" target="_blank"></a><br />
+<p><a href="https://xkcd.com/456/" target="_blank"></a><br />
 </p>

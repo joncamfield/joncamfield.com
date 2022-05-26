@@ -6,7 +6,7 @@ categories:
 title: How I made a map for Global Youth Service Day 2009
 created: 1224700602
 ---
-<p><strong>Series</strong>: <em><a href="">Overview</a> | <a href="http://www.joncamfield.com/blog/2008/10/drupal_and_maps_ii_modules_in_1.html">Modules</a> | <a href="http://www.joncamfield.com/blog/2008/11/drupal_and_maps_iii_getting_di.html">Structure and Taxonomies</a> | <a href="http://joncamfield.com/blog/2008/12/drupal_mapping_iii5_moving_up.html">On Drupal 6</a> | <a href="http://joncamfield.com/blog/2008/12/drupal_mapping_iv_filtering_an.html">Functionality</a></em></p>
+<p><strong>Series</strong>: <em><a href="">Overview</a> | <a href="https://www.joncamfield.com/blog/2008.10/drupal_and_maps_ii_modules_in_1.html">Modules</a> | <a href="https://www.joncamfield.com/blog/2008.11/drupal_and_maps_iii_getting_di.html">Structure and Taxonomies</a> | <a href="https://joncamfield.com/blog/2008.12/drupal_mapping_iii5_moving_up.html">On Drupal 6</a> | <a href="https://joncamfield.com/blog/2008.12/drupal_mapping_iv_filtering_an.html">Functionality</a></em></p>
 
 <p>This is my "journal" of work in creating a user-modifiable map of the Global Youth Service Day events taking place around the world.  The goal was to create a map that staff non-techies could manage, non-techie youth and organizations from around the world could add to, and still (a) work and (b) be friendly to the techies managing it, allowing for mass import and so on.</p>
 
@@ -16,7 +16,7 @@ created: 1224700602
 
 <p>This guide is going to be a bit on the techie side, and I presume at least a bit of Drupal and webhosting experience when going through it, but nothing you can't google for help on from the community.  As a caveat, I'm also relatively new to drupal, this is only my third foray into the more complex worlds it offers.</p>
 
-<p>I'm writing it down all in one place because almost every step I took fulfilled my 5 minute documentation rule (http://www.joncamfield.com/blog/2008/08/my_5_minute_rule_for_documenta.html), and because mapping is just darned useful as a visualization tool.  I don't think it's totally unreasonable for any nonprofit to reproduce my steps and get their own map, but having a techie on hand would certainly help.  <br />
+<p>I'm writing it down all in one place because almost every step I took fulfilled my 5 minute documentation rule (https://www.joncamfield.com/blog/2008.08/my_5_minute_rule_for_documenta.html), and because mapping is just darned useful as a visualization tool.  I don't think it's totally unreasonable for any nonprofit to reproduce my steps and get their own map, but having a techie on hand would certainly help.  <br />
 </p>
                            </div>
                            <div id="more" class="entry-more">

@@ -1,7 +1,7 @@
 ---
-excerpt: "<a href=\"http://blog.ushahidi.com/index.php/2010/05/19/allocation-of-time-deploying-ushahidi\"
-  target=\"_blank\"><img src=\"http://farm2.static.flickr.com/1222/4604151623_9a84170217.jpg\"
-  border=\"0\" align=\"right\" /></a> Ushahidi's Patrick Meier has a <a href=\"http://blog.ushahidi.com/index.php/2010/05/19/allocation-of-time-deploying-ushahidi\">fantastic
+excerpt: "<a href=\"https://blog.ushahidi.com/index.php/2010/05/19/allocation-of-time-deploying-ushahidi\"
+  target=\"_blank\"><img src=\"https://farm2.static.flickr.com/1222/4604151623_9a84170217.jpg\"
+  border=\"0\" align=\"right\" /></a> Ushahidi's Patrick Meier has a <a href=\"https://blog.ushahidi.com/index.php/2010/05/19/allocation-of-time-deploying-ushahidi\">fantastic
   graph of deployment time</a> for Ushahidi's amazing crisis-mapping solution (which
   has been deployed for such diverse projects as Haiti post-earthquake, the Gulf Coast
   post-BP, and DC's 2009/10 \"Snowmageddon\"):\r\n\r\n<blockquote>The simplicity of
@@ -24,7 +24,7 @@ tags:
 title: The Secret Sauce in Technology For Development isn't the Tech.
 created: 1275060226
 ---
-<a href="http://blog.ushahidi.com/index.php/2010/05/19/allocation-of-time-deploying-ushahidi" target="_blank"><img src="http://farm2.static.flickr.com/1222/4604151623_9a84170217.jpg" border="0" align="right" /></a> Ushahidi's Patrick Meier has a <a href="http://blog.ushahidi.com/index.php/2010/05/19/allocation-of-time-deploying-ushahidi">fantastic graph of deployment time</a> for Ushahidi's amazing crisis-mapping solution (which has been deployed for such diverse projects as Haiti post-earthquake, the Gulf Coast post-BP, and DC's 2009/10 "Snowmageddon"):
+<a href="https://blog.ushahidi.com/index.php/2010/05/19/allocation-of-time-deploying-ushahidi" target="_blank"><img src="https://farm2.static.flickr.com/1222/4604151623_9a84170217.jpg" border="0" align="right" /></a> Ushahidi's Patrick Meier has a <a href="https://blog.ushahidi.com/index.php/2010/05/19/allocation-of-time-deploying-ushahidi">fantastic graph of deployment time</a> for Ushahidi's amazing crisis-mapping solution (which has been deployed for such diverse projects as Haiti post-earthquake, the Gulf Coast post-BP, and DC's 2009/10 "Snowmageddon"):
 
 <blockquote>The simplicity of Ushahidi setup sometimes leads to some crestfallen administrators.
 

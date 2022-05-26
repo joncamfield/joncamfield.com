@@ -1,5 +1,5 @@
 ---
-excerpt: "The ICT_Works blog has come out swinging: <a href=\"http://www.ictworks.org/news/2012/05/25/linux-vs-microsoft-most-useless-debate-ict4d#comment-1729\">
+excerpt: "The ICT_Works blog has come out swinging: <a href=\"https://www.ictworks.org/news/2012/05/25/linux-vs-microsoft-most-useless-debate-ict4d#comment-1729\">
   Linux vs. Microsoft is the most useless debate in ICT4D</a>"
 categories:
 - ict4d
@@ -19,7 +19,7 @@ header:
 title: 'Technology, Cost, Outcomes: The Open Source debate does matter in ICT4D'
 created: 1337949576
 ---
-The ICT_Works blog has come out swinging: <a href="http://www.ictworks.org/news/2012/05/25/linux-vs-microsoft-most-useless-debate-ict4d#comment-1729"> Linux vs. Microsoft is the most useless debate in ICT4D</a>
+The ICT_Works blog has come out swinging: <a href="https://www.ictworks.org/news/2012/05/25/linux-vs-microsoft-most-useless-debate-ict4d#comment-1729"> Linux vs. Microsoft is the most useless debate in ICT4D</a>
 
 As would any sane-minded person after being subjected to a shouting match in Kyrgyzstan.  And the core point is absolutely valid - when you're talking about educational outcomes, there is no effective difference:
 

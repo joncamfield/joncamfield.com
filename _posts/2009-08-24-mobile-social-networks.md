@@ -1,10 +1,10 @@
 ---
 excerpt: "Something is still missing in the world of mobiles and social networks.\r\n\r\nI
-  strongly believe in the power of <a href=\"http://joncamfield.com/blog/2009/07/social_networks_including.html\">social
+  strongly believe in the power of <a href=\"https://joncamfield.com/blog/2009.07/social_networks_including.html\">social
   networks in development</a>, be they online or offline.  They create communities
   of practice from the local to the global level, which promotes better understanding
   of what a best practice is versus what is just a good theory that doesn't reliably
-  work.  You also have amazing, <a href=\"http://mobileactive.org/mobiledata\">unprecedented
+  work.  You also have amazing, <a href=\"https://mobileactive.org/mobiledata\">unprecedented
   access through mobile phones and SMS</a>.\r\n\r\nBut there's nothing solidly connecting
   the two (unless I'm missing something?)\r\n"
 categories:
@@ -24,7 +24,7 @@ created: 1251146553
 ---
 Something is still missing in the world of mobiles and social networks.
 
-I strongly believe in the power of <a href="http://joncamfield.com/blog/2009/07/social_networks_including.html">social networks in development</a>, be they online or offline.  They create communities of practice from the local to the global level, which promotes better understanding of what a best practice is versus what is just a good theory that doesn't reliably work.  You also have amazing, <a href="http://mobileactive.org/mobiledata">unprecedented access through mobile phones and SMS</a>.
+I strongly believe in the power of <a href="https://joncamfield.com/blog/2009.07/social_networks_including.html">social networks in development</a>, be they online or offline.  They create communities of practice from the local to the global level, which promotes better understanding of what a best practice is versus what is just a good theory that doesn't reliably work.  You also have amazing, <a href="https://mobileactive.org/mobiledata">unprecedented access through mobile phones and SMS</a>.
 
 But there's nothing solidly connecting the two (unless I'm missing something?)
 <!--break-->
@@ -32,7 +32,7 @@ Naturally, you have a wealth of primarily-online networks (Facebook, Orkut, MySp
 
 You also have twitter, which is a hybrid, but lacks an integrated system for creating communities (sure, you have hastags, twibes.com, and other third-party twitter grouping tools, but they all seem bolted on still).
 
-And today, <a href="http://www.experientia.com/blog/microsoft-brings-twitter-and-facebook-to-the-emerging-world-with-oneapp/">Microsoft launched their own</a>, called OneApp, designed for Windows Mobile and java smartphones:
+And today, <a href="https://www.experientia.com/blog/microsoft-brings-twitter-and-facebook-to-the-emerging-world-with-oneapp/">Microsoft launched their own</a>, called OneApp, designed for Windows Mobile and java smartphones:
 <blockquote>Microsoft is launching OneApp, an app for people running Windows Mobile phones with slow processors and not a lot of memory. Basically, it’s a lightweight app that lets you run more intensive apps by grabbing just the basics of that app that you need.</blockquote>
 
 OneApp is an interesting tool that lowers the bar for smart-ish phones accessing the richer content of social media sites like Facebook, so it's a step in the right direction (and buzzword-compliant with talk of using the cloud).

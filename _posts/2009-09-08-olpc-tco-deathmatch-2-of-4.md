@@ -1,11 +1,11 @@
 ---
 excerpt: "Let's talk Total Costs of Ownership of One Laptop Per Child.  Taking our
   set of different OLPC implementation cost calculators, as well as actual numbers
-  that have bubbled up over the years, like IADB's <a href=\"http://www.olpcnews.com/implementation/plan/cost_of_olpc_in_haiti.html\">Project
+  that have bubbled up over the years, like IADB's <a href=\"https://www.olpcnews.com/implementation/plan/cost_of_olpc_in_haiti.html\">Project
   HA-T1093</a> with 13,200 students plus 500 teachers (with a budget of USD $5.1M),
   we can try to settle on some generalities so we can compare apples to apples.  \r\n\r\n<div
-  style=\"float: right; margin-left: 10px; margin-bottom: 10px;\"><a href=\"http://www.flickr.com/photos/42925588@N00/3060190008\"><img
-  alt=\"XO in rwanda\" src=\"http://www.olpcnews.com/images/rita-olpc.jpg\" style=\"border:
+  style=\"float: right; margin-left: 10px; margin-bottom: 10px;\"><a href=\"https://www.flickr.com/photos/42925588@N00/3060190008\"><img
+  alt=\"XO in rwanda\" src=\"https://www.olpcnews.com/images/rita-olpc.jpg\" style=\"border:
   2px solid rgb(0, 0, 0);\"></a><br><span style=\"font-size: 0.9em; margin-top: 0px;\">How
   much does this cost RITA?</span></div>\r\n\r\n<b>Common Basic Assumptions</b>\r\n\r\nLet's
   start with how long the project will run, and what number of laptops we'll need
@@ -29,9 +29,9 @@ tags:
 title: OLPC TCO Deathmatch (2 of 4)
 created: 1252424722
 ---
-Let's talk Total Costs of Ownership of One Laptop Per Child.  Taking our set of different OLPC implementation cost calculators, as well as actual numbers that have bubbled up over the years, like IADB's <a href="http://www.olpcnews.com/implementation/plan/cost_of_olpc_in_haiti.html">Project HA-T1093</a> with 13,200 students plus 500 teachers (with a budget of USD $5.1M), we can try to settle on some generalities so we can compare apples to apples.  
+Let's talk Total Costs of Ownership of One Laptop Per Child.  Taking our set of different OLPC implementation cost calculators, as well as actual numbers that have bubbled up over the years, like IADB's <a href="https://www.olpcnews.com/implementation/plan/cost_of_olpc_in_haiti.html">Project HA-T1093</a> with 13,200 students plus 500 teachers (with a budget of USD $5.1M), we can try to settle on some generalities so we can compare apples to apples.  
 
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="http://www.flickr.com/photos/42925588@N00/3060190008"><img alt="XO in rwanda" src="http://www.olpcnews.com/images/rita-olpc.jpg" style="border: 2px solid rgb(0, 0, 0);"></a><br><span style="font-size: 0.9em; margin-top: 0px;">How much does this cost RITA?</span></div>
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="https://www.flickr.com/photos/42925588@N00/3060190008"><img alt="XO in rwanda" src="https://www.olpcnews.com/images/rita-olpc.jpg" style="border: 2px solid rgb(0, 0, 0);"></a><br><span style="font-size: 0.9em; margin-top: 0px;">How much does this cost RITA?</span></div>
 
 <b>Common Basic Assumptions</b>
 
@@ -45,7 +45,7 @@ So let's plan for five years, and drop re-purchasing of the whole batch within t
 
 The OLPC Deployment Guide handily provides numbers for expected monthly repair frequencies, which they project at .083% risk of bricking per laptop per month - 1% failure over the course of a year. 
 
-One percent seems to be a <a href="http://www.olpcnews.com/implementation/maintenance/no_spare_parts_distr.html">popular number</a>, and it should be noted that the OLPC deployment guide breaks out the  additional costs for replacement of screens/batteries/etc. totaling 17 cents per laptop per month (calculation includes labor costs of $8, divided among the incidents).  
+One percent seems to be a <a href="https://www.olpcnews.com/implementation/maintenance/no_spare_parts_distr.html">popular number</a>, and it should be noted that the OLPC deployment guide breaks out the  additional costs for replacement of screens/batteries/etc. totaling 17 cents per laptop per month (calculation includes labor costs of $8, divided among the incidents).  
 
 My original TCO put forward a standard 5% replacement covering both repair and replacement and loss/theft, which seems to be higher than most of the other calculations. The Vital Wave study presumes that all "ultra low-cost laptops" will need full replacement every three years, based on a GeSCI report (the GeSCI TCO tool itself aims to be non-prescriptive).  
 
@@ -53,7 +53,7 @@ This lifespan skews the costs in the Vital Wave report to favor traditional newl
 
 However, If you extend the time-frame just one more year and force a repurchase of all systems, the cost structure changes.  Overall, it's easier for this comparison to not deal with end-of-life costs and batch repurchase (important for implementation planning though that is),  and instead focus on replacement/repair ongoing costs.
 
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="http://www.flickr.com/photos/dcmetroblogger/2552881529/in/set-72157594232448993/"><img src="http://www.olpcnews.com/images/almost_1.jpg" width=200 height=164 style="border: 2px solid rgb(0, 0, 0);"></a><br><span style="font-size: 0.9em; margin-top: 0px;">A way maintenance costs go up</span></div>
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="https://www.flickr.com/photos/dcmetroblogger/2552881529/in/set-72157594232448993/"><img src="https://www.olpcnews.com/images/almost_1.jpg" width=200 height=164 style="border: 2px solid rgb(0, 0, 0);"></a><br><span style="font-size: 0.9em; margin-top: 0px;">A way maintenance costs go up</span></div>
 
 <B>Maintenance & Repair Assumptions</b>
 
@@ -61,7 +61,7 @@ As for loss/repair calculations, Vital Wave <cite>Assume[s] the loss of the valu
 
 With 32 being the magic number in the 1:1 classroom deployment, that's 3 total loss of value (which presumably includes a combination of smaller repair costs as well as outright bricked systems) per 32 laptops over 5 years, so the loss of (3failures/32total)/5years is 1.875% annual failure rate (check my math and logic here, folks!).  This of course discounts the 100% "loss" after the three-year lifespan is over.
 
-The IADB devoted $71,200 in the <a href="http://www.olpcnews.com/implementation/plan/cost_of_olpc_in_haiti.html">Haitian budget</a> to repair and maintenance for the Haiti project comprising 1,3700 OLPC laptops calculated at $188 each (with 10,000 being donated through G1G1):
+The IADB devoted $71,200 in the <a href="https://www.olpcnews.com/implementation/plan/cost_of_olpc_in_haiti.html">Haitian budget</a> to repair and maintenance for the Haiti project comprising 1,3700 OLPC laptops calculated at $188 each (with 10,000 being donated through G1G1):
 
 <blockquote>Maintenance and repair. Resources will be used to finance a three-tiered system for the maintenance and repair of the laptops. At the school level, teachers and students will be trained in basic maintenance and trouble shooting (e.g. antenna replacement, debugging and re-imaging of software). <br><br>At the EFACAP level, ICT advisors and the launching team will receive training in more sophisticated repair and maintenance (e.g. change of motherboard and connectivity issues). For problems requiring more technical expertise, MENFP will enter into collaborative arrangements with the schools benefiting from the Vocational Training Program (SF/1627-HA). A 5% replacement part stock will be financed.</blockquote>
 
@@ -75,8 +75,8 @@ Perhaps it would be easier to set some standard expectations and focus on the co
 
 Are these realistic numbers?  What should we calculate for the per-school Internet access costs?  Do we include key expenses like teacher training and content and curricula development?  Are there other system/country costs like distribution we should throw at these TCO tools?
 
-I am asking you, dear readers, to suggest the answers.  I'll compile suggestions and run them through the TCO calculators.  Need some more ideas on which costs are important, and which happen in "real world" OLPC deployments?  Dig through the World Bank's EduTech blog, where Michael Trucano has compiled an invaluable <a href="http://blogs.worldbank.org/edutech/what-have-we-learned-from-olpc-pilots-to-date">run-down of existing OLPC pilots</a> which also links to a more extensive <a href="http://www.scribd.com/doc/12729094/Evaluation-of-OLPC-Programs-Globally-a-Literature-Review">meta-evaluation by the Australian Council for Educational Research</a>
+I am asking you, dear readers, to suggest the answers.  I'll compile suggestions and run them through the TCO calculators.  Need some more ideas on which costs are important, and which happen in "real world" OLPC deployments?  Dig through the World Bank's EduTech blog, where Michael Trucano has compiled an invaluable <a href="https://blogs.worldbank.org/edutech/what-have-we-learned-from-olpc-pilots-to-date">run-down of existing OLPC pilots</a> which also links to a more extensive <a href="https://www.scribd.com/doc/12729094/Evaluation-of-OLPC-Programs-Globally-a-Literature-Review">meta-evaluation by the Australian Council for Educational Research</a>
 
-These assumptions all carry the <a href="http://blogs.worldbank.org/edutech/what-have-we-learned-from-olpc-pilots-to-date">"hothouse flower"</a> caveat, and further are meant to help us compare the TCO tools available more than represent a real-world OLPC deployment.  That being said, it wouldn't be a TCO post by yours truly without some heated discussion, so let's hear it.  
+These assumptions all carry the <a href="https://blogs.worldbank.org/edutech/what-have-we-learned-from-olpc-pilots-to-date">"hothouse flower"</a> caveat, and further are meant to help us compare the TCO tools available more than represent a real-world OLPC deployment.  That being said, it wouldn't be a TCO post by yours truly without some heated discussion, so let's hear it.  
 
-<strong>Follow the commentary and add your ideas at <a href="http://tinyurl.com/olpctcos">OLPCNews.com</a></strong>
+<strong>Follow the commentary and add your ideas at <a href="https://tinyurl.com/olpctcos">OLPCNews.com</a></strong>

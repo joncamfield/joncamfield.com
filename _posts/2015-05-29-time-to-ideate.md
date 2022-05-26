@@ -1,5 +1,5 @@
 ---
-excerpt: "<a href=\"http://pivot-twist-dev.pathbreaking.net/\">Pivot-Twist-Dev</a>
+excerpt: "<a href=\"https://pivot-twist-dev.pathbreaking.net/\">Pivot-Twist-Dev</a>
   takes the classic \"pivot-twist\" approach for idea pitches of taking a familiar
   concept and twisting it in a new way to the international development space."
 categories:
@@ -17,6 +17,6 @@ header:
 title: Time to Ideate!
 created: 1432945270
 ---
-<a href="http://pivot-twist-dev.pathbreaking.net/">Pivot-Twist-Dev</a> takes the classic "pivot-twist" approach for idea pitches of taking a familiar concept and twisting it in a new way to the international development space.  You might get ideas like "IT'S LIKE  TINDER, BUT FOR NATURAL RESOURCE MANAGEMENT" or "IT'S LIKE FITNESS TRACKERS, BUT FOR SOCIAL ENTREPRENEURSHIP."  Are they good?  Only a pilot project could possibly tell.
+<a href="https://pivot-twist-dev.pathbreaking.net/">Pivot-Twist-Dev</a> takes the classic "pivot-twist" approach for idea pitches of taking a familiar concept and twisting it in a new way to the international development space.  You might get ideas like "IT'S LIKE  TINDER, BUT FOR NATURAL RESOURCE MANAGEMENT" or "IT'S LIKE FITNESS TRACKERS, BUT FOR SOCIAL ENTREPRENEURSHIP."  Are they good?  Only a pilot project could possibly tell.
 
 You're welcome?

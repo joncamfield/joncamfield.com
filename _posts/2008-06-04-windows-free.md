@@ -1,5 +1,5 @@
 ---
-excerpt: <p>No, not the OLPC, but here's a good <a href="http://blogs.ittoolbox.com/eai/madgreek/archives/microsoft-free-one-year-later-25078">story
+excerpt: <p>No, not the OLPC, but here's a good <a href="https://blogs.ittoolbox.com/eai/madgreek/archives/microsoft-free-one-year-later-25078">story
   about a guy who's been MS-free for a year</a>.</p>
 categories:
 - ict4d
@@ -9,4 +9,4 @@ categories:
 title: Windows Free
 created: 1212589648
 ---
-<p>No, not the OLPC, but here's a good <a href="http://blogs.ittoolbox.com/eai/madgreek/archives/microsoft-free-one-year-later-25078">story about a guy who's been MS-free for a year</a>.</p>
+<p>No, not the OLPC, but here's a good <a href="https://blogs.ittoolbox.com/eai/madgreek/archives/microsoft-free-one-year-later-25078">story about a guy who's been MS-free for a year</a>.</p>

@@ -1,10 +1,10 @@
 ---
 excerpt: "When the IDB plans to \"evaluate its performance from a quantitative standpoint,\"
   it's a good sign that they mean to do just that.  The XO project in <a href=\"\">Haiti</a>,
-  <a href=\"http://www.olpcnews.com/countries/haiti/olpc_haiti_xo_laptop_abject_poverty.html\">discussed
-  here</a> with <a href=\"http://www.olpcnews.com/implementation/plan/cost_of_olpc_in_haiti.html\">a
+  <a href=\"https://www.olpcnews.com/countries/haiti/olpc_haiti_xo_laptop_abject_poverty.html\">discussed
+  here</a> with <a href=\"https://www.olpcnews.com/implementation/plan/cost_of_olpc_in_haiti.html\">a
   cost breakdown here</a> is bearing a ton (1 pages, to be precise) fruit, with the
-  <a href=\"http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=2062678\">recent
+  <a href=\"https://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=2062678\">recent
   IDB report</a> (PDF).\r\n\r\nIt reveals some promise, some best practices, and also
   reminds us of some common problems.\r\n"
 categories:
@@ -18,17 +18,17 @@ tags:
 title: The OLPC Haiti Project Reports Back
 created: 1258727870
 ---
-When the IDB plans to "evaluate its performance from a quantitative standpoint," it's a good sign that they mean to do just that.  The XO project in <a href="">Haiti</a>, <a href="http://www.olpcnews.com/countries/haiti/olpc_haiti_xo_laptop_abject_poverty.html">discussed here</a> with <a href="http://www.olpcnews.com/implementation/plan/cost_of_olpc_in_haiti.html">a cost breakdown here</a> is bearing a ton (1 pages, to be precise) fruit, with the <a href="http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=2062678">recent IDB report</a> (PDF).
+When the IDB plans to "evaluate its performance from a quantitative standpoint," it's a good sign that they mean to do just that.  The XO project in <a href="">Haiti</a>, <a href="https://www.olpcnews.com/countries/haiti/olpc_haiti_xo_laptop_abject_poverty.html">discussed here</a> with <a href="https://www.olpcnews.com/implementation/plan/cost_of_olpc_in_haiti.html">a cost breakdown here</a> is bearing a ton (1 pages, to be precise) fruit, with the <a href="https://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=2062678">recent IDB report</a> (PDF).
 
 It reveals some promise, some best practices, and also reminds us of some common problems.
 <!--break-->
 <h3>From the "I toldya so" files</h3>
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="http://www.waveplace.com/mu/waveplace/item/tp38"><img src="http://www.olpcnews.com/images/olpc-carrib.jpg" alt="olpc Caribbean" style="border: 2px solid rgb(0, 0, 0);"></a><br><span style="font-size: 0.9em; margin-top: 0px;">Finding an XO laptop spark</span></div>Somewhat unsurprisingly, there were some hassles in the basic deployment and daily use of the XOs which have been common topics of debate around OLPCNews.com for some time now, from dealing with shipping, hardware and infrastructure limitations, and the importance of teacher training.
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="https://www.waveplace.com/mu/waveplace/item/tp38"><img src="https://www.olpcnews.com/images/olpc-carrib.jpg" alt="olpc Caribbean" style="border: 2px solid rgb(0, 0, 0);"></a><br><span style="font-size: 0.9em; margin-top: 0px;">Finding an XO laptop spark</span></div>Somewhat unsurprisingly, there were some hassles in the basic deployment and daily use of the XOs which have been common topics of debate around OLPCNews.com for some time now, from dealing with shipping, hardware and infrastructure limitations, and the importance of teacher training.
 
 First, classroom usage in the Haiti project started out as laptop sharing among students due to "an unforeseen shortage," later explained with slightly more detail as "logistical barriers and shipping delays").  The project team made lemonade from these lemons and studied the sharing dynamic, concluding that students more comfortable with the laptop and/or students who already had an  stronger academic skills tended to dominate laptop usage; furthering the educational divide.
 
 <strong>Green and Cute does not mean Safe</strong>
-The strong branding of the laptop, ideally <a href="http://www.olpctalks.com/nicholas_negroponte/negroponte_ted_speech.html">destroying the market for stolen XOs</a> may or may not work as a theft deterrent, but most of the Haitian children aren't willing to gamble with theirs: "However, more than half of the fourth-grade students interviewed reported feeling afraid to take the XO laptop home because they might be robbed."
+The strong branding of the laptop, ideally <a href="https://www.olpctalks.com/nicholas_negroponte/negroponte_ted_speech.html">destroying the market for stolen XOs</a> may or may not work as a theft deterrent, but most of the Haitian children aren't willing to gamble with theirs: "However, more than half of the fourth-grade students interviewed reported feeling afraid to take the XO laptop home because they might be robbed."
 
 <strong>Battery life correlates with attention span: </strong>
 <blockquote>The evaluation also found great variation in student attention span per XO Camp session, with a rising attention span from 9:00 am until approximately 10:30 am, and declining attention span thereafter. One of the explanations for this variation, as
@@ -42,7 +42,7 @@ The actual problem then is not some mysterious mid-morning-onset Attention Defic
 
 Clearly, however, the path from rote memorization to a more exploratory framework still had some ground to cover, based on not only the above sentiments, but some choice student quotes like "When I use it, I’ll understand what I’m working on much better, which will make it easier to memorize."
 
-Haiti also reveals a valuable role for constructivist style, student-led learning in <a href="http://www.olpcnews.com/countries/haiti/olpc_haiti_xo_laptop_abject_poverty.html">low-resource environments</a>:
+Haiti also reveals a valuable role for constructivist style, student-led learning in <a href="https://www.olpcnews.com/countries/haiti/olpc_haiti_xo_laptop_abject_poverty.html">low-resource environments</a>:
 
 <blockquote>Particularly in settings  of extreme poverty, where
 educational materials and resources are scant and teacher quality is lacking, the implementation of child-centered learning can increase students’ ability to think independently and to develop problem-solving skills more rapidly. Technology that is explicitly child-centered and designed for individual use has the potential of accelerating educational development in the short term.</blockquote>
@@ -63,14 +63,14 @@ Include a longer-lasting battery, since the current battery lasts only about 2 h
 Include activities specific to Haitian culture. For example, when teaching about science, it would be useful to have an XO laptop activity that compared the traditional or natural medicines of several countries, including Haiti.</blockquote>
 
 <H3>Some Good News</h3>
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="http://www.waveplace.com/mu/waveplace/item/tp2"><img src="http://www.olpcnews.com/images/carrib-olpc.jpg" alt="olpc Caribbean" style="border: 2px solid rgb(0, 0, 0);"></a><br><span style="font-size: 0.9em; margin-top: 0px;">Haitian kids ♥ XO laptops</span></div>The software was not a problem - core Sugar Activities like Record, Write, Browse and Paint were well woven into curricula and represented the vast majority of classroom usage.  Students would explore the other programs, but this exploration declined when activities were used in class.  Also, introduction to the Internet "drastically reduced usage of the Paint and Record programs after being formally introduced to the Internet and receiving an essay-writing assignment."  If you think that's a steep drop off, just wait till you show them Facebook, Twitter, and LOLCATS.
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"><a href="https://www.waveplace.com/mu/waveplace/item/tp2"><img src="https://www.olpcnews.com/images/carrib-olpc.jpg" alt="olpc Caribbean" style="border: 2px solid rgb(0, 0, 0);"></a><br><span style="font-size: 0.9em; margin-top: 0px;">Haitian kids ♥ XO laptops</span></div>The software was not a problem - core Sugar Activities like Record, Write, Browse and Paint were well woven into curricula and represented the vast majority of classroom usage.  Students would explore the other programs, but this exploration declined when activities were used in class.  Also, introduction to the Internet "drastically reduced usage of the Paint and Record programs after being formally introduced to the Internet and receiving an essay-writing assignment."  If you think that's a steep drop off, just wait till you show them Facebook, Twitter, and LOLCATS.
 
 The decline in exploration is unfortunate, but could indicate student comfort and expertise levels increasing in programs they use more often.  I certainly am a bigger fan of Excel than Access, and Photoshop more than MSPaint:
 
 <blockquote>"when a clear activity was presented to the students and the students were given projects to work on using specific software programs, use of those programs increased steadily, while exploratory usage declined."</blockquote>
 
 <Strong>Actual skill and teaching improvements</strong>
-The role of technology - and how to evaluate it - is the topic of <a href="http://edutechdebate.org/">lively debate</a>.  The Haiti OLPC project team did an impressive job gathering a mixture of hard numbers, survey responses and basic observations.  Even so, educational progress with the laptop remains hard to measure.  Some high points were clear  improvement in spelling (possibly thanks in part to spellcheck) and improved writing (perhaps simply a better tool to write with?).
+The role of technology - and how to evaluate it - is the topic of <a href="https://edutechdebate.org/">lively debate</a>.  The Haiti OLPC project team did an impressive job gathering a mixture of hard numbers, survey responses and basic observations.  Even so, educational progress with the laptop remains hard to measure.  Some high points were clear  improvement in spelling (possibly thanks in part to spellcheck) and improved writing (perhaps simply a better tool to write with?).
 
 Regardless, there were clear process improvements for teachers:
 

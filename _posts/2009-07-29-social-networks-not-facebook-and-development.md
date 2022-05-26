@@ -1,16 +1,16 @@
 ---
-excerpt: "World-wandering <a href=\"http://www.boingboing.net/2009/03/20/if-you-dont-trust-pe.html\">BoingBoing
+excerpt: "World-wandering <a href=\"https://www.boingboing.net/2009/03/20/if-you-dont-trust-pe.html\">BoingBoing
   editor Xeni Jardin</a> writes about a video from the \"What Would the Poor Say:
   Debates in Aid Evaluation,\" NYU conference, where Leonard Wantchekoz presents on
   the importance of trust in development:\r\n\r\n<div style=\"width: 410px; float:
   right;\">Video: \"If You Don't Trust People You Know, It's Over.\"<br /><object
   width=\"400\" height=\"307\"><param name=\"allowfullscreen\" value=\"true\" /><param
-  name=\"allowscriptaccess\" value=\"always\" /><param name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?clip_id=3546842&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1\"
-  /><embed src=\"http://vimeo.com/moogaloop.swf?clip_id=3546842&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1\"
+  name=\"allowscriptaccess\" value=\"always\" /><param name=\"movie\" value=\"https://vimeo.com/moogaloop.swf?clip_id=3546842&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1\"
+  /><embed src=\"https://vimeo.com/moogaloop.swf?clip_id=3546842&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1\"
   type=\"application/x-shockwave-flash\" allowfullscreen=\"true\" allowscriptaccess=\"always\"
-  width=\"400\" height=\"307\"></embed></object><br /><a href=\"http://vimeo.com/3546842\">Leonard
-  Wantchekon on the Lack of Intra-Community Trust in Benin</a> from <a href=\"http://vimeo.com/user1393713\">DRI</a>
-  on <a href=\"http://vimeo.com\">Vimeo</a>.</div>\r\n"
+  width=\"400\" height=\"307\"></embed></object><br /><a href=\"https://vimeo.com/3546842\">Leonard
+  Wantchekon on the Lack of Intra-Community Trust in Benin</a> from <a href=\"https://vimeo.com/user1393713\">DRI</a>
+  on <a href=\"https://vimeo.com\">Vimeo</a>.</div>\r\n"
 categories:
 - development theory
 tags:
@@ -21,9 +21,9 @@ tags:
 title: Social Networks (not Facebook) and Development
 created: 1248875401
 ---
-World-wandering <a href="http://www.boingboing.net/2009/03/20/if-you-dont-trust-pe.html">BoingBoing editor Xeni Jardin</a> writes about a video from the "What Would the Poor Say: Debates in Aid Evaluation," NYU conference, where Leonard Wantchekoz presents on the importance of trust in development:
+World-wandering <a href="https://www.boingboing.net/2009/03/20/if-you-dont-trust-pe.html">BoingBoing editor Xeni Jardin</a> writes about a video from the "What Would the Poor Say: Debates in Aid Evaluation," NYU conference, where Leonard Wantchekoz presents on the importance of trust in development:
 
-<div style="width: 410px; float: right;">Video: "If You Don't Trust People You Know, It's Over."<br /><object width="400" height="307"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=3546842&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=3546842&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="307"></embed></object><br /><a href="http://vimeo.com/3546842">Leonard Wantchekon on the Lack of Intra-Community Trust in Benin</a> from <a href="http://vimeo.com/user1393713">DRI</a> on <a href="http://vimeo.com">Vimeo</a>.</div>
+<div style="width: 410px; float: right;">Video: "If You Don't Trust People You Know, It's Over."<br /><object width="400" height="307"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="https://vimeo.com/moogaloop.swf?clip_id=3546842&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" /><embed src="https://vimeo.com/moogaloop.swf?clip_id=3546842&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="400" height="307"></embed></object><br /><a href="https://vimeo.com/3546842">Leonard Wantchekon on the Lack of Intra-Community Trust in Benin</a> from <a href="https://vimeo.com/user1393713">DRI</a> on <a href="https://vimeo.com">Vimeo</a>.</div>
 <!--break-->
 <cite>Communities in Benin where he has seen this phenomenon manifest most, he says, are the same communities where the highest amount of slave exportation took place from the 1600s to the 1900s  [...] [A]s I watched, I kept thinking about what this means in my own personal community back here in the US (and around the internet). How I and my friends and colleagues are, in many ways, really "banking" on that trust with each other to come up with creative ways to survive the economic crisis.</cite>
 

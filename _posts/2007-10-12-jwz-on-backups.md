@@ -1,6 +1,6 @@
 ---
 excerpt: |-
-  <p>JWZ as usual offers good, if acerbic, advice; today on <a href="http://jwz.livejournal.com/801607.html">backups</a>:</p>
+  <p>JWZ as usual offers good, if acerbic, advice; today on <a href="https://jwz.livejournal.com/801607.html">backups</a>:</p>
 
 
    I am here to tell you about backups. It's very simple.
@@ -16,7 +16,7 @@ categories:
 title: JWZ on backups
 created: 1192217074
 ---
-<p>JWZ as usual offers good, if acerbic, advice; today on <a href="http://jwz.livejournal.com/801607.html">backups</a>:</p>
+<p>JWZ as usual offers good, if acerbic, advice; today on <a href="https://jwz.livejournal.com/801607.html">backups</a>:</p>
 
 
  I am here to tell you about backups. It's very simple.

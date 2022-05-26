@@ -1,8 +1,8 @@
 ---
 excerpt: <p>You normally don't expect such staid bodies as the OECD to go and start
-  talking about <a href="http://joncamfield.com/blog/floss/">Web 2.0 and user-created
-  content</a> (or "UCC" in their terminology), but then they go and create a <a href="http://www.oecd.org/document/40/0,3343,en_2649_201185_39428648_1_1_1_1,00.html">huge
-  report doing just that</a> (Via <a href="http://topics.developmentgateway.org/ict/rc/ItemDetail.do~1126864">DG</a>):</p>
+  talking about <a href="https://joncamfield.com/blog/floss/">Web 2.0 and user-created
+  content</a> (or "UCC" in their terminology), but then they go and create a <a href="https://www.oecd.org/document/40/0,3343,en_2649_201185_39428648_1_1_1_1,00.html">huge
+  report doing just that</a> (Via <a href="https://topics.developmentgateway.org/ict/rc/ItemDetail.do~1126864">DG</a>):</p>
 categories:
 - ict4d
 
@@ -10,7 +10,7 @@ categories:
 title: OECD on Web 2.0 and Copyright
 created: 1201099396
 ---
-<p>You normally don't expect such staid bodies as the OECD to go and start talking about <a href="http://joncamfield.com/blog/floss/">Web 2.0 and user-created content</a> (or "UCC" in their terminology), but then they go and create a <a href="http://www.oecd.org/document/40/0,3343,en_2649_201185_39428648_1_1_1_1,00.html">huge report doing just that</a> (Via <a href="http://topics.developmentgateway.org/ict/rc/ItemDetail.do~1126864">DG</a>):</p>
+<p>You normally don't expect such staid bodies as the OECD to go and start talking about <a href="https://joncamfield.com/blog/floss/">Web 2.0 and user-created content</a> (or "UCC" in their terminology), but then they go and create a <a href="https://www.oecd.org/document/40/0,3343,en_2649_201185_39428648_1_1_1_1,00.html">huge report doing just that</a> (Via <a href="https://topics.developmentgateway.org/ict/rc/ItemDetail.do~1126864">DG</a>):</p>
 
 This study describes the rapid growth of UCC and its increasing role in worldwide communication, and draws out implications for policy. Questions addressed include: What is user-created content? What are its key drivers, its scope and different forms? What are the new value chains and business models? What are the extent and form of social, cultural and economic opportunities and impacts? What are the associated challenges? Is there a government role, and what form could it take?
 

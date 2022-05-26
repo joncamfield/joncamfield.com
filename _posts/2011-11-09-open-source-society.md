@@ -1,5 +1,5 @@
 ---
-excerpt: "This is a rough summary of my talk Tuesday night at DCWeek's <a href=\"http://bit.ly/dcweektechtrends1108\">Hot
+excerpt: "This is a rough summary of my talk Tuesday night at DCWeek's <a href=\"https://bit.ly/dcweektechtrends1108\">Hot
   Tech Trends</a>."
 categories:
 - web 2.0 and f/loss
@@ -13,7 +13,7 @@ tags:
 title: Open Source Society
 created: 1320849138
 ---
-This is a rough summary of my talk Tuesday night at DCWeek's <a href="http://bit.ly/dcweektechtrends1108">Hot Tech Trends</a>.  <a href="http://joncamfield.com/blog/2011/10/tech_trends_come_discuss_at">Read more about the panel</a> and continue the discussion over at <a href="http://www.quora.com/Hot-Tech-Trends-What-are-the-top-tech-trends-in-2011-and-whats-coming-up-in-2012">quora</a>
+This is a rough summary of my talk Tuesday night at DCWeek's <a href="https://bit.ly/dcweektechtrends1108">Hot Tech Trends</a>.  <a href="https://joncamfield.com/blog/2011.10/tech_trends_come_discuss_at">Read more about the panel</a> and continue the discussion over at <a href="https://www.quora.com/Hot-Tech-Trends-What-are-the-top-tech-trends-in-2011-and-whats-coming-up-in-2012">quora</a>
 
 The trend I'm  most interested in right now is actually as much offline as it is on.  It really hit me a few weeks ago as I was reading through the minutes of an Occupy General Assembly. Here was a huge meeting with multiple viewpoints that was being successfully self-facilitated, prioritizing issues and moving quickly.  This was a <strong>committee</strong> that was being collaborative, open, transparent, and still ... <em>effective</em>.
 
@@ -31,7 +31,7 @@ The past few years have been accelerating this convergence.  Blogs and Wikipedia
 
 But more importantly, crowdfunding models like Kiva and Kickstarter are toe-in-water steps towards creating collaborative business models by seeking out customers and supporters in a very early stage and rallying their support around potential projects and products.  Co-working spaces provide entry-level incubation for young startups with great perks of cross-startup networking and talent sharing. These fast prototyping models reduce overall risk and create engaged, evangelical customers and partners.
 
-The social change sphere has jumped in to this intersection and is spawning hundereds of really exciting co-creation models.  We've seen this in crisis mapping (Snowpocalypse, Haiti, Thailand), protest movements (Moldova, ArabSpring, OWS), open data mashups combining entrepreneurs and civic data (Apps4Democracy, UN Global Pulse), and even countries crowdsourcing their own constitutions (<a href="http://www.engadget.com/2011/07/31/icelands-crowdsourced-constitution-submitted-for-approval-nyan/">Iceleand</a> and now <a href="http://reforme.ma/">Morocco</a>)
+The social change sphere has jumped in to this intersection and is spawning hundereds of really exciting co-creation models.  We've seen this in crisis mapping (Snowpocalypse, Haiti, Thailand), protest movements (Moldova, ArabSpring, OWS), open data mashups combining entrepreneurs and civic data (Apps4Democracy, UN Global Pulse), and even countries crowdsourcing their own constitutions (<a href="https://www.engadget.com/2011/07/31/icelands-crowdsourced-constitution-submitted-for-approval-nyan/">Iceleand</a> and now <a href="https://reforme.ma/">Morocco</a>)
 
 The availability of these easy to use platforms and expectations of openness and co-creation is forcing new levels of engagement in all sectors.  People are no longer OK with  occasional, reactive, or superficial engagement.
 
@@ -47,5 +47,5 @@ With these concepts of shared ownership, highly functional teams, collaboration 
 
 Holy shit, this is going to be a wild, fun ride.
 
-<em>"All the things" courtesy <a href="http://www.quickmeme.com/meme/359ng7/">quickmeme</a> with the amazing original comic by <a href="hyperboleandahalf.blogspot.com">Hyperbole and a Half</a></em>
+<em>"All the things" courtesy <a href="https://www.quickmeme.com/meme/359ng7/">quickmeme</a> with the amazing original comic by <a href="hyperboleandahalf.blogspot.com">Hyperbole and a Half</a></em>
 <!--break-->

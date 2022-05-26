@@ -1,8 +1,8 @@
 ---
-excerpt: <p><a href="http://edge.org/3rd_culture/lanier06/lanier06_index.html">Edge.org</a>
-  is running an article by <a href="http://en.wikipedia.org/wiki/Jaron_Lanier">Jaron
+excerpt: <p><a href="https://edge.org/3rd_culture/lanier06/lanier06_index.html">Edge.org</a>
+  is running an article by <a href="https://en.wikipedia.org/wiki/Jaron_Lanier">Jaron
   Lanier</a> on the current drive towards meta-content and collective-rule on the
-  Internet (think Wikipedia, BoingBoing, Digg, etc.), and some <a href="http://edge.org/discourse/digital_maoism.html">responses</a>
+  Internet (think Wikipedia, BoingBoing, Digg, etc.), and some <a href="https://edge.org/discourse/digital_maoism.html">responses</a>
   from leaders of "The Collective".</p>
 categories:
 - ict4d
@@ -11,7 +11,7 @@ categories:
 title: Collective Action
 created: 1150037963
 ---
-<p><a href="http://edge.org/3rd_culture/lanier06/lanier06_index.html">Edge.org</a> is running an article by <a href="http://en.wikipedia.org/wiki/Jaron_Lanier">Jaron Lanier</a> on the current drive towards meta-content and collective-rule on the Internet (think Wikipedia, BoingBoing, Digg, etc.), and some <a href="http://edge.org/discourse/digital_maoism.html">responses</a> from leaders of "The Collective".</p>
+<p><a href="https://edge.org/3rd_culture/lanier06/lanier06_index.html">Edge.org</a> is running an article by <a href="https://en.wikipedia.org/wiki/Jaron_Lanier">Jaron Lanier</a> on the current drive towards meta-content and collective-rule on the Internet (think Wikipedia, BoingBoing, Digg, etc.), and some <a href="https://edge.org/discourse/digital_maoism.html">responses</a> from leaders of "The Collective".</p>
 
 A core belief of the wiki world is that whatever problems exist in the wiki will be incrementally corrected as the process unfolds. This is analogous to the claims of Hyper-Libertarians who put infinite faith in a free market, or the Hyper-Lefties who are somehow able to sit through consensus decision-making processes.
 
@@ -25,6 +25,6 @@ What I've seen is a loss of insight and subtlety, a disregard for the nuances of
 
 <p>I echo some of the other critiques by saying that his argument doesn't scale out very well.  Is Open Source also blind trust in the collective intelligence?  It would seem that, for the most popular and mission-critical OSS projects, they provide more stable and powerful solutions than their closed-source competitors.</p>
 
-<p>I think there's definitely some worry in placing too much trust in the Collective/Hive Mind -- but one need look no further than his <a href="http://en.wikipedia.org/wiki/Talk:Jaron_Lanier">discussion page on wikipedia</a>, where there's a short debate on what should and should not be part of his bio, or the semi-democratic deletion attempt made on the bio of <a href="http://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Henry_Farrell_%28political_scientist%29">Henry Farrell</a>, a political scientist who studies IT and privacy issues at GWU.  There are very definite conflicting personalities under the hood of Wikipedia, the monolithic collective movement of its articles is just a pleasant facade.</p>
+<p>I think there's definitely some worry in placing too much trust in the Collective/Hive Mind -- but one need look no further than his <a href="https://en.wikipedia.org/wiki/Talk:Jaron_Lanier">discussion page on wikipedia</a>, where there's a short debate on what should and should not be part of his bio, or the semi-democratic deletion attempt made on the bio of <a href="https://en.wikipedia.org/wiki/Wikipedia:Articles_for_deletion/Henry_Farrell_%28political_scientist%29">Henry Farrell</a>, a political scientist who studies IT and privacy issues at GWU.  There are very definite conflicting personalities under the hood of Wikipedia, the monolithic collective movement of its articles is just a pleasant facade.</p>
 
 <p>Also, and this I think is the root of the matter, I have problems taking cheek about digital collective maoism from a white guy with dreads.</p>

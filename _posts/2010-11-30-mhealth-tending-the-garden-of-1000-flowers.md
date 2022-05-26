@@ -2,8 +2,8 @@
 excerpt: "At #mHS10, we heard funders talking time and time again for letting \"1000
   flowers bloom\" in mHealth pilots, and programs talking about pilots leading to
   more pilots.  This was fine the first few times it came up, but by the last day,
-  the syndromes of the pilot-itis pandemic were clear.\r\n\r\n<a href=\"http://www.flickr.com/photos/griffjon/2449767419/\"
-  title=\"Flower by jon_camfield, on Flickr\"><img src=\"http://farm4.static.flickr.com/3228/2449767419_ffd9fba0d7_m.jpg\"
+  the syndromes of the pilot-itis pandemic were clear.\r\n\r\n<a href=\"https://www.flickr.com/photos/griffjon/2449767419/\"
+  title=\"Flower by jon_camfield, on Flickr\"><img src=\"https://farm4.static.flickr.com/3228/2449767419_ffd9fba0d7_m.jpg\"
   width=\"240\" height=\"180\" alt=\"Flower\" border=\"0\" align=\"right\" /></a>This
   reeks of desperation.  The funders are not finding clear winners in their projects,
   and the various implementers are casting about with local solutions that they either
@@ -47,7 +47,7 @@ created: 1291169465
 ---
 At #mHS10, we heard funders talking time and time again for letting "1000 flowers bloom" in mHealth pilots, and programs talking about pilots leading to more pilots.  This was fine the first few times it came up, but by the last day, the syndromes of the pilot-itis pandemic were clear.
 
-<a href="http://www.flickr.com/photos/griffjon/2449767419/" title="Flower by jon_camfield, on Flickr"><img src="http://farm4.static.flickr.com/3228/2449767419_ffd9fba0d7_m.jpg" width="240" height="180" alt="Flower" border="0" align="right" /></a>This reeks of desperation.  The funders are not finding clear winners in their projects, and the various implementers are casting about with local solutions that they either can't or won't scale, trying to find an idea so powerful that it will break through this lock.
+<a href="https://www.flickr.com/photos/griffjon/2449767419/" title="Flower by jon_camfield, on Flickr"><img src="https://farm4.static.flickr.com/3228/2449767419_ffd9fba0d7_m.jpg" width="240" height="180" alt="Flower" border="0" align="right" /></a>This reeks of desperation.  The funders are not finding clear winners in their projects, and the various implementers are casting about with local solutions that they either can't or won't scale, trying to find an idea so powerful that it will break through this lock.
 
 We need to focus more energy on innovations which are dealing with core problems in health and in using mobiles for health, and thin out some of these 1000s of flowers.  The soil is too fertile for this approach, and the many duplicated, repeated pilots will crowd out new, creative and gamechanging ideas.  We need to move past these more basic mhealth applications - reminder messages for drug adherence, pre-natal checkups and so on are great - but simply using a new communications method to address an old problem.  Let's replicate and scale those to more sub-sectors and keep them funded, but let's not dwell on them.
 

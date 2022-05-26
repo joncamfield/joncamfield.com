@@ -1,5 +1,5 @@
 ---
-excerpt: "Cross-posted at the Tech Salon site: http://technologysalon.org/2013/04/why-information-security-matters.html"
+excerpt: "Cross-posted at the Tech Salon site: https://technologysalon.org/2013/04/why-information-security-matters.html"
 categories:
 - hactivismo
 - olpc
@@ -8,9 +8,9 @@ title: "Cyber-Security and ICT4D: Notes from the Info Security Tech Salon"
 created: 1364578567
 
 ---
-<em>Cross-posted at the Tech Salon site: http://technologysalon.org/2013/04/why-information-security-matters.html</em>
+<em>Cross-posted at the Tech Salon site: https://technologysalon.org/2013/04/why-information-security-matters.html</em>
 
-First off, please thank the Internets for creating this site, which can serve as a guide on when you should use the prexif cyber: http://willusingtheprefixcybermakemelooklikeanidiot.com
+First off, please thank the Internets for creating this site, which can serve as a guide on when you should use the prexif cyber: https://willusingtheprefixcybermakemelooklikeanidiot.com
 
 The tech salon on security and privacy was a predictably raucous debate on finding a sane balance between using 30-character passwords with symbols, numbers, and mixed-case letters that must be changed every month for your timesheet systems ... and taking basic security measures to protect super-private data. How and where do we build in information security in ICT4D? When is it unwarranted, and when is it irresponsible to not address it?
 
@@ -36,9 +36,9 @@ The salon ended with a strong call for further discussion and community-building
 
 <ul>
 <li>Tactical Tech’s Security-in-a-Box is multi-language (11 ! ) resource with localized contextual examples.  It is both approachable and comprehensive. (Note: Security-in-a-Box is undergoing an update, which will be released in late 2013/early 2014.) https://securityinabox.org/ </li>
-<li>EISF’s 2010 Report “The Information Management Challenge: a Briefing on Information Security for Humanitarian NGOs in the Field,” is a excellent holistic introduction to information security, particularly in the context of NGOs operating in the field: http://www.eisf.eu/resources/download.asp?d=2127 </li>
-<li>FrontlineSMS -- “User Guide on Data Integrity,” focused on mobile and data security: http://www.frontlinesms.com/user-resources/user-guide-data-integrity/ </li>
-<li>SMI’s 2009 “Cyber Security for International Aid Agencies: A Primer,” by Dmitri Vitaliev: http://securitymanagementinitiative.org/index.php?option=com_docman&task=doc_download&gid=226&Itemid=32&lang=en </li>
+<li>EISF’s 2010 Report “The Information Management Challenge: a Briefing on Information Security for Humanitarian NGOs in the Field,” is a excellent holistic introduction to information security, particularly in the context of NGOs operating in the field: https://www.eisf.eu/resources/download.asp?d=2127 </li>
+<li>FrontlineSMS -- “User Guide on Data Integrity,” focused on mobile and data security: https://www.frontlinesms.com/user-resources/user-guide-data-integrity/ </li>
+<li>SMI’s 2009 “Cyber Security for International Aid Agencies: A Primer,” by Dmitri Vitaliev: https://securitymanagementinitiative.org/index.php?option=com_docman&task=doc_download&gid=226&Itemid=32&lang=en </li>
 <li>Internews’ SpeakSafe Guide. Some excellent resources for Windows users in this guide that are not currently in other guides.</li>
 <li>SAFETAG will provide a framework designed to help sufficiently tech savvy users perform and document meaningful digital security assessments for small, at-risk civil society organizations in the field. Internews hopes to publish the framework more broadly toward the end of the year.  To get information about this project as it nears launch, email <a href="mailto:info@safetag.org">info@safetag.org</a> . </li>
 </ul>

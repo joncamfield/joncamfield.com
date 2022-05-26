@@ -4,7 +4,7 @@ excerpt: |-
 
   <p></p>
 
-  <p>(I found this on <a href="http://richezamor.com/blog/social-media-plain-words">Richie Zamor</a>'s excellent site)</p>
+  <p>(I found this on <a href="https://richezamor.com/blog/social-media-plain-words">Richie Zamor</a>'s excellent site)</p>
 categories:
 - ict4d
 - web 2.0 and f/loss
@@ -17,4 +17,4 @@ created: 1219855612
 
 <p></p>
 
-<p>(I found this on <a href="http://richezamor.com/blog/social-media-plain-words">Richie Zamor</a>'s excellent site)</p>
+<p>(I found this on <a href="https://richezamor.com/blog/social-media-plain-words">Richie Zamor</a>'s excellent site)</p>

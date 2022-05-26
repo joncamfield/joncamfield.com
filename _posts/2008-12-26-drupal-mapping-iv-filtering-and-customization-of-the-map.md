@@ -1,9 +1,9 @@
 ---
 excerpt: "<p><em>This is the continuation of my journal on getting mapping to work
-  for Global Youth Service Day in Drupal, which <a href=\"http://www.joncamfield.com/blog/2008/10/how_i_made_a_map_for_global_yo.html\">starts
-  with an overview of maps and drupal</a>, and continues <a href=\"http://www.joncamfield.com/blog/2008/10/drupal_and_maps_ii_modules_in_1.html\">with
-  a discussion of modules</a>, then talks about <a href=\"http://www.joncamfield.com/blog/2008/11/drupal_and_maps_iii_getting_di.html\">getting
-  content into the map.</a></em></p>\r\n\r\n<p>Remember back in <a href=\"http://www.joncamfield.com/blog/2008/10/drupal_and_maps_ii_modules_in_1.html\">Part
+  for Global Youth Service Day in Drupal, which <a href=\"https://www.joncamfield.com/blog/2008.10/how_i_made_a_map_for_global_yo.html\">starts
+  with an overview of maps and drupal</a>, and continues <a href=\"https://www.joncamfield.com/blog/2008.10/drupal_and_maps_ii_modules_in_1.html\">with
+  a discussion of modules</a>, then talks about <a href=\"https://www.joncamfield.com/blog/2008.11/drupal_and_maps_iii_getting_di.html\">getting
+  content into the map.</a></em></p>\r\n\r\n<p>Remember back in <a href=\"https://www.joncamfield.com/blog/2008.10/drupal_and_maps_ii_modules_in_1.html\">Part
   II where I mentioned the Views and Panels module</a>?</p>\r\n\r\n<p>Views gives
   you very precise control over what shows up on new maps you can show up.  Even better,
   use can create \"arguments\" that can be passed through the URL to further define
@@ -33,9 +33,9 @@ tags:
 title: 'Drupal Mapping IV: Filtering and Customization of the Map'
 created: 1230287400
 ---
-<p><em>This is the continuation of my journal on getting mapping to work for Global Youth Service Day in Drupal, which <a href="http://www.joncamfield.com/blog/2008/10/how_i_made_a_map_for_global_yo.html">starts with an overview of maps and drupal</a>, and continues <a href="http://www.joncamfield.com/blog/2008/10/drupal_and_maps_ii_modules_in_1.html">with a discussion of modules</a>, then talks about <a href="http://www.joncamfield.com/blog/2008/11/drupal_and_maps_iii_getting_di.html">getting content into the map.</a></em></p>
+<p><em>This is the continuation of my journal on getting mapping to work for Global Youth Service Day in Drupal, which <a href="https://www.joncamfield.com/blog/2008.10/how_i_made_a_map_for_global_yo.html">starts with an overview of maps and drupal</a>, and continues <a href="https://www.joncamfield.com/blog/2008.10/drupal_and_maps_ii_modules_in_1.html">with a discussion of modules</a>, then talks about <a href="https://www.joncamfield.com/blog/2008.11/drupal_and_maps_iii_getting_di.html">getting content into the map.</a></em></p>
 
-<p>Remember back in <a href="http://www.joncamfield.com/blog/2008/10/drupal_and_maps_ii_modules_in_1.html">Part II where I mentioned the Views and Panels module</a>?</p>
+<p>Remember back in <a href="https://www.joncamfield.com/blog/2008.10/drupal_and_maps_ii_modules_in_1.html">Part II where I mentioned the Views and Panels module</a>?</p>
 
 <p>Views gives you very precise control over what shows up on new maps you can show up.  Even better, use can create "arguments" that can be passed through the URL to further define what shows up.  For example, I created a view whose base URL was /gysd/map/ -- if you go there, you get a listing of years to choose from (do you want to see events from GYSD 2008?  GYSD 2009?)  If you click on 2008, the url is now /gysd/map/2008 - and you see all the events for that year.  I then created some other map options to list by country, state, and so on, so there's another path that goes like this: /gysd/map-by-location/2008/us/FL .  If I cut that one off at 2008/, I'd see a listing of all the countries I had data for.  If I cut it at us/ , I'd see all the regions (states) with data.  You could also set a map up with zip codes, taxonomies, and so on.  Drupal 6's Views2 is an order of magnitude more powerful that Views1, and alone it's a reason to upgrade to D6.</p>
 

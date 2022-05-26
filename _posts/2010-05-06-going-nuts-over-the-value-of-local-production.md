@@ -1,6 +1,6 @@
 ---
-excerpt: "For some background, I highly recommend Alanna Shaikh's post here: http://aidwatchers.com/2010/04/the-plumpy%E2%80%99nut-dustup/
-  and follow-up here: http://aidwatchers.com/2010/05/the-plumpy%E2%80%99nut-dust-up-nutriset%E2%80%99s-side-of-the-story/comment-page-1/#comment-12035
+excerpt: "For some background, I highly recommend Alanna Shaikh's post here: https://aidwatchers.com/2010/04/the-plumpy%E2%80%99nut-dustup/
+  and follow-up here: https://aidwatchers.com/2010/05/the-plumpy%E2%80%99nut-dust-up-nutriset%E2%80%99s-side-of-the-story/comment-page-1/#comment-12035
   .  In short, a French company is defending their patent on a super-nutritious \"therapeutic\"
   food called Plumpy'nut against a lawsuit by some US NGOs (who could have licensed
   it, but are instead trying to break the patent)\r\n\r\nMy guy reaction was anti-intellectual
@@ -27,7 +27,7 @@ tags:
 title: Going Nuts over the Value of Local Production
 created: 1273167569
 ---
-For some background, I highly recommend Alanna Shaikh's post here: http://aidwatchers.com/2010/04/the-plumpy%E2%80%99nut-dustup/ and follow-up here: http://aidwatchers.com/2010/05/the-plumpy%E2%80%99nut-dust-up-nutriset%E2%80%99s-side-of-the-story/comment-page-1/#comment-12035 .  In short, a French company is defending their patent on a super-nutritious "therapeutic" food called Plumpy'nut against a lawsuit by some US NGOs (who could have licensed it, but are instead trying to break the patent)
+For some background, I highly recommend Alanna Shaikh's post here: https://aidwatchers.com/2010/04/the-plumpy%E2%80%99nut-dustup/ and follow-up here: https://aidwatchers.com/2010/05/the-plumpy%E2%80%99nut-dust-up-nutriset%E2%80%99s-side-of-the-story/comment-page-1/#comment-12035 .  In short, a French company is defending their patent on a super-nutritious "therapeutic" food called Plumpy'nut against a lawsuit by some US NGOs (who could have licensed it, but are instead trying to break the patent)
 
 My guy reaction was anti-intellectual property, as I strongly believe that our current IP schemes tend to do more damage than good.  That being said, I think Nutriset is seemingly doing the right thing here - forcing support for local production.  Let us presume nothing but sparkly, unicorn-bedazzled thoughts about  Nutriset for a moment:
 

@@ -9,7 +9,7 @@ categories:
 title: Snails-Pace ICT Development
 created: 1139364953
 ---
-<p>There's an old adage among geeks that goes something like, "Never underestimate the bandwidth of a station wagon packed full of tape drives travelling at high speeds across a desert."  It appears that the same can be held true of <a href="http://www.notes.co.il/benbasat/10991.asp">snails harnessed to DVD-wheels</a>, which are faster than ADSL, as well as the controversial <a href="http://www.faqs.org/rfcs/rfc1149.html">RFC 1149, <i>A Standard for the Transmission of IP Datagrams on Avian Carriers</i></a>.</p>
+<p>There's an old adage among geeks that goes something like, "Never underestimate the bandwidth of a station wagon packed full of tape drives travelling at high speeds across a desert."  It appears that the same can be held true of <a href="https://www.notes.co.il/benbasat/10991.asp">snails harnessed to DVD-wheels</a>, which are faster than ADSL, as well as the controversial <a href="https://www.faqs.org/rfcs/rfc1149.html">RFC 1149, <i>A Standard for the Transmission of IP Datagrams on Avian Carriers</i></a>.</p>
 
 <p>There's a point to this, which is that most development workers have come to take Net access as a given, but in many countries receiving ICT-earmarked aid, there may be any number of hurdles to get over (including basic electrification).</p>
 
@@ -21,9 +21,9 @@ created: 1139364953
 
 <p>Lab managers  began to ask if I could leave a copy of it with them, and this struck me as a great idea, until I got home later that night and started thinking of scenarios where they destroyed their registry, deep-erased their hard drive, or changed word documents to be opened by the calculator or something like that.</p>
 
-<p>So I gave the CD a UI.  It's continued to make itself useful even back in the states as my one-stop tool CD for PC troubleshooting, although it's been morphed to a form almost anathema to its existance, <a href="http://griffjon.com/schooltools/">a website</a>.[2]</p>
+<p>So I gave the CD a UI.  It's continued to make itself useful even back in the states as my one-stop tool CD for PC troubleshooting, although it's been morphed to a form almost anathema to its existance, <a href="https://griffjon.com/schooltools/">a website</a>.[2]</p>
 
-<p>My other project developed out of this, for those not-so-rare occasions that a duppy (Jamaican ghost) was 'pon the computer, and Windows just wouldn't even think about booting -- so I started carrying around a <a href="http://knopper.net/knoppix/">Knoppix</a> bootable Linux CD -- pop it in, reboot, and you're running Linux.  This is pretty fun, except kinda useless by itself, so I remastered Knoppix into a Jamaican-Education version, focusing the software on useful games and programs for educational environments, and burned a local copy of the entire Ministry of Education website into it, with all of its multi-meg curricula guide PDFs.</p>
+<p>My other project developed out of this, for those not-so-rare occasions that a duppy (Jamaican ghost) was 'pon the computer, and Windows just wouldn't even think about booting -- so I started carrying around a <a href="https://knopper.net/knoppix/">Knoppix</a> bootable Linux CD -- pop it in, reboot, and you're running Linux.  This is pretty fun, except kinda useless by itself, so I remastered Knoppix into a Jamaican-Education version, focusing the software on useful games and programs for educational environments, and burned a local copy of the entire Ministry of Education website into it, with all of its multi-meg curricula guide PDFs.</p>
 
 <p>The Knoppix remaster had limited success, though the USAID education project took up distribution of it, but the SchoolTools CD became a popular item around the office and more advanced school labs we visited.</p>
 

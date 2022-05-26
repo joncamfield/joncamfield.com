@@ -1,6 +1,6 @@
 ---
 excerpt: |-
-  <p><a href="http://steve-yegge.blogspot.com/2007/12/codes-worst-enemy.html">Steve Yegge writes on code bloat</a>:</p>
+  <p><a href="https://steve-yegge.blogspot.com/2007/12/codes-worst-enemy.html">Steve Yegge writes on code bloat</a>:</p>
 
   I recently had the opportunity to watch a self-professed Java programmer give a presentation in which one slide listed Problems (with his current Java system) and the next slide listed Requirements (for the wonderful new vaporware system). The #1 problem he listed was code size: his system has millions of lines of code. [...]
 
@@ -13,7 +13,7 @@ categories:
 title: Good thoughts on code bloat
 created: 1198165646
 ---
-<p><a href="http://steve-yegge.blogspot.com/2007/12/codes-worst-enemy.html">Steve Yegge writes on code bloat</a>:</p>
+<p><a href="https://steve-yegge.blogspot.com/2007/12/codes-worst-enemy.html">Steve Yegge writes on code bloat</a>:</p>
 
 I recently had the opportunity to watch a self-professed Java programmer give a presentation in which one slide listed Problems (with his current Java system) and the next slide listed Requirements (for the wonderful new vaporware system). The #1 problem he listed was code size: his system has millions of lines of code. [...]
 

@@ -1,17 +1,17 @@
 ---
 excerpt: "<p><em>This is the continuation of my journal on getting mapping to work
-  for Global Youth Service Day in Drupal, which <a href=\"http://www.joncamfield.com/blog/2008/10/how_i_made_a_map_for_global_yo.html\">starts
-  with an overview of maps and drupal</a>, and continues <a href=\"http://www.joncamfield.com/blog/2008/10/drupal_and_maps_ii_modules_in_1.html\">with
+  for Global Youth Service Day in Drupal, which <a href=\"https://www.joncamfield.com/blog/2008.10/how_i_made_a_map_for_global_yo.html\">starts
+  with an overview of maps and drupal</a>, and continues <a href=\"https://www.joncamfield.com/blog/2008.10/drupal_and_maps_ii_modules_in_1.html\">with
   a discussion of modules</a>.</em></p>\r\n\r\n<p>So now we have the basic setup and
   are ready to start on the map - placeholders for content, maps, and actual content,
   and it's time to forge ahead with improving the user experience and information
   architecture (at the same time, even!).</p>\r\n\r\n<p>I also just came across another
   blog article at around the same level of detail that covers other aspects of Drupal,
   which I haven't touched on much here for a more articles-rich site.  Check it out:
-  http://dejitarob.wordpress.com/2007/11/26/how-i-used-drupal-to-build-tampa-bay-indymedia/
+  https://dejitarob.wordpress.com/2007/11/26/how-i-used-drupal-to-build-tampa-bay-indymedia/
   .  Along similar lines, I stumbled across a series by IBM that gives a surprisingly
   clear overview of the next level in to Drupal geekery, without flooding you with
-  information: http://www.ibm.com/developerworks/ibm/library/i-osource5/</p>\r\n"
+  information: https://www.ibm.com/developerworks/ibm/library/i-osource5/</p>\r\n"
 categories:
 - ict4d
 - web 2.0 and f/loss
@@ -23,11 +23,11 @@ tags:
 title: 'Drupal and Maps III: Getting Dirty.'
 created: 1227090660
 ---
-<p><em>This is the continuation of my journal on getting mapping to work for Global Youth Service Day in Drupal, which <a href="http://www.joncamfield.com/blog/2008/10/how_i_made_a_map_for_global_yo.html">starts with an overview of maps and drupal</a>, and continues <a href="http://www.joncamfield.com/blog/2008/10/drupal_and_maps_ii_modules_in_1.html">with a discussion of modules</a>.</em></p>
+<p><em>This is the continuation of my journal on getting mapping to work for Global Youth Service Day in Drupal, which <a href="https://www.joncamfield.com/blog/2008.10/how_i_made_a_map_for_global_yo.html">starts with an overview of maps and drupal</a>, and continues <a href="https://www.joncamfield.com/blog/2008.10/drupal_and_maps_ii_modules_in_1.html">with a discussion of modules</a>.</em></p>
 
 <p>So now we have the basic setup and are ready to start on the map - placeholders for content, maps, and actual content, and it's time to forge ahead with improving the user experience and information architecture (at the same time, even!).</p>
 
-<p>I also just came across another blog article at around the same level of detail that covers other aspects of Drupal, which I haven't touched on much here for a more articles-rich site.  Check it out: http://dejitarob.wordpress.com/2007/11/26/how-i-used-drupal-to-build-tampa-bay-indymedia/ .  Along similar lines, I stumbled across a series by IBM that gives a surprisingly clear overview of the next level in to Drupal geekery, without flooding you with information: http://www.ibm.com/developerworks/ibm/library/i-osource5/</p>
+<p>I also just came across another blog article at around the same level of detail that covers other aspects of Drupal, which I haven't touched on much here for a more articles-rich site.  Check it out: https://dejitarob.wordpress.com/2007/11/26/how-i-used-drupal-to-build-tampa-bay-indymedia/ .  Along similar lines, I stumbled across a series by IBM that gives a surprisingly clear overview of the next level in to Drupal geekery, without flooding you with information: https://www.ibm.com/developerworks/ibm/library/i-osource5/</p>
 <!--break-->
 <h3>Create custom content types and taxonomies for the events</h3>
 <p>I created one content type with required location information for the events, and a few others for participant roles (to link in organizations running events in a more controlled fashion than a free text field).  I'm planning to use node_import to pull those in from our database (and by database, I of course really mean excel spreadsheets).  I set it up so that any logged-in user can add content to these types, but it won't be automatically published (allowing for some oversight and cleansing of poorly inputted information).  This step lets me sort, manage, and delete items with better precision, which becomes Really Useful if you're going to run some batch imports - the first few I can almost guarantee will be wrong in some insidious ways.</p>
@@ -38,7 +38,7 @@ created: 1227090660
 
 <h3>Testing, 1...2...3...</h3>
 
-<p>Finally, I imported last year's event data, just so I could see how the map works.  you can always go through and delete it all if you must, later (before the site goes live, hopefully!).  Note: using the latest version of the location module seems to muck with the node_import module's way to figure out which fields it can import into - see http://drupal.org/node/307677 for a potential workaround.  Lesson: Be ready for some oddities when using beta releases!</p>
+<p>Finally, I imported last year's event data, just so I could see how the map works.  you can always go through and delete it all if you must, later (before the site goes live, hopefully!).  Note: using the latest version of the location module seems to muck with the node_import module's way to figure out which fields it can import into - see https://drupal.org/node/307677 for a potential workaround.  Lesson: Be ready for some oddities when using beta releases!</p>
 
 <p>Actually, I got on #drupal and #drupal-support (chat rooms on irc.freenode.net) and ran into the head Locations module developer who pointed me to a code patch that fixed all my problems.  It's things like that that make me love the open source culture.</p>
 

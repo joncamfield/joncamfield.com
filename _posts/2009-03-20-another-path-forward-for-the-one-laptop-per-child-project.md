@@ -1,8 +1,8 @@
 ---
-excerpt: "I've long been an advocate for <a href=\"http://joncamfield.com/blog/2009/01/the_xo_files_part_iv_new_years.html\">selling
+excerpt: "I've long been an advocate for <a href=\"https://joncamfield.com/blog/2009.01/the_xo_files_part_iv_new_years.html\">selling
   the XO commercially</a> or at least following a Grameen Village Phone style approach
-  to create <a href=\"http://joncamfield.com/blog/2008/03/rethinking_the_olpc.html\">OLPC
-  XO-centric small business models</a>.  Or simply just enable <a href=\"http://joncamfield.com/blog/2009/02/small_is_bigger_than_big_for_o.html\">smaller
+  to create <a href=\"https://joncamfield.com/blog/2008.03/rethinking_the_olpc.html\">OLPC
+  XO-centric small business models</a>.  Or simply just enable <a href=\"https://joncamfield.com/blog/2009.02/small_is_bigger_than_big_for_o.html\">smaller
   pilot projects</a> to spread the XO technology.  I still believe any or all of these
   offer amazing benefits to expanding the scale of the OLPC XO, re-establishing the
   XO as the dominant player in the low-cost, rugged, low-infrastructure-requirements
@@ -30,11 +30,11 @@ excerpt: "I've long been an advocate for <a href=\"http://joncamfield.com/blog/2
   managing reports being filed, human rights violations, election reporting, and even
   something like agricultural data exchange, enabling farmers to \"pull\" and explore
   information on long-term weather forecasts, disease risks, and market prices.\r\n\r\nCombine
-  an XO with <a href=\"http://frontlinesms.com/\">FrontLineSMS</a> and you have a
+  an XO with <a href=\"https://frontlinesms.com/\">FrontLineSMS</a> and you have a
   portable, solar-powered SMS communications hub, which I can see being valuable in
   a few tough situations if you had some manual encryption schemes set up with your
   constituents.\r\n\r\nAccepted, the XO is more expensive and would require more training
-  than a simple cell phone.  It could not -- <a href=\"http://joncamfield.com/blog/2009/03/mobiles_vs_computers.html\">and
+  than a simple cell phone.  It could not -- <a href=\"https://joncamfield.com/blog/2009.03/mobiles_vs_computers.html\">and
   should not</a> -- replace cell phone deployments, as a cell phone can go longer
   without power and is less \"flashy\" than an XO.  But hybrid systems involving OLPC
   XOs <em>as well as</em> cell phones, or using XOs as portable SMS-messaging hubs,
@@ -53,7 +53,7 @@ tags:
 title: Another path forward for the One Laptop Per Child Project
 created: 1237561889
 ---
-I've long been an advocate for <a href="http://joncamfield.com/blog/2009/01/the_xo_files_part_iv_new_years.html">selling the XO commercially</a> or at least following a Grameen Village Phone style approach to create <a href="http://joncamfield.com/blog/2008/03/rethinking_the_olpc.html">OLPC XO-centric small business models</a>.  Or simply just enable <a href="http://joncamfield.com/blog/2009/02/small_is_bigger_than_big_for_o.html">smaller pilot projects</a> to spread the XO technology.  I still believe any or all of these offer amazing benefits to expanding the scale of the OLPC XO, re-establishing the XO as the dominant player in the low-cost, rugged, low-infrastructure-requirements laptop, ideal for education projects around the world.
+I've long been an advocate for <a href="https://joncamfield.com/blog/2009.01/the_xo_files_part_iv_new_years.html">selling the XO commercially</a> or at least following a Grameen Village Phone style approach to create <a href="https://joncamfield.com/blog/2008.03/rethinking_the_olpc.html">OLPC XO-centric small business models</a>.  Or simply just enable <a href="https://joncamfield.com/blog/2009.02/small_is_bigger_than_big_for_o.html">smaller pilot projects</a> to spread the XO technology.  I still believe any or all of these offer amazing benefits to expanding the scale of the OLPC XO, re-establishing the XO as the dominant player in the low-cost, rugged, low-infrastructure-requirements laptop, ideal for education projects around the world.
 
 This doesn't seem to be getting much traction, despite apparent interest.  Let me propose a different path forward, closer to the original "we sell laptops in batches of 1 million or more to governments" idea:  <strong>Drop education</strong>.
 
@@ -65,7 +65,7 @@ Even a simple OLPC can still provide a much more rich data reporting toolset tha
 
 What are some areas that such a device could provide valuable tools?  Crisis response would be one obvious win, but also health reporting and/or managing reports being filed, human rights violations, election reporting, and even something like agricultural data exchange, enabling farmers to "pull" and explore information on long-term weather forecasts, disease risks, and market prices.
 
-Combine an XO with <a href="http://frontlinesms.com/">FrontLineSMS</a> and you have a portable, solar-powered SMS communications hub, which I can see being valuable in a few tough situations if you had some manual encryption schemes set up with your constituents.
+Combine an XO with <a href="https://frontlinesms.com/">FrontLineSMS</a> and you have a portable, solar-powered SMS communications hub, which I can see being valuable in a few tough situations if you had some manual encryption schemes set up with your constituents.
 
-Accepted, the XO is more expensive and would require more training than a simple cell phone.  It could not -- <a href="http://joncamfield.com/blog/2009/03/mobiles_vs_computers.html">and should not</a> -- replace cell phone deployments, as a cell phone can go longer without power and is less "flashy" than an XO.  But hybrid systems involving OLPC XOs <em>as well as</em> cell phones, or using XOs as portable SMS-messaging hubs, or simply to quickly deploy a local area wifi mesh network are all clear needs that an OLPC XO could help with.
+Accepted, the XO is more expensive and would require more training than a simple cell phone.  It could not -- <a href="https://joncamfield.com/blog/2009.03/mobiles_vs_computers.html">and should not</a> -- replace cell phone deployments, as a cell phone can go longer without power and is less "flashy" than an XO.  But hybrid systems involving OLPC XOs <em>as well as</em> cell phones, or using XOs as portable SMS-messaging hubs, or simply to quickly deploy a local area wifi mesh network are all clear needs that an OLPC XO could help with.
 <!--break-->

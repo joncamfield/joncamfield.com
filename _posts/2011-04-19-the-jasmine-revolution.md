@@ -1,6 +1,6 @@
 ---
 excerpt: "This is brilliant, and a bit funny.  Until some innocent person taking a
-  stroll is killed for insurgency.\r\n\r\nA long quote from <a href=\"http://globalguerrillas.typepad.com/globalguerrillas/2011/04/the-jasmine-revolution.html\">this
+  stroll is killed for insurgency.\r\n\r\nA long quote from <a href=\"https://globalguerrillas.typepad.com/globalguerrillas/2011/04/the-jasmine-revolution.html\">this
   blog</a> by way of Warren Ellis and BoingBoing, emphases mine:\r\n\r\n<blockquote>In
   summary, several Chinese language, but overseas based, websites have been blogging
   on the creation of a ‘Jasmine Revolution’ in China. This has been motivated, of
@@ -22,7 +22,7 @@ created: 1303226206
 ---
 This is brilliant, and a bit funny.  Until some innocent person taking a stroll is killed for insurgency.
 
-A long quote from <a href="http://globalguerrillas.typepad.com/globalguerrillas/2011/04/the-jasmine-revolution.html">this blog</a> by way of Warren Ellis and BoingBoing, emphases mine:
+A long quote from <a href="https://globalguerrillas.typepad.com/globalguerrillas/2011/04/the-jasmine-revolution.html">this blog</a> by way of Warren Ellis and BoingBoing, emphases mine:
 
 <blockquote>In summary, several Chinese language, but overseas based, websites have been blogging on the creation of a ‘Jasmine Revolution’ in China. This has been motivated, of course, by events in MENA, and the timing has been significant because it has coincided with two important political conferences in Beijing, but <strong>it appears to have no real-world substance whatsoever</strong>, to have begun as a hoax at best, and to exist only in cyberspace, and cyberspace outside China at that. But the <strong>interesting bit is the real world effect it is having inside China</strong>, and the momentum it is generating.
 

@@ -2,7 +2,7 @@
 excerpt: |-
   <p><b>Carrot</b>: "The World Bank has promised to contribute a record $3.5bn (Â£1.7bn) to help the world's poorest countries. The figure is double what the agency initially said it would give ..."</p>
 
-  <p><b>Carrot</b>: "[<a href="http://en.wikipedia.org/wiki/Zoellick">Zoellick</a> , World Bank President] also reduced the charges on loans to emerging countries, such as China, for the first time in nine years."</p>
+  <p><b>Carrot</b>: "[<a href="https://en.wikipedia.org/wiki/Zoellick">Zoellick</a> , World Bank President] also reduced the charges on loans to emerging countries, such as China, for the first time in nine years."</p>
 categories:
 - ict4d
 - development theory
@@ -12,7 +12,7 @@ created: 1190986097
 ---
 <p><b>Carrot</b>: "The World Bank has promised to contribute a record $3.5bn (Â£1.7bn) to help the world's poorest countries. The figure is double what the agency initially said it would give ..."</p>
 
-<p><b>Carrot</b>: "[<a href="http://en.wikipedia.org/wiki/Zoellick">Zoellick</a> , World Bank President] also reduced the charges on loans to emerging countries, such as China, for the first time in nine years."</p>
+<p><b>Carrot</b>: "[<a href="https://en.wikipedia.org/wiki/Zoellick">Zoellick</a> , World Bank President] also reduced the charges on loans to emerging countries, such as China, for the first time in nine years."</p>
 
 <p><b>String</b>: Head-scratching: "The dramatic step is part of the World Bank's strategy to increase its business with 79 nations classified as middle income, including India, Brazil, Russia and South Africa and get them to help with poverty-fighting efforts."</p>
 

@@ -1,7 +1,7 @@
 ---
 excerpt: |-
   <p>So, this weekend I thought it'd be a great time to upgrade to the latest joyride builds, which are rumored to have solved the earlier record problems, and hopefully the SD card corruption issues as well.    This is supposed to be an only-mildly-painful experience, with a few command line tricks, a few boot tricks, and so on.  Nothing serious.<br />
-  <a href="http://xkcd.com/349/h" target="_blank"></a><br clear="all" /><b>XKCD on upgrading difficulties (and sharks)</b>
+  <a href="https://xkcd.com/349/h" target="_blank"></a><br clear="all" /><b>XKCD on upgrading difficulties (and sharks)</b>
 categories:
 - ict4d
 - olpc
@@ -11,7 +11,7 @@ title: OLPC joyride no so joyful (or, what Jon did all day Sunday)
 created: 1216053644
 ---
 <p>So, this weekend I thought it'd be a great time to upgrade to the latest joyride builds, which are rumored to have solved the earlier record problems, and hopefully the SD card corruption issues as well.    This is supposed to be an only-mildly-painful experience, with a few command line tricks, a few boot tricks, and so on.  Nothing serious.<br />
-<a href="http://xkcd.com/349/h" target="_blank"></a><br clear="all" /><b>XKCD on upgrading difficulties (and sharks)</b><br />
+<a href="https://xkcd.com/349/h" target="_blank"></a><br clear="all" /><b>XKCD on upgrading difficulties (and sharks)</b><br />
 And, in fact, it updated just fine.  I wasn't too impressed at the increased speed that's been promised, but the UI had a few enhancements, and I was looking forward to improved power management.</p>
 
 <p>Now, I use my OLPC for about 4 main tasks - taking notes, checking email/Internet, playing Implode, and watching movies on planes (and TED talks on the Metro!).  All tasks I find the XO to excel at, frankly - it's light yet rugged enough to always carry, and with the great wifi reception and sun-readable screen, it's rare that I can't make full use of the XO; whether I'm at the park, home, or near anyone with an open wifi connection.</p>

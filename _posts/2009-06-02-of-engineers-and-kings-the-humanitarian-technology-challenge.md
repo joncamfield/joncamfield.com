@@ -3,7 +3,7 @@ excerpt: "<blockquote><em>\"The time has come,\" the Walrus said,\r\n\"To talk o
   many things:\r\nOf shoes--and ships--and sealing-wax--\r\nOf cabbages--and kings--\r\nAnd
   why the sea is boiling hot--\r\nAnd whether pigs have wings.\"</em>\r\n\r\n(From
   of course Lewis Carroll's <u>Through the Looking-Glass and What Alice Found There</u>;
-  read all of <em>The Walrus and the Carpenter</em> at http://www.jabberwocky.com/carroll/walrus.html
+  read all of <em>The Walrus and the Carpenter</em> at https://www.jabberwocky.com/carroll/walrus.html
   )</blockquote>\r\n\r\nIEEE and the UN Foundation's Humanitarian Technology Challenge
   is a difficult marriage.  You have a room chock full of detail-oriented technologists
   and a crowd of technophile international development/humanitarian aid practicioners
@@ -57,7 +57,7 @@ Of cabbages--and kings--
 And why the sea is boiling hot--
 And whether pigs have wings."</em>
 
-(From of course Lewis Carroll's <u>Through the Looking-Glass and What Alice Found There</u>; read all of <em>The Walrus and the Carpenter</em> at http://www.jabberwocky.com/carroll/walrus.html )</blockquote>
+(From of course Lewis Carroll's <u>Through the Looking-Glass and What Alice Found There</u>; read all of <em>The Walrus and the Carpenter</em> at https://www.jabberwocky.com/carroll/walrus.html )</blockquote>
 
 IEEE and the UN Foundation's Humanitarian Technology Challenge is a difficult marriage.  You have a room chock full of detail-oriented technologists and a crowd of technophile international development/humanitarian aid practicioners who have seen both the promise of the "right" technology solution and the expensive and much more common failures of techno-centric approaches.
 

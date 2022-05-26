@@ -55,7 +55,7 @@ It's past time we respect the private data of those we're trying to help. -- No 
 
 <li><strong>Context.</strong>
 
-No tech tool works without respecting local context.  Learn from flame-outs like <a href="http://www.ictworks.org/news/2010/07/19/6-lessons-ict-practitioners-can-learn-playpumps-failure/">Play Pumps</a> and <a href="http://edutechdebate.org/olpc-in-south-america/olpc-in-peru-one-laptop-per-child-problems/">OLPC</a>.  OLPC is particularly valuable, because they followed all the rules above, but absolutely ignored and resisted dealing with context at the outset, and it really hampered their vision.
+No tech tool works without respecting local context.  Learn from flame-outs like <a href="https://www.ictworks.org/news/2010/07/19/6-lessons-ict-practitioners-can-learn-playpumps-failure/">Play Pumps</a> and <a href="https://edutechdebate.org/olpc-in-south-america/olpc-in-peru-one-laptop-per-child-problems/">OLPC</a>.  OLPC is particularly valuable, because they followed all the rules above, but absolutely ignored and resisted dealing with context at the outset, and it really hampered their vision.
 
 This goes beyond translation, it means working closely with the community you hope to have a positive impact on, creating targeted guides and trainings.  Dealing with context goes deep and goes beyond technology, so I don't want to get lost in the weeds here, but no matter how awesome and amazing your tool may be, without relevance, it's not going to go very far.
 </li>
@@ -72,4 +72,4 @@ The best way to do this is to hire smart people who are willing to disagree with
 </li>
 </ol>
 
-<b>2016 UPDATE</b>: This recently got a ton of twitter-love (thanks to the amazing http://www.fabriders.net , https://twitter.com/FabRider/status/715549773172981760 ), so if you're reading this, you should definitely check out the Digital Principles at http://digitalprinciples.org/
+<b>2016 UPDATE</b>: This recently got a ton of twitter-love (thanks to the amazing https://www.fabriders.net , https://twitter.com/FabRider/status/715549773172981760 ), so if you're reading this, you should definitely check out the Digital Principles at https://digitalprinciples.org/

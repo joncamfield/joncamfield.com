@@ -1,8 +1,8 @@
 ---
-excerpt: <p>I read <a href="http://www.boingboing.net/">BoingBoing</a> - it provides
+excerpt: <p>I read <a href="https://www.boingboing.net/">BoingBoing</a> - it provides
   a steady stream of new and interesting things around the net, and the occasional
   IT policy tidbit.  <strong>Lots</strong> of people read boingboing as well, giving
-  it a power not unlike the <a href="http://en.wikipedia.org/wiki/Slashdot_effect">slashdot
+  it a power not unlike the <a href="https://en.wikipedia.org/wiki/Slashdot_effect">slashdot
   effect</a> - the ability to direct massive amounts of traffic at a site, taking
   it down in many cases with the onslaught.</p>
 categories:
@@ -12,9 +12,9 @@ categories:
 title: Good will sharing
 created: 1210516225
 ---
-<p>I read <a href="http://www.boingboing.net/">BoingBoing</a> - it provides a steady stream of new and interesting things around the net, and the occasional IT policy tidbit.  <strong>Lots</strong> of people read boingboing as well, giving it a power not unlike the <a href="http://en.wikipedia.org/wiki/Slashdot_effect">slashdot effect</a> - the ability to direct massive amounts of traffic at a site, taking it down in many cases with the onslaught.</p>
+<p>I read <a href="https://www.boingboing.net/">BoingBoing</a> - it provides a steady stream of new and interesting things around the net, and the occasional IT policy tidbit.  <strong>Lots</strong> of people read boingboing as well, giving it a power not unlike the <a href="https://en.wikipedia.org/wiki/Slashdot_effect">slashdot effect</a> - the ability to direct massive amounts of traffic at a site, taking it down in many cases with the onslaught.</p>
 
-<p>Few sites respond with an attitude as user-friendly and pro-sharing as <a href="http://www.gangstagrass.com/">Gangstagrass</a> which is promoting a rap + bluegrass mashup CD:</p>
+<p>Few sites respond with an attitude as user-friendly and pro-sharing as <a href="https://www.gangstagrass.com/">Gangstagrass</a> which is promoting a rap + bluegrass mashup CD:</p>
 
  HELLO BOING BOING FOLKS - SORRY IF THIS LOADS A LITTLE SLOW, THE SERIES OF TUBES IS A BIT CLOGGED.
 CLICK HERE FOR A BIT TORRENT DOWNLOAD OF THE ALBUM!

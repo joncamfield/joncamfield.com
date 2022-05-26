@@ -25,4 +25,4 @@ We’re used to a well-worn path in manufacturing, and business in general. An e
 The thing is, those robots have taken over the factory floor, and are moving upstairs.
 </blockquote>
 
-Read more: http://www.fastcompany.com/1781904/instead-of-just-eliminating-jobs-automation-could-usher-in-a-more-fair-economy
+Read more: https://www.fastcompany.com/1781904/instead-of-just-eliminating-jobs-automation-could-usher-in-a-more-fair-economy
