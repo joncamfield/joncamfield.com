@@ -2,7 +2,7 @@
 
 title: "Resume"
 layout: single
-
+permalink: "resume"
 ---
 **I am a technologist dedicated to advancing sustainable social change and human rights with over two decades of experience spanning the public, private, non-profit, and social enterprise sectors.**
 

@@ -3,7 +3,7 @@
 title: "About"
 layout: single
 author_profile: true
-
+permalink: "about"
 ---
 
 I am the Director of Global Technology Strategy at Internews, and I have over two decades of experience in using technology for social change that spans the public, private, non-profit, and social enterprise sectors. I am a co-author of the [SAFETAG](https://safetag.org) organizational security risk assessment framework.
