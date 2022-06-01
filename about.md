@@ -4,9 +4,35 @@ title: "About"
 layout: single
 author_profile: true
 permalink: "about"
+date: 2022-06-01
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/maryna-bohucharska-a9hsdy18oLQ-unsplash-glitched.png
+  actions:
+  caption: "Photo of seedlings (CC0 [Maryna Bohucharska](https://unsplash.com/@bohucharska) / Unsplash) filtered with [Glimpse](https://glimpse-editor.org/)"
+excerpt: "Thinking about tomorrow's threats against human rights and Internet Freedom. Frustrated Optimist, gardener, salsa dancer, cook, husband, dad, embarrassed Texan. Opinions here are my own. he/they"
+
 ---
 
-I am the Director of Global Technology Strategy at Internews, and I have over two decades of experience in using technology for social change that spans the public, private, non-profit, and social enterprise sectors. I am a co-author of the [SAFETAG](https://safetag.org) organizational security risk assessment framework.
+Jon Camfield is a technologist dedicated to advancing human rights with over two decades of experience spanning the public, startup, non-profit, and social enterprise sectors. Jon currently works on Threat Ideation at Meta, leveraging threat intel to lead adversarial design and prepare for sophisticated attacks both against new products and based on world events
+
+At Internews, Jon was the Director of Global Technology Strategy, leading a portfolio advancing digital safety for media and human rights defenders through training, the SAFETAG organizational security risk assessment framework, and tool development. Prior to Internews he led technology strategy for Ashoka's Changemakers platform, consulted for a wide range on NGOs, and served in the Peace Corps with the Ministry of Education in Jamaica. Jon has an MA in International Science and Technology Policy from the Elliot School at GWU and a bachelor's' degree from the University of Texas' prestigious Plan II Honors program.
+
+
+## Longer version
+
+I have over two decades of experience in using technology for social change that spans the public, private, non-profit, and social enterprise sectors. I am a co-author of the [SAFETAG](https://safetag.org) organizational security risk assessment framework.
+
+At Internews, I was the Director of Global Technology Strategy at Internews, where I led our work on innovative, systems-level interventions that respond to digital threats to human rights. Under my leadership, we build and sustain multiple programs, including:
+
+* [MONITOR](https://internews.org/areas-of-expertise/global-tech/global-tech-projects/global-tech-monitor/), a program that advances community threat information sharing and builds the skill-sets of in-country activists to detect and, through coordination with Internews and the private sector, take down advanced malicious infrastructure; and
+* [SAFETAG](https://SAFETAG.org), an open source, capacity-focused organizational security assessment framework and global network of experts
+* [USABLE](https://USABLE.tools), connecting human-centered design concepts with digital security communities to lead a sea-change in vhow human rights and media activists, digital security trainers, and tool developers interact;
+* [BASICS](https://internews.org/areas-of-expertise/global-tech/global-tech-projects/basics/), a project working to improve the diversity of developers in, and sustainability of, open source security tool development.
+* A multi-year, cross-grant effort providing over $10M to censorship circumvention technology development, combined with creating a neutral space for the disparate developers of anti-censorship technology to build standards and community;
+
+In parallel with these program outputs, I have ensured that our work is sustainable, transparent, and in the open, prioritizing open source tools, building content under Creative Commons licenses, and supporting the capacity of and learning from local actors. To enable this work, I helped to sustain and manage a diverse team and led proposals winning over $30M in funding since 2015.
 
 Prior to Internews, I was the technology strategist at Ashoka, where I co-led platform development for the Changemakers platform for sourcing and accelerating social innovations, where I also  bridged project goals and community needs with long term strategic needs to manage the development of the platform.
 
