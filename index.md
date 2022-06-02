@@ -21,7 +21,7 @@ feature_row:
     alt: "Design sprint in Jakarta, Indonesia"
     title: "New Blog: Building Tools for Human Rights"
     excerpt: "It's time to add formal requirements to our tool funding process to reduce risks while also contributing to building more inclusive tools"
-    url: "/blog/"
+    url: "/blog/2022.06/human-rights-tools.html"
     btn_label: "Read more"
     btn_class: "btn--success"
 #  - image_path: "/assets/images/nasa-yZygONrUBe8-unsplash.jpg"
