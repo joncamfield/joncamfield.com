@@ -16,6 +16,14 @@ intro:
   - excerpt: ''
 
 feature_row:
+  - image_path: "/assets/images/nasa-yZygONrUBe8-unsplash.jpg"
+    image_caption: "Courtesy NASA"
+    alt: "Satellite in view over the Earth"
+    title: "Latest: Internet Freedom's Final Frontier"
+    excerpt: "The gravity of terrestrial attacks on human rights is not magically escaped in orbit "
+    url: "/blog/2022.06/internet-freedom-final-frontier.html"
+    btn_label: "Read more"
+    btn_class: "btn--success"
   - image_path: "/assets/images/ux-indonesia-qC2n6RQU4Vw-unsplash.jpg"
     image_caption: "CC0 UX Indonesia / Unsplash"
     alt: "Design sprint in Jakarta, Indonesia"
@@ -24,14 +32,6 @@ feature_row:
     url: "/blog/2022.06/human-rights-tools.html"
     btn_label: "Read more"
     btn_class: "btn--success"
-#  - image_path: "/assets/images/nasa-yZygONrUBe8-unsplash.jpg"
-#    image_caption: "Courtesy NASA"
-#    alt: "Satellite in view over the Earth"
-#    title: "Latest: Internet Freedom's Final Frontier"
-#    excerpt: ""
-#    url: ""
-#    btn_label: "Read more"
-#    btn_class: "btn--success"
   - image_path: /assets/images/1982_Ngorongoro_TZ_DSCN0815.JPG
     image_caption: ""
     alt: "Zebras walking away on a long road in Ngorongoro crater"
@@ -40,6 +40,8 @@ feature_row:
     url: "/blog/2022.05/meta.html"
     btn_label: "Read more"
     btn_class: "btn--warning"
+
+highlight_row:
   - image_path: /assets/images/maryna-bohucharska-a9hsdy18oLQ-unsplash-merged.png
     image_caption: ""
     alt: ""
@@ -48,8 +50,6 @@ feature_row:
     url: "/blog/2021.05/censorship-and-centralization.html"
     btn_label: "Read More"
     btn_class: "btn--warning"
-
-highlight_row:
   - image_path: "/assets/images/sad-druplicon-cropped.png"
     image_caption: ""
     alt: "Sad Drupal Icon"
@@ -58,14 +58,14 @@ highlight_row:
     url: "/blog/2022.03/goodbye-drupal.html"
     btn_label: "Read More"
     btn_class: "btn--warning"
-  - image_path: "/assets/images/960px-Web_2.0_Map.svg.png"
-    image_caption: "CC-BY-SA Markus Angermeier/ Wikimedia"
-    alt: ""
-    title: "From 2006: Web 2.0 + 10"
-    excerpt: "Nevertheless, the wonder and excitement of Web 2.0 reminds me heavily of the early days of the Internet, and the non-web parts of it -- BBSes, Usenet, and the command-line interface world"
-    url: "/blog/2006.01/web-2-0-10.html"
-    btn_label: "Read More"
-    btn_class: "btn--warning"
+#  - image_path: "/assets/images/960px-Web_2.0_Map.svg.png"
+#    image_caption: "CC-BY-SA Markus Angermeier/ Wikimedia"
+#    alt: ""
+#    title: "From 2006: Web 2.0 + 10"
+#    excerpt: "Nevertheless, the wonder and excitement of Web 2.0 reminds me heavily of the early days of the Internet, and the non-web parts of it -- BBSes, Usenet, and the command-line interface world"
+#    url: "/blog/2006.01/web-2-0-10.html"
+#    btn_label: "Read More"
+#    btn_class: "btn--warning"
   - image_path: "/assets/images/jeremy-bezanger-lyRCc0KGKEU-unsplash.jpg"
     image_caption: "CC0 Jeremy Bezanger / Unsplash"
     alt: "Photo of old books"
