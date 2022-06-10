@@ -19,7 +19,7 @@ created: 1620256925
 
 ---
 
-_This is the final piece in a series on the past, present, and future of the Internet; you can read Part 1: [I Believe in the Internet](https://joncamfield.com/blog/2021.03/i-still-believe-internet) and Part 2: [De-platforming is censure not censorship.](https://joncamfield.com/blog/2021.04/de-platforming-censure-not-censorship)_
+_This is the final piece in a series on the [past, present, and future of the Internet](https://www.joncamfield.com/blog/2021.05/censorship-and-centralization.html)_
 
 "_Oh great, another white dude from a western democracy going off about decentralization._" I promise that I will not be hawking a crypto-currency or even talking about anything blockchain-related. Rather, I see the dramatic centralization of our online lives as a direct risk to an inclusive society, and want to talk about some of the real barriers we need to prioritize in untangling ourselves from this to anchor ourselves from drifting off into techno-solutionism.
 

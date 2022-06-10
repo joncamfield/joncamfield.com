@@ -16,7 +16,7 @@ header:
 title: De-platforming is censure not censorship.
 created: 1619306171
 ---
-_This is part 2 in a series on the past, present, and future of the Internet. Read Part 1: "[I Believe in the Internet](https://joncamfield.com/blog/2021.03/i-still-believe-internet)"_
+_This is part 2 in a series on the [past, present, and future of the Internet](https://www.joncamfield.com/blog/2021.05/censorship-and-centralization.html)_
 
 "De-platforming" is a bad framing of an important concept.  **Not being able to find a company to make your presence on the Internet easy is fundamentally different from having a government actively blocking access to you.** We should be asking why these companies are choosing to allow the use of their platforms for hatespeech, violence, and undermining democracy instead of asking why specific people or companies doing this are being "de-platformed", as if a right to free speech somehow guarantees also a right to a soapbox and a megaphone.
 

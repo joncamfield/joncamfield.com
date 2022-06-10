@@ -11,7 +11,7 @@ header:
 title: I (Still) Believe in the Internet
 created: 1616780896
 ---
-_This is the first in a series on the past, present, and future of the Internet_
+_This is the first in a series on the [past, present, and future of the Internet](https://www.joncamfield.com/blog/2021.05/censorship-and-centralization.html)_
 
 I am a member of the forgotten gap-generation between Gen-X and the Millennials ([Jillian York wrote eloquently on this almost a decade ago](https://jilliancyork.com/2013/04/13/talkin-bout-my-generation-i-think/) ). I didn't grow up "on" the Internet as a digital native -- I grew up alongside it.
 
