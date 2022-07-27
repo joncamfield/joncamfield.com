@@ -84,13 +84,14 @@ I provided product strategy, design, and technical project management for Ashoka
 # Select Publications and Presentations
 * Author, [Satellite Communication Threats](https://satellitesafety.openinternetproject.org/), 2022
 * Panelist, Internews: Confronting the Authoritarian Internet (2019)
+* Editor and Author, [CivicSpace.tech](https://www.civicspace.tech/) (2020)
 * Presenter, MozFest: Building inclusive organizational digital safety (2019)
 * Panelist, OSAC Information Security Conference (2015, 2019)
 * Author: [What Good Are Secure Communications Tools if No One Uses Them?](https://medium.com/local-voices-global-change/what-good-are-secure-communications-tools-if-no-one-uses-them-690ce2bdf9ec) (2016)
 * Author: [Meet SAFETAG: Helping Non-Profits Focus on Digital Security](https://internews.org/story/meet-safetag-helping-non-profits-focus-digital-security/) (2015)
 * Co-Author [SAFETAG](https://safetag.org/) framework (2015-)
 * Presentations and panels at the Internet Freedom Festival (since 2013) and RightsCon (since 2014), including:
-  * Make Space for Human Rights (Rightscon Virtual, 2022)
+  * [Make Space for Human Rights](/blog/2022.06/internet-freedom-final-frontier.html) (Rightscon Virtual, 2022)
   * [If you keep suggesting blockchain, I swear to God I will f*ing scream](https://rightscon2019.sched.com/event/PvjZ/if-you-keep-suggesting-blockchain-i-swear-to-god-i-will-fing-scream) (RightsCon Tunis 2019)
   * [Proceeding with Caution: Doing good work in difficult places](https://rightscon2018.sched.com/event/Efyi/proceeding-with-caution-doing-good-work-in-difficult-places) (RightsCon Toronto 2017)
   * Documentation Workflows for Digital Security Education and Rapid Response (IFF 2017)
