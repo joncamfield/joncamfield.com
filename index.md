@@ -97,6 +97,13 @@ project_row:
     url: "https://SAFETAG.org"
     btn_label: "Learn more"
     btn_class: "btn--success"
+  - image_path: assets/images/malic-content-wide.png
+    alt: ""
+    title: "Malicious Content"
+    excerpt: "A card game lovingly lampooning digital safety"
+    url: "https://malicious-content.com/"
+    btn_label: "Play Online"
+    btn_class: "btn--success"
 
 ---
 <!--{% include feature_row id="intro" type="center" %}-->
