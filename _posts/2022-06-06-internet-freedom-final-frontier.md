@@ -48,3 +48,8 @@ That's tactical. Strategically, **we need to be thinking about what known threat
 The satellite companies appear interested and willing to support humanitarian efforts such SIFU, and I believe we should take this momentum and make this a 2-way street, and bringing them in to spaces like RightsCon, GNI, and other bodies where we've dealt with these tensions.
 
 Our human rights and technology community is painfully familiar with the need for policies and practices such as [transparency reports](https://www.accessnow.org/transparency-reporting-index/)) and accountability efforts like [Ranking Digital Rights](https://rankingdigitalrights.org/) to create - and track - industry norms. Combined, these help deter overreach, and at a minimum provide public insight into who is asking for what.
+
+**UPDATE:**
+
+This article provides further context and depth on the value of space in conflict, and specifically as an infortmational asset: [War in Ukraine highlights the growing strategic importance of private satellite companies – especially in times of conflict ](https://theconversation.com/war-in-ukraine-highlights-the-growing-strategic-importance-of-private-satellite-companies-especially-in-times-of-conflict-188425). A worthwhile thought exercise would be to take all the capacities discusses here and flip them to an adversarial context.
+
