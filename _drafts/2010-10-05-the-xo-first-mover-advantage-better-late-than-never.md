@@ -9,9 +9,14 @@ excerpt: "http://www.xconomy.com/boston/2010/10/05/one-ecosystem-per-child-walte
   from a number of computer manufacturers,” Kane says. What’s more, he says, “they
   are targeting the education market in a big way.”\"\r\n\r\n\r\nhttp://www.olpcnews.com/people/leadership/olpc_foundation_is_xo_donation.html\r\n\r\n\r\nhttp://joncamfield.com/blog/2010/04/nevermind_olpc_shouldnt_sell.html"
 categories: []
-layout: blog
 title: 'The XO First Mover Advantage: Better Late than Never?'
 created: 1286296941
+header:
+    overlay_image: /assets/images/
+    overlay_filter: 0.5
+    teaser: /assets/images/
+    caption: ""
+
 ---
 http://www.xconomy.com/boston/2010/10/05/one-ecosystem-per-child-walter-bender-and-olpc-reunite-to-enhance-learning-and-grow-economies-in-developing-nations/?single_page=true
 

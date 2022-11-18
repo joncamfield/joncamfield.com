@@ -1,9 +1,14 @@
 ---
 categories: []
-layout: blog
 title: A Pretty Good Blog
 created: 1424204916
+header:
+    overlay_image: /assets/images/
+    overlay_filter: 0.5
+    teaser: /assets/images/
+    caption: ""
 ---
+
 Hey, so, does anyone remember those olden days when people wrote things on LiveJournal, and had specific groups of people who could read specific posts?  And it almost kinda worked?
 
 That was cool, right?  I mean, the concept - where yo privacyu had a social media platform where a lot of your friends were, where you could have kinda private conversations without worrying that you were being data-mined and advertised to?
