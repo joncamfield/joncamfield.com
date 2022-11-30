@@ -1,5 +1,5 @@
 ---
-excerpt: "Mastodon is not a drop-in twitter replacement. It shouldn' be, and there is also such a vast opportunity in this moment."
+excerpt: "Mastodon is not a drop-in twitter replacement. It shouldn't be, and there is also such a vast opportunity in this moment."
 categories:
 - human rights
 - web 2.0 and f/loss
