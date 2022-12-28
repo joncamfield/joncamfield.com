@@ -10,7 +10,11 @@
   "scripts": {
     "test": "gulp test",
     "start": "gulp serve",
-    "build": "gulp build"
+    "build": "gulp build",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "resolutions": {
+     "glob-parent": "^6.0.1"
   },
   "author": {
     "name": "Hakim El Hattab",
