@@ -78,8 +78,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : "joncamfied"
+#twitter:
+#  username               : "joncamfied"
 facebook:
   username               :
   app_id                 :
@@ -108,17 +108,17 @@ author:
   location         : "The Internet"
   email            : "Hello@JonCamfield.com"
   links:
+    - label: "PGP"
+      icon: "fas fa-fw fa-key"
+      url: "https://keys.openpgp.org/search?q=jon%40joncamfield.com"
     - label: "Feed"
       icon: "fas fa-fw fa-rss"
       url: "/feed.xml"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@joncamfield"
-    - label: "PGP"
-      icon: "fas fa-fw fa-key"
-      url: "https://keys.openpgp.org/search?q=jon%40joncamfield.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/joncamfield"
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
@@ -129,6 +129,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/joncamfield/"
+    - label: "PIT Webring"
+      icon: "far fa-fw fa-circle"
+      url: "https://pitwebring.billhunt.dev/"
 
 # Site Footer
 footer:
@@ -145,8 +148,8 @@ footer:
     - label: "PGP"
       icon: "fas fa-fw fa-key"
       url: "https://keys.openpgp.org/search?q=jon%40joncamfield.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/joncamfield"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -154,6 +157,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/joncamfield/"
+    - label: "PIT Webring"
+      icon: "far fa-fw fa-circle"
+      url: "https://pitwebring.billhunt.dev/"
 
 defaults:
   -
