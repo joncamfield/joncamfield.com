@@ -222,7 +222,6 @@ exclude:
   - README
   - tmp
   - presentation/reveal.js/node_modules
-  - twitter
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
