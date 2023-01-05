@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/dreamofthe90s_0.jpg
   teaser: /assets/images/dreamofthe90s_0.jpg
   caption: "Still from the Dream of the 90s song in Portlandia"
-
+redirect_from: /blog/2017.10/we-have-always-been-war-crypto
 title: We have always been at war with crypto
 created: 1507854572
 ---

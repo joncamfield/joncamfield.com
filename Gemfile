@@ -19,6 +19,7 @@ gem "github-pages", "~> 226", group: :jekyll_plugins
 # FEEDS
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-redirect-from" 
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
