@@ -14,10 +14,12 @@ header:
   teaser: /assets/images/pietro-jeng-266017.resized.png
   caption: "Photo CC0 Pietro Jeng / Unsplash"
 
+redirect_from: /blog/2017.09/entropy-story-time-claude-shannon-equifax
 
 title: 'Entropy Story-time: From Claude Shannon to Equifax'
 created: 1505084712
 ---
+
 There's an piece floating around that does a great, succinct job at summarizing Claude Shannon's contributions to our modern understanding of information.  If you haven't read <a href="https://aeon.co/essays/how-a-polymath-transformed-our-understanding-of-information">The bit bomb</a> on Aeon, head over there.  It'll make your brain happy with things like this:
 
 <blockquote>"Shannon – mathematician, American, jazz fanatic, juggling enthusiast – is the founder of information theory, and the architect of our digital world. It was Shannon’s paper ‘A Mathematical Theory of Communication’ (1948) that introduced the bit, an objective measure of how much information a message contains."</blockquote>
