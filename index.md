@@ -28,7 +28,7 @@ feature_row:
     image_caption: "CC-BY-NA-SA Jon Camfield"
     alt: "Elephant with Tusks"
     title: "Featured: From the Tusks and Safety Department"
-    excerpt: "The gravity of terrestrial attacks on human rights is not magically escaped in orbit "
+    excerpt: "What security and safety tooling do we need to build now if Mastodon scales to tens or hundereds of millions of users."
     url: "/blog/2022.11/tusks-and-safety.html"
     btn_label: "Read more"
     btn_class: "btn--success"
