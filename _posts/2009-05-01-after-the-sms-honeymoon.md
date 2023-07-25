@@ -10,6 +10,8 @@ tags:
 
 title: After the SMS honeymoon? (Updated)
 created: 1241203303
+redirect_from: /blog/2009.05/after-the-sms-honeymoon-update.html
+
 ---
 <em>Check out some updates -- props to @MobileActive!</em>
 
