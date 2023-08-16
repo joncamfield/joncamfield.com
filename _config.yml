@@ -184,7 +184,7 @@ defaults:
       show_date: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
       classes: wide
       tagline: "<br /><br />"
@@ -334,7 +334,7 @@ defaults:
       read_time: true
       show_date: true
       comments: # true
-      share: true
+      share: false
       related: false
 
 github: [metadata]
