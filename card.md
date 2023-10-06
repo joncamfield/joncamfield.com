@@ -16,5 +16,6 @@ excerpt: "Jon Camfield is a technologist dedicated to advancing human rights wit
 
 ---
 
-[![QRCode Vcard](/assets/images/qrcode-card.png)](/assets/JonCamfield.vcf)
+![QRCode Vcard](/assets/images/qrcode-card.png)
+
 
