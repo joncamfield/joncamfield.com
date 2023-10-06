@@ -127,3 +127,7 @@ project_row:
 {% include feature_row id="project_row" %}
 
 ---
+
+<script src="https://pitwebring.billhunt.dev/webring.js"></script>
+  <script>showWebring(true);</script>
+

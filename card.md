@@ -4,7 +4,8 @@ title: "Jon Camfield"
 layout: single
 author_profile: false
 permalink: "card"
-date: 2022-06-01
+breadcrumbs: false
+date: 2023-10-01
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -15,7 +16,5 @@ excerpt: "Jon Camfield is a technologist dedicated to advancing human rights wit
 
 ---
 
-<img src="/assets/images/Camfield-square.JPG" alt="Headshot" width="300"/>
-
-![QRCode](/assets/images/qrcode-card.png)
+[![QRCode Vcard](/assets/images/qrcode-card.png)](/assets/JonCamfield.vcf)
 
