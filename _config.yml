@@ -98,8 +98,10 @@ analytics:
   google:
     tracking_id          : UA-1316515-1
     anonymize_ip         : true # true, false (default)
-
-
+  google-gtag:
+    tracking_id          : G-RRRLP2MV9C
+    anonymize_ip         : true 
+    
 # Site Author
 author:
   name             : "Jon Camfield"
