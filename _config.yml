@@ -78,8 +78,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-#twitter:
-#  username               : "joncamfied"
+twitter:
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -119,12 +119,6 @@ author:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@joncamfield"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/joncamfield"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/joncamfield"
@@ -150,9 +144,6 @@ footer:
     - label: "PGP"
       icon: "fas fa-fw fa-key"
       url: "https://keys.openpgp.org/search?q=jon%40joncamfield.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter"
-#      url: "https://twitter.com/joncamfield"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/joncamfield"
