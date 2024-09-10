@@ -17,14 +17,16 @@ excerpt: "Thinking about tomorrow's threats against human rights and Internet Fr
 
 Jon Camfield is a technologist dedicated to advancing human rights with over two decades of experience spanning the public, startup, non-profit, and social enterprise sectors. Jon currently works on Threat Ideation at Meta, leveraging threat intel to lead adversarial design and prepare for sophisticated attacks both against new products and based on world events
 
-At Internews, Jon was the Director of Global Technology Strategy, leading a portfolio advancing digital safety for media and human rights defenders through training, the SAFETAG organizational security risk assessment framework, and tool development. Prior to Internews he led technology strategy for Ashoka's Changemakers platform, consulted for a wide range on NGOs, and served in the Peace Corps with the Ministry of Education in Jamaica. Jon has an MA in International Science and Technology Policy from the Elliot School at GWU and a bachelor's' degree from the University of Texas' prestigious Plan II Honors program.
+Previously, Jon was Internews' Director of Global Technology Strategy, building and sustaining a diverse team with over $30M in funding to advance digital safety for media and human rights defenders through training, the SAFETAG organizational security risk assessment framework, and tool development. This work focused on being responsible, sustainable, and transparent. This meant building programs closely with in-country partners, risk assessments, building internal organizational operational security policies and practices, prioritizing open source tools, building content under open licenses, and supporting the capacity of -- and learning from -- local actors.
+
+Prior to Internews he led technology strategy for Ashoka's Changemakers platform, consulted for a wide range on NGOs, and served in the Peace Corps with the Ministry of Education in Jamaica. Jon has an MA in International Science and Technology Policy from the Elliot School at GWU and a bachelor's' degree from the University of Texas' prestigious Plan II Honors program.
 
 
 ## Longer version
 
 I have over two decades of experience in using technology for social change that spans the public, private, non-profit, and social enterprise sectors. I am a co-author of the [SAFETAG](https://safetag.org) organizational security risk assessment framework.
 
-At Internews, I was the Director of Global Technology Strategy at Internews, where I led our work on innovative, systems-level interventions that respond to digital threats to human rights. Under my leadership, we build and sustain multiple programs, including:
+At Internews, I was the Director of Global Technology Strategy at Internews, where I led our work on innovative, systems-level interventions that respond to digital threats to human rights. Under my leadership, we built and sustained multiple programs, including:
 
 * [MONITOR](https://internews.org/areas-of-expertise/global-tech/global-tech-projects/global-tech-monitor/), a program that advances community threat information sharing and builds the skill-sets of in-country activists to detect and, through coordination with Internews and the private sector, take down advanced malicious infrastructure; and
 * [SAFETAG](https://SAFETAG.org), an open source, capacity-focused organizational security assessment framework and global network of experts
