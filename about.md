@@ -22,6 +22,9 @@ Previously, Jon was Internews' Director of Global Technology Strategy, building 
 Prior to Internews he led technology strategy for Ashoka's Changemakers platform, consulted for a wide range on NGOs, and served in the Peace Corps with the Ministry of Education in Jamaica. Jon has an MA in International Science and Technology Policy from the Elliot School at GWU and a bachelor's' degree from the University of Texas' prestigious Plan II Honors program.
 
 
+
+
+
 ## Longer version
 
 I have over two decades of experience in using technology for social change that spans the public, private, non-profit, and social enterprise sectors. I am a co-author of the [SAFETAG](https://safetag.org) organizational security risk assessment framework.
