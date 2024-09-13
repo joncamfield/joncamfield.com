@@ -23,8 +23,6 @@ Prior to Internews he led technology strategy for Ashoka's Changemakers platform
 
 
 
-
-
 ## Longer version
 
 I have over two decades of experience in using technology for social change that spans the public, private, non-profit, and social enterprise sectors. I am a co-author of the [SAFETAG](https://safetag.org) organizational security risk assessment framework.
