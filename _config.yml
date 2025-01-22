@@ -20,7 +20,7 @@ title                    : "Jon Camfield Dot Com"
 title_separator          : " | "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jon Camfield"
-description              : "Thinking about tomorrow's threats against human rights and Internet Freedom. Frustrated Optimist, gardener, salsa dancer, cook, husband, dad, embarrassed Texan. Opinions here are my own. he/they"
+description              : "Thinking about tomorrow's threats against human rights and the open Internet. Frustrated Optimist, open source nerd, gardener, salsa dancer, cook, husband, dad, embarrassed Texan. Opinions here are my own. he/they"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : https://github.com/joncamfield/joncamfield.com # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
