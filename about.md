@@ -4,14 +4,14 @@ title: "About"
 layout: single
 author_profile: true
 permalink: "about"
-date: 2022-06-01
+date: 2025-01-01
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/maryna-bohucharska-a9hsdy18oLQ-unsplash-glitched.png
   actions:
   caption: "Photo of seedlings (CC0 [Maryna Bohucharska](https://unsplash.com/@bohucharska) / Unsplash) filtered with [Glimpse](https://glimpse-editor.org/)"
-excerpt: "Thinking about tomorrow's threats against human rights and Internet Freedom. Frustrated Optimist, gardener, salsa dancer, cook, husband, dad, embarrassed Texan. Opinions here are my own. he/they"
+excerpt: "Thinking about tomorrow's threats against human rights and the open Internet. Frustrated Optimist, open source nerd, gardener, salsa dancer, cook, husband, dad, embarrassed Texan. Opinions here are my own. he/they"
 
 ---
 
