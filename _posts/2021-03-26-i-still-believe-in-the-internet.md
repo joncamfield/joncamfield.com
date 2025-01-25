@@ -6,6 +6,7 @@ categories:
 - human rights
 header:
   overlay_image: /assets/images/maryna-bohucharska-a9hsdy18oLQ-unsplash-asciifilter.png
+  overlay_filter: 0.5
   teaser: /assets/images/maryna-bohucharska-a9hsdy18oLQ-unsplash-asciifilter.png
   caption: "Photo of seedlings (CC0 Maryna Bohucharska / Unsplash) filtered to add a digitization / matrix style effect"
 title: I (Still) Believe in the Internet
@@ -15,7 +16,7 @@ _This is the first in a series on the [past, present, and future of the Internet
 
 I am a member of the forgotten gap-generation between Gen-X and the Millennials ([Jillian York wrote eloquently on this almost a decade ago](https://jilliancyork.com/2013/04/13/talkin-bout-my-generation-i-think/) ). I didn't grow up "on" the Internet as a digital native -- I grew up alongside it.
 
-My on-ramp started with dial-up access to local BBSes and eventually to the actual Internet at the time (USENET, Gopher, MUDs, and other now-mostly-dead systems), mostly accessed through a green-screen terminal via manually-typed in AT commands with a 2400 baud modem (or the 9600 baud one if you were first!). HTML itself, the base of the modern web, was just barely a project at the time, and the "World Wide Web" simply didn't exist. Being able to navigate via text screens the entire content of the local university's library (instead of getting a ride there and rummaging through a card catalog) was a game changer.
+My on-ramp started with dial-up access to local BBSes and eventually to the actual Internet at the time (USENET, Gopher, MUDs, and other now-mostly-forgotten systems), mostly accessed through a green-screen terminal via manually-typed in AT commands with a 2400 baud modem. HTML itself, the base of the modern web, was just barely a project at the time, and the "World Wide Web" simply didn't exist. But being able to navigate via text screens the entire content of the local university's library (instead of getting a ride there and rummaging through a card catalog) was still a game changer.
 
 For the era, I had undeniably privileged access to the Internet -- which is to say that access to the Internet was itself inherently a privilege. This is a critical data point that gets lost in most rose-colored reflections of the Internet.  That said, there was a strange undercurrent of makers, hackers, and this incredibly subversive belief in equality, collaboration, and sharing.  **With a huge caveat around its lack of diversity, the Internet did provide for a brief shining moment a safe space for people - awkward nerdy teenagers like me - who didn't really fit in but could find their way online.** It was a ramshackle and weird community of MUDs and newsgroups and IRC chat channels and home-cooked bulletin boards. The Internet I knew was built and staffed by people who had previously run 3-line dial-up BBS systems and avid, if lost, volunteers who'd found a home and a family.
 
