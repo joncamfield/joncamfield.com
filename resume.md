@@ -25,12 +25,12 @@ I led Internews’ global portfolio of open, systems-level work countering digit
 
 * [**SAFETAG**](https://SAFETAG.org/), an open source, capacity-focused organizational security framework that supported the training of a global network of hundreds of local experts;
 * [**USABLE.tools**](https://USABLE.tools/), which connected human-centered design with digital safety to change how human rights and media activists, trainers, and tool developers interact;
-* [**BASICS**](https://internews.org/areas-of-expertise/global-tech/global-tech-projects/basics/), which improved the governance processes, diversity of developers, and sustainability of, open source security tool development.
+* [**BASICS**](https://internews.org/areas-of-expertise/global-tech/global-tech-projects/basics/), which improved the governance processes, diversity of developers, and sustainability of, open source security tool development;
 * [**MONITOR**](https://internews.org/areas-of-expertise/global-tech/global-tech-projects/global-tech-monitor/), which advanced threat information sharing among the global human rights community by building the skill-sets of in-country activists to detect and taking down malicious infrastructure; 
 * [**Censorship Circumvention**](https://www.pluggabletransports.info/)**:** provided \>$10M to anti-censorship tool development, community building, and standards-setting across multiple grants; and
 * [**Greater Internet Freedom**](https://greaterinternetfreedom.org/) – a multi-year USAID program advancing digital rights and safety in 40 countries centering regional partners in design and execution. 
 
-Across my work at Internews, I ensured that our on these programs work was open, responsible, sustainable, and transparent. This included creating programs closely with in-country partners, building internal organizational operational security policies and risk assessment practices, and using open source tools and open licensed content. 
+Across my work at Internews, I ensured that our approach on these programs work was open, responsible, sustainable, and transparent. This included creating programs closely with in-country partners, building internal organizational operational security policies and risk assessment practices, and using open source tools and open licensed content. 
 
 I also represented Internews at the NGO-ISAC, FIRST, the Design for Democracy Steering Committee, and as a founding member of CiviCERT.
 
