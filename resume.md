@@ -30,7 +30,7 @@ I led Internews’ global portfolio of open, systems-level work countering digit
 * [**Censorship Circumvention**](https://www.pluggabletransports.info/)**:** provided \>$10M to anti-censorship tool development, community building, and standards-setting across multiple grants; and
 * [**Greater Internet Freedom**](https://greaterinternetfreedom.org/) – a multi-year USAID program advancing digital rights and safety in 40 countries centering regional partners in design and execution. 
 
-Across my work at Internews, I ensured that our approach on these programs work was open, responsible, sustainable, and transparent. This included creating programs closely with in-country partners, building internal organizational operational security policies and risk assessment practices, and using open source tools and open licensed content. 
+Across this work at Internews, I ensured that our approach was open, responsible, sustainable, and transparent. This included creating programs closely with in-country partners, building internal organizational operational security policies and risk assessment practices, and using open source tools and open licensed content. 
 
 I also represented Internews at the NGO-ISAC, FIRST, the Design for Democracy Steering Committee, and as a founding member of CiviCERT.
 
@@ -95,4 +95,5 @@ I provided product strategy, design, and technical project management for Ashoka
 * Co-Organizer, “The Good Capitalist Party”, SXSW, 2012
 * Author, FastCompany, 2012, [Big Ideas For A New Economy: Social Currency Unleashed](https://www.fastcompany.com/1679259/big-ideas-for-a-new-economy-social-currency-unleashed?cid=search) and [It’s Time To Start Judging Nonprofits Like For-Profits](https://www.fastcompany.com/2679099/its-time-to-start-judging-nonprofits-like-for-profits?cid=search) 
 * Panelist, Yahoo\! Business & Human Rights Summit, 2011
+
 
