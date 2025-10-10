@@ -13,7 +13,9 @@ title: A digital go-bag
 created: 2025-10-02
 ---
 
-I've been thinking a lot about a "digital go bag" concept, now that "go-bags" are in the [public narrative](https://www.npr.org/2025/05/07/nx-s1-5320173/budget-emergency-go-bag). What would it look like? What use cases would it focus on? I've settled on three guiding principles: Content, Community, and Connectivity.
+I've been thinking a lot about a "digital go bag" concept, now that "go-bags" are in the [public narrative](https://www.npr.org/2025/05/07/nx-s1-5320173/budget-emergency-go-bag). What would it look like? What use cases would it focus on? 
+
+I've settled on three guiding principles: **Content**, **Community**, and **Connectivity**.
 
 # Content
 
