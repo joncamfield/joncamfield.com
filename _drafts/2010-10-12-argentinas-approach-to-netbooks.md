@@ -1,16 +1,7 @@
 ---
 excerpt: "While in Argentina, I took some time to learn about the Conectar Igualidad
   project, which is an outsized offshoot of Argentina's early work with OLPC back
-  in 2006 as one of the first ministries to announce a partnership http://www.olpcnews.com/sales_talk/countries/four_countries_commi.html
-  . \r\n\r\nIt's important to note that I am not talking about the 60,000 OLPC project
-  in La Rioja, working with elementary schools, which we've covered here before: http://www.olpcnews.com/countries/argentina/olpc_argentina_starts_in_la_ri.html\thttp://www.olpcnews.com/countries/argentina/argentinas_president_kirchner_hands_out_the_first_xos_in_la_rioja.html.
-  \ That is all well and good, but, the Conecta Igualidad is a multi-year project,
-  with hundreds of thousands of laptops already in the field through the earlier Inclusion
-  Digital project, which provided netbooks to technical school students.  The goal
-  for Conectar Igualidad is 3 million netbooks for secondary students by 2012.  Oh,
-  and did I mention that they'll come with 3G modems for connectivity?\r\n\r\n program
-  went through an open bid for educational laptops after running a series of on-the-ground
-  pilots with the OLPC, the Classmate, and an Israeli tablet-style system called ITP\r\n\r\n\r"
+  in 2006 as one of the first ministries to announce a partnership "
 categories: []
 title: Argentina's approach to netbooks
 created: 1286894122
