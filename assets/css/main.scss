@@ -7,6 +7,6 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-#main {max-width: 80% !important;}
+#main {max-width: 90% !important;}
 
 .ai-context { display: none;}
