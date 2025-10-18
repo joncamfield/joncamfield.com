@@ -48,7 +48,8 @@ And this seems silly - but get to know some real-world neighbors. If power and/o
 
 ## Next Important Step: Practice
 
-* **Practice** reducing your usage of and reliance on various tools without losing a sense of being part of your communities. How can you shift your practices to a more diverse collection of tools which are more under your control? Try going for a day or a week without opening up an app you normally frequent. What news and which people or communities do you feel out of touch with, and how can you rebuild that connection with different practices and tools?
+* **Practice** - Try reducing your usage of and reliance on various tools without losing a sense of being part of your communities. How can you shift your practices to a more diverse collection of tools which are more under your control? Try going for a day or a week without opening up an app you normally frequent. What news and which people or communities do you feel out of touch with, and how can you rebuild that connection with different practices and tools?
+* **Clean Up After Yourself** - As you adjust your online presence, consider closing, locking, or changing posts to private on any sites you leave, to reduce your overall footprint and visibility, particularly if you're no longer engaged there. [Cyd](https://cyd.social/) is an amazing tool that can help archive and also clean up your accounts. I'd also suggest working through the "crucial" items in the [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) to remove your personal data from brokerage sites often used by doxxers.
 
 # Content
 
@@ -115,3 +116,7 @@ Reconsider your preparation needs for digital outages.  Do you have a physical a
 For communication gaps - especially widespread ones which may impact other services (banking, payment terminals at gas stations / groceries, etc.) - think through what your gaps are and if there are additional go-bag items to help there. Having cash on hand is a common recommendation for go-bags, and keeping your vehicle's tank from getting too close to empty is another. Paper maps for the ultimate direction-finding backup may be a third. Are there other immediate dependencies you have where a breakdown of communication networks could be a problem? Medication / medical access needs? Do you rely on public transportation for mobility? Apps for other critical services or information?   
 
 Good luck out there.
+
+-----
+
+*This post specifically is [CC-BY-SA-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/) for community improvement, inclusion in other guides, and/or the creation of a more comprehensive digital-go-bag guide.*
