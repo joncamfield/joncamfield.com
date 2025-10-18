@@ -113,9 +113,9 @@ It's also important to know where everything physically is - maybe your backup d
 
 Reconsider your preparation needs for digital outages.  Do you have a physical address book for key contacts? Accessible, agreed-upon plans for meeting locations/strategies?  
 
-For communication gaps - especially widespread ones which may impact other services (banking, payment terminals at gas stations / groceries, etc.) - think through what your gaps are and if there are additional go-bag items to help there. Having cash on hand is a common recommendation for go-bags, and keeping your vehicle's tank from getting too close to empty is another. Paper maps for the ultimate direction-finding backup may be a third. Are there other immediate dependencies you have where a breakdown of communication networks could be a problem? Medication / medical access needs? Do you rely on public transportation for mobility? Apps for other critical services or information?   
+For communication gaps - especially widespread ones which may impact other services (banking, payment terminals at gas stations / groceries, etc.) - think through what your gaps are and if there are additional go-bag items to help there. Having cash on hand is a common recommendation for go-bags, and keeping your vehicle's tank from getting too close to empty is another. Paper maps for the ultimate direction-finding backup may be a third. Are there other immediate dependencies (Medication? Public Transportation?) you have where a breakdown of communication networks could be a problem?
 
-Good luck out there.
+No amount of prep will ever feel - or be - perfect, and that cannot be your goal.  Your goal is to be a step or two ahead of where you are now, and more confident about the challenged you could face. Good luck out there.
 
 -----
 
