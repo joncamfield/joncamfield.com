@@ -37,17 +37,17 @@ And this might seem basic -- but get to know some real-world neighbors. If power
 
 ## First Steps
 
-* Refresh your email, phone, and physical address contact info of key people. Backing up your email content as noted in [Content](#content) is a big help here!
-* Connect with them on additional messenger services - [Signal](https://signal.org/) is a great option here.
-* Set up shop on the [fediverse](https://joinmastodon.org/)! It's a collection of much smaller social networks which all connect together, so you can find one with moderation rules you like, but still have access to the entire network.
-* DYI tools (discussed below in [Content](#content)) are useful here to have a personal archive of your account. Unless the backup format has changed, you can even create a [searchable website of your twitter data](https://github.com/dariusk/twitter-archiver)
+* **Rebuild your own Address Book** Refresh contact list -- your email, phone, and physical address contact info of key people. Backing up your email content as noted in [Content](#content) is a big help here!
+* **Diversify Messaging** Connect with your network on additional messenger services - [Signal](https://signal.org/) is a great option here.
+* **Email** The DYI process below can also cover this; but I want to separately call out using non-webmail email programs (think Outlook) which can download your email fully locally in a more usable / searchable way than the DYI tools. [Thunderbird](https://www.thunderbird.net/en-US/) is a free and open-source email app which can interface with most online email systems and give you a real-time backup of those, particularly capturing all of the email addresses that never formally make it into an address book. It lets you check multiple accounts at once, keep the records and emails from old accounts even once you close them online, and more.
+* **Decentralize your social media** Set up shop on the [fediverse](https://joinmastodon.org/)! It's a collection of much smaller social networks which all connect together, so you can find one with moderation rules you like, but still have access to the entire network.
+* **Download your information** DYI tools (discussed below in [Content](#content)) are useful here to have a personal archive of your account. Unless the backup format has changed, you can even create a [searchable website of your twitter data](https://github.com/dariusk/twitter-archiver)
 
 ## Next Important Step: Practice
 
 * **Practice** - Try reducing your usage of and reliance on various tools without losing a sense of being part of your communities. How can you shift your practices to a more diverse collection of tools which are more under your control? Try going for a day or a week without opening up an app you normally frequent. What news and which people or communities do you feel out of touch with, and how can you rebuild that connection with different practices and tools?
 * **Information Landscaping** With that practice, what media and news did you feel was missing? Part of community is also your media ecosystem - are there news sources you usually see in your social media networks which you can subscribe to (email newsletters, apps, RSS feeds) outside of there, to stay informed?
 * **Clean Up After Yourself** - As you adjust your online presence, consider closing, locking, or changing posts to private on any sites you leave, to reduce your overall footprint and visibility, particularly if you're no longer engaged there. [Cyd](https://cyd.social/) is an amazing tool that can help archive and also clean up your accounts. I'd also suggest working through the "crucial" items in the [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) to remove your personal data from brokerage sites often used by doxxers.
-
 
 # Content
 
@@ -58,13 +58,11 @@ Like a go bag, the focus is on immediate need, but with some of the risks of per
 These are tangible risks which we have seen play out politically, with [Microsoft revoking the International Criminal Court proescutor's access to email and documents after a USG missive](
 https://apnews.com/article/icc-trump-sanctions-karim-khan-court-a4b4c02751ab84c09718b1b95cbd5db3), and a longer tail of stories of [parents losing Google access - often permanently - based on photos of their kids](https://me.mashable.com/tech/19037/google-disables-a-fathers-accounts-based-on-a-false-screening-of-his-childs-photographs).
 
-
 On top of personal content, are there go-to guides or information you rely on the Internet to help you with? Maps, how-tos, repair manuals, or so on. What of that can you save to reduce your reliance on the Internet working?
 
 ## First steps
 
 * **Map your data** This [trainer's curricula on data backups](https://www.level-up.cc/curriculum/protecting-data/data-backup-basics/activity-discussion/data-backup-matrix-creating-information-map/), built for trainers working with human rights defenders worldwide, provides an activity you can use to walk yourself, your family, your organization, or community through mapping out your most critical data, and where it is. 
-* **Email** The DYI process below can also cover this; but I want to separately call out using non-webmail email programs (think Outlook) which can download your email fully locally in a more usable / searchable way than the DYI tools. [Thunderbird](https://www.thunderbird.net/en-US/) is a free and open-source email app which can interface with most online email systems and give you a real-time backup of those, particularly capturing all of the email addresses that never formally make it into an address book. It lets you check multiple accounts at once, keep the records and emails from old accounts even once you close them online, and more.
 * **Don't Forget your Passwords** - Password Managers tend to store locally and then use the Internet for secure backups, but also including an archive of your passwords (make sure it is stored encrypted / password protected!) is great for your peace of mind.
 * **Review your data dependencies** - What content that's normally online/available at your fingertips which - if lost - would be a problem? An important consideration here is actual real-world map data if you need to navigate and cannot access Google/Apple Maps. [Guru Maps](https://gurumaps.app/) is free and has comprehensive, OpenStreetMap downloads.
 * **DYI tools** - "Download Your Information" - offer the most comprehensive way to extract and backup your data from platforms. Most other methods are intentionally hobbled to discourage users from leaving one cloud platform and moving to another (Google Photos limits download quality, Apple iCloud forces you to manually select photos, and only allows 1000 at a time). The DYI process forces much larger downloads, so you will need **a lot of time** even on a good Internet connection, and usually 10s of GBs of free space! This is a big project - write notes as you go so it's easier the second time through. I honestly only manage to update my offline photo backups every year or so, and having well-worn and annotated notes to go through is a lifesaver.
