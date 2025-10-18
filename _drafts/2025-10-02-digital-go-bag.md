@@ -31,7 +31,7 @@ I've settled on three guiding principles: **[Community](#community)**, **[Conten
 
 # Community
 
-Who do you know, where? Which friends are still over on whatever has become of Twitter? Who's only active on Facebook? If you lost access to one or more of these platforms, how would you get back in touch? There are no silver bullets here, but mapping out your community and having multiple paths to maintain contact gives you a ton of resilience and flexibility. This also gives you a chance to nudge your community to think about their own platform reliance, and perhaps set up shop outside of the centralized systems.
+Who do you know, where? Which friends are only on what social media platforms? If you lost access to one or more of these platforms, how would you get back in touch? There are no silver bullets here, but mapping out your community and having multiple paths to maintain contact gives you a ton of resilience and flexibility. This also gives you a chance to nudge your community to think about their own platform reliance, and perhaps set up shop outside of the centralized systems.
 
 Part of community is also your media ecosystem - are there news sources you usually see in your social media networks which you can subscribe to (email newsletters, apps, RSS feeds) outside of there, to stay informed?
 
