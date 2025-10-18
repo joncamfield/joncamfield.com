@@ -1,5 +1,5 @@
 ---
-excerpt: "What should a digital go-bag look like? What use cases would it focus on? I've settled on three guiding principles: Content, Community, and Connectivity."
+excerpt: "What should a digital go-bag look like? What use cases would it focus on? I've settled on three guiding principles: Community, Content, and Connectivity."
 categories:
 - Human Rights
 - Digital Safety
