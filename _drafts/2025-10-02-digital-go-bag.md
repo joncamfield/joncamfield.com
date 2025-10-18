@@ -33,8 +33,6 @@ I've settled on three guiding principles: **[Community](#community)**, **[Conten
 
 Who do you know, where? Which friends are only on what social media platforms? If you lost access to one or more of these platforms, how would you get back in touch? There are no silver bullets here, but mapping out your community and having multiple paths to maintain contact gives you a ton of resilience and flexibility. This also gives you a chance to nudge your community to think about their own platform reliance, and perhaps set up shop outside of the centralized systems.
 
-Part of community is also your media ecosystem - are there news sources you usually see in your social media networks which you can subscribe to (email newsletters, apps, RSS feeds) outside of there, to stay informed?
-
 And this might seem basic -- but get to know some real-world neighbors. If power and/or communications networks go out, having some friends just a few doors down can be incredibly reassuring to not have to face things alone, and for sharing information and resources with. 
 
 ## First Steps
@@ -47,7 +45,9 @@ And this might seem basic -- but get to know some real-world neighbors. If power
 ## Next Important Step: Practice
 
 * **Practice** - Try reducing your usage of and reliance on various tools without losing a sense of being part of your communities. How can you shift your practices to a more diverse collection of tools which are more under your control? Try going for a day or a week without opening up an app you normally frequent. What news and which people or communities do you feel out of touch with, and how can you rebuild that connection with different practices and tools?
+* **Information Landscaping** With that practice, what media and news did you feel was missing? Part of community is also your media ecosystem - are there news sources you usually see in your social media networks which you can subscribe to (email newsletters, apps, RSS feeds) outside of there, to stay informed?
 * **Clean Up After Yourself** - As you adjust your online presence, consider closing, locking, or changing posts to private on any sites you leave, to reduce your overall footprint and visibility, particularly if you're no longer engaged there. [Cyd](https://cyd.social/) is an amazing tool that can help archive and also clean up your accounts. I'd also suggest working through the "crucial" items in the [Big Ass Data Broker Opt-Out List](https://github.com/yaelwrites/Big-Ass-Data-Broker-Opt-Out-List) to remove your personal data from brokerage sites often used by doxxers.
+
 
 # Content
 
