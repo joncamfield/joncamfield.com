@@ -4,6 +4,8 @@ categories:
 - Human Rights
 - Digital Safety
 - web 2.0 and f/loss
+toc: true
+toc_sticky: true
 header:
     overlay_image: /assets/images/museums-victoria-QSBm03YHtrI-unsplash.jpg
     overlay_filter: 0.5
@@ -14,8 +16,9 @@ created: 2025-10-02
 ---
 <!-- 
 TODO
-* Explain circumvention more
-* Review communication section / improve
+* Improve layout / increase width and/or add TOC like the sat guide?
+* Make a deck? 
+* When complete, make a downloadable 1-pagery version
 -->
 
 I've been thinking a lot about a "digital go bag" concept, now that "go-bags" are in the [public narrative](https://www.npr.org/2025/05/07/nx-s1-5320173/budget-emergency-go-bag). What would it look like? What use cases would it focus on? Real life go-bags are generally focused on getting you able to get to a safe place, with usually about 3 days worth of emergency supplies and gear, alongside some essentials like money, documentation, and medical/first aid needs. 
@@ -25,7 +28,27 @@ For a digital go-bag, I want to think about two broad situations:
 1. First, being able to pack up and leave from any of your "core" online accounts, be that social media, email, or a cloud storage provider/online backups -- this also should apply to getting kicked off without notice.
 2. Second, the digital impacts of a broader emergency, impacting communication networks and your ability to even get to those online accounts or other services.
 
-I've settled on three guiding principles: **Content**, **Community**, and **Connectivity**.
+I've settled on three guiding principles: **[Community](#community)**, **[Content](#content)**, and **[Connectivity](#connectivity)**.
+
+
+# Community
+
+Who do you know, where? Which friends are still over on whatever has become of Twitter? Who's only active on Facebook? If you lost access to one or more of these platforms, how would you get back in touch? There are no silver bullets here, but mapping out your community and having multiple paths to maintain contact gives you a ton of resilience and flexibility. This also gives you a chance to nudge your community to think about their own platform reliance, and perhaps set up shop outside of the centralized systems.
+
+Part of community is also your media ecosystem - are there news sources you usually see in your social media networks which you can subscribe to (email newsletters, apps, RSS feeds) outside of there, to stay informed?
+
+And this seems silly - but get to know some real-world neighbors. If power and/or communications networks go out, having some friends just a few doors down can be incredibly reassuring to not have to face things alone, and for sharing information and resources with. 
+
+## First Steps
+
+* Refresh your email, phone, and physical address contact info of key people. Backing up your email content as noted in [Content](#content) is a big help here!
+* Connect with them on additional messenger services - [Signal](https://signal.org/) is a great option here.
+* Set up shop on the [fediverse](https://joinmastodon.org/)! It's a collection of much smaller social networks which all connect together, so you can find one with moderation rules you like, but still have access to the entire network.
+* DYI tools (discussed below in [Content](#content)) are useful here to have a personal archive of your account. Unless the backup format has changed, you can even create a [searchable website of your twitter data](https://github.com/dariusk/twitter-archiver)
+
+## Next Important Step: Practice
+
+* **Practice** reducing your usage of and reliance on various tools without losing a sense of being part of your communities. How can you shift your practices to a more diverse collection of tools which are more under your control? Try going for a day or a week without opening up an app you normally frequent. What news and which people or communities do you feel out of touch with, and how can you rebuild that connection with different practices and tools?
 
 # Content
 
@@ -48,7 +71,7 @@ On top of personal content, are there go-to guides or information you rely on th
 * **DYI tools** - "Download Your Information" - offer the most comprehensive way to extract and backup your data from platforms. Most other methods are intentionally hobbled to discourage users from leaving one cloud platform and moving to another (Google Photos limits download quality, Apple iCloud forces you to manually select photos, and only allows 1000 at a time). The DYI process forces much larger downloads, so you will need **a lot of time** even on a good Internet connection, and usually 10s of GBs of free space! This is a big project - write notes as you go so it's easier the second time through. I honestly only manage to update my offline photo backups every year or so, and having well-worn and annotated notes to go through is a lifesaver.
 * **Even more archiving tools** - Did you know it's easy to [download the entire English version of Wikipedia](https://kiwix.org/en/)? Make local, [archival copies of videos](https://github.com/yt-dlp/yt-dlp)?   The [Internet Archive](https://archive.org/) also has tons of media available for downloading, including older versions of websites.  
 
-##  Next Important Step: We need to talk about *Backups*
+##  Next Important Step: Backups
 
 OK now you've freed your data - the hard part is making sure it's backed up and safe. Laptops die, hard drives flake - this is unfortunately a "forever" process, but it doesn't have to be super hard once you get a flow set up. 
 
@@ -56,29 +79,8 @@ OK now you've freed your data - the hard part is making sure it's backed up and 
 
 Once you get everything you just identified and acquired backed up to one location - make another backup of that! I like storing a secondary backup in my bank's safe deposit box.  Obviously that's always out of date, but in a catastrophic event (house burnt down/burglarized/etc.), my backups have... well, at least some better chance of surviving.
 
-**A Note on Security** This data will have a ton of your sensitive information in it if you've gotten everything you might need - so be **very careful** what you do with it.  I would not use an online service to back this up without first encrypting large chunks of it. You should also consider encrypting the backup drive itself. This makes it more difficult to work with or get data off of -- especially during a stressful moment -- but also means that others can't just plug it in and access everything.
+***A Note on Security** This data will have a ton of your sensitive information in it if you've gotten everything you might need - so be **very careful** what you do with it.  I would not use an online service to back this up without first encrypting large chunks of it. You should also consider encrypting the backup drive itself. This makes it more difficult to work with or get data off of -- especially during a stressful moment -- but also means that others can't just plug it in and access everything.*
 
-
-# Community
-
-Who do you know, where? Which friends are still over on whatever has become of Twitter? Who's only active on Facebook? If you lost access to one or more of these platforms, how would you get back in touch? There are no silver bullets here, but mapping out your community and having multiple paths to maintain contact gives you a ton of resilience and flexibility. This also gives you a chance to nudge your community to think about their own platform reliance, and perhaps set up shop outside of the centralized systems.
-
-Part of community is also your media ecosystem - are there news sources you usually see in your social media networks which you can subscribe to (email newsletters, apps, RSS feeds) outside of there, to stay informed?
-
-And this seems silly - but get to know some real-world neighbors. If power and/or communications networks go out, having some friends just a few doors down can be incredibly reassuring to not have to face things alone, and for sharing information and resources with. 
-
-## First Steps
-
-* Refresh your email, phone, and physical address contact info of key people. Backing up your email content as noted above is a big help here!
-* Connect with them on additional messenger services - [Signal](https://signal.org/) is a great option here.
-* Set up shop on the [fediverse](https://joinmastodon.org/)! It's a collection of much smaller social networks which all connect together, so you can find one with moderation rules you like, but still have access to the entire network.
-* DYI tools (discussed below) can also be useful here to have a personal archive of your account. Unless the backup format has changed, you can even create a [searchable website of your twitter data](https://github.com/dariusk/twitter-archiver)
-
-<!-- ## Next Important Step: 
-
-
-
--->
 
 # Connectivity
 
@@ -98,11 +100,11 @@ It is easy to tip over into a bottomless pit here, so it's important to constrai
 
 ***A note on satellite communication*** - don't count on it! It's potentially a great solution for connectivity in hard to reach locations, but satellites depend on terrestrial Internet connectivity - and are governed by normal companies subject to cyberattacks, government pressure, and normal failures - just like the rest of the Internet. In case of some disasters, that new satellite SOS tool on some of the latest phones might indeed be a life-saver, but you shouldn't put all your backup planning just on that, either.  I've written [at length on threat modeling for satellite communications](https://satellitesafety.openinternetproject.org/) if you want to get nerdy.
 
-## Next Important Step: Test your plan!
+## Next Important Step: Testing
 
 After you've downloaded these tools, made a meetup plan, or even adopted some radio communications tools - test it all out! This doesn't have to be anything more serious than deciding on a time to put your phones away and stop using any other connectivity device and execute the plan.  Take a long lunch in the middle of your day and figure out how to meet up from wherever you are, and note where your plan falls apart and you need to revert back to normal communication. The first time you do this, something will go sideways and not work out, and that is exactly why we practice.  Try again, and once you are all comfortable, try actually putting your phones in airplane mode for the test - do your offline nav tools from the **Content** seciton work?
 
-# Final Thoughts: Re-packing your other go-bag
+# Final Thoughts: Re-packing your *other* go-bag
 
 Review your physical components of the digital go-bag. This probably includes a portable battery, at least one of each type of cable (and make sure to have a few which can plug in to the more ubiquitous USB-A plug), wall adapters, car adapters, protective/padded cases as needed, and some water-proofing options (zip-lock bags!).  
 
