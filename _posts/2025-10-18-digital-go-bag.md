@@ -33,7 +33,7 @@ And this might seem basic -- but get to know some real-world neighbors. If power
 
 ## First Steps
 
-* **Rebuild your own Address Book** Refresh contact list -- your email, phone, and physical address contact info of key people. Backing up your email content as noted in [Content](#content) is a big help here!
+* **Rebuild your own Address Book** Refresh contact list -- your email, phone, and physical address contact info of key people. Backing up your email content as noted in [Content](#content) is a big help here! Note birthdays if you currently rely on online calendars or social media to update you there.
 * **Diversify Messaging** Connect with your network on additional messenger services - [Signal](https://signal.org/) is a great option here.
 * **Email** The DYI process below can also cover this; but I want to separately call out using non-webmail email programs (think Outlook) which can download your email fully locally in a more usable / searchable way than the DYI tools. [Thunderbird](https://www.thunderbird.net/en-US/) is a free and open-source email app which can interface with most online email systems and give you a real-time backup of those, particularly capturing all of the email addresses that never formally make it into an address book. It lets you check multiple accounts at once, keep the records and emails from old accounts even once you close them online, and more.
 * **Decentralize your social media** Set up shop on the [fediverse](https://joinmastodon.org/)! It's a collection of much smaller social networks which all connect together, so you can find one with moderation rules you like, but still have access to the entire network.
@@ -63,6 +63,7 @@ On top of personal content, are there go-to guides or information you rely on th
 * **Review your data dependencies** - What content that's normally online/available at your fingertips which - if lost - would be a problem? An important consideration here is actual real-world map data if you need to navigate and cannot access Google/Apple Maps. [Guru Maps](https://gurumaps.app/) is free and has comprehensive, OpenStreetMap downloads.
 * **DYI tools** - "Download Your Information" - offer the most comprehensive way to extract and backup your data from platforms. Most other methods are intentionally hobbled to discourage users from leaving one cloud platform and moving to another (Google Photos limits download quality, Apple iCloud forces you to manually select photos, and only allows 1000 at a time). The DYI process forces much larger downloads, so you will need **a lot of time** even on a good Internet connection, and usually 10s of GBs of free space! This is a big project - write notes as you go so it's easier the second time through. I honestly only manage to update my offline photo backups every year or so, and having well-worn and annotated notes to go through is a lifesaver.
 * **Even more archiving tools** - Did you know it's easy to [download the entire English version of Wikipedia](https://kiwix.org/en/)? Make local, [archival copies of videos](https://github.com/yt-dlp/yt-dlp)?   The [Internet Archive](https://archive.org/) also has tons of media available for downloading, including older versions of websites.  
+* **Advanced Steps: Portable Computing** If you want to really have a ton of flex, portable operating systems like [TAILS](https://tails.net/) let you take a ton of useful connectivity tools and even documents with you to almost any computer you can plug a USB in to and reboot. These can take a bit of extra work to get used to, but can be handy in a pinch.
 
 ##  Next Important Step: Backups
 
@@ -73,7 +74,6 @@ OK now you've freed your data - the hard part is making sure it's backed up and 
 Once you get everything you just identified and acquired backed up to one location - make another backup of that! I like storing a secondary backup in my bank's safe deposit box.  Obviously that's always out of date, but in a catastrophic event (house burnt down/burglarized/etc.), my backups have... well, at least some better chance of surviving.
 
 ***A Note on Security** This data will have a ton of your sensitive information in it if you've gotten everything you might need - so be **very careful** what you do with it.  I would not use an online service to back this up without first encrypting large chunks of it. You should also consider encrypting the backup drive itself. This makes it more difficult to work with or get data off of -- especially during a stressful moment -- but also means that others can't just plug it in and access everything.*
-
 
 # Connectivity
 
