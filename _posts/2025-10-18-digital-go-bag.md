@@ -109,6 +109,10 @@ For communication gaps - especially widespread ones which may impact other servi
 
 No amount of prep will ever feel - or be - perfect, and that cannot be your goal.  Your goal is to be a step or two ahead of where you are now, and more confident about the challenged you could face. Good luck out there.
 
+## Further Reading
+
+* The Activist Checklist has a ton of actionable content, including a guide for [Personal Emergency Planning](https://activistchecklist.org/emergency/)
+
 -----
 
 *This post specifically is [CC-BY-SA-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/) for community improvement, inclusion in other guides, and/or the creation of a more comprehensive digital-go-bag guide.*
