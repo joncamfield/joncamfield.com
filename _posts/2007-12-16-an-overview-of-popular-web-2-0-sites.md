@@ -7,7 +7,7 @@ excerpt: "<p>So far we've really been pushing the underlying concepts, with a fe
 categories:
 - ict4d
 - web 2.0 and f/loss
-
+redirect_from: /blog/2007.12/an-overview-of-popular-web-20.html
 
 title: An Overview of Popular Web 2.0 sites
 created: 1197824433

@@ -7,7 +7,7 @@ excerpt: <p>The last entry was the <a href="https://www.joncamfield.com/blog/200
 categories:
 - ict4d
 - web 2.0 and f/loss
-
+redirect_from: /blog/2007.12/web-20-101.html
 
 title: 'Web 2.0 101: Speaking the Language'
 created: 1197665974
