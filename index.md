@@ -111,9 +111,16 @@ project_row:
   - image_path: assets/images/malic-content-wide.png
     alt: "Malicious Content"
     title: "Malicious Content"
-    excerpt: "A card game lovingly lampooning digital safety"
+    excerpt: "A card game (lovingly, but informed by trauma) lampooning digital safety"
     url: "https://malicious-content.com/"
     btn_label: "Play Online"
+    btn_class: "btn--success"
+  - image_path: assets/images/usable-logo.png
+    alt: "USABLE"
+    title: "USABLE"
+    excerpt: "USABLE connected cybersecurity developers with human rights defender end users"
+    url: "https://usable.tools/"
+    btn_label: "View resources"
     btn_class: "btn--success"
 # - image_path: /images/assets/estoril-tiles.jpg
 #    alt: ""
