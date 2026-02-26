@@ -18,7 +18,7 @@ export default {
 	// Display presentation control arrows.
 	// - true: Display controls on all screens
 	// - false: Hide controls on all screens
-	// - "speaker-only": Only display controls in the speaker view
+	// - "speaker": Only display controls in the speaker view
 	controls: true,
 
 	// Help the user learn the controls by providing hints, for example by
@@ -167,6 +167,9 @@ export default {
 	// - true:   All iframes with data-src will be loaded when within the viewDistance
 	// - false:  All iframes with data-src will be loaded only when visible
 	preloadIframes: null,
+
+	// Prevent embedded iframes from automatically focusing on themselves
+	preventIframeAutoFocus: true,
 
 	// Can be used to globally disable auto-animation
 	autoAnimate: true,
