@@ -17,7 +17,7 @@ excerpt: "I am a technologist dedicated to advancing sustainable social change a
 
 ## Meta (2022 - Present; Washington, DC): Defense Lead, Threat Ideation
 
-lead the Defense team within Meta's Security Policy organization. We drive cross-functional
+I lead the Defense team within Meta's Security Policy organization. We drive cross-functional
 work to anticipate and prevent malicious activity by resourced and determined adversaries,
 including state-backed influence operations, spyware vendors, and international criminal
 organizations. In addition to leading a team of cybersecurity and policy experts, I individually
