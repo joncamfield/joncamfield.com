@@ -15,9 +15,18 @@ excerpt: "I am a technologist dedicated to advancing sustainable social change a
 ---
 # Experience
 
-## Meta (2022 - Present; Washington, DC): Product Policy / Threat Ideation
+## Meta (2022 - Present; Washington, DC): Defense Lead, Threat Ideation
 
-I work across Meta policy and product teams to anticipate and prevent malicious activity on Meta platforms by resourced and determined adversaries, including state-backed influence operations, surveillance-for-hire spyware vendors, and international criminal organizations. I coordinate internal cross-functional networks around adversarial design techniques, tabletop exercises, and red/blue teaming approaches to strengthen our product and policy defenses.
+lead the Defense team within Meta's Security Policy organization. We drive cross-functional
+work to anticipate and prevent malicious activity by resourced and determined adversaries,
+including state-backed influence operations, spyware vendors, and international criminal
+organizations. In addition to leading a team of cybersecurity and policy experts, I individually
+lead on additional areas:
+
+* **Civic events, elections, and outreach** – I lead threat modeling efforts for high-risk events, identifying novel adversarial approaches and coordinating with civil society on threat information sharing.
+* **Threat Ideation** – I use adversarial design techniques, tabletop exercises, and red/blue teaming to build policy and product resilience across Meta, including for the fediverse,
+the metaverse, AR, GenAI, account security, and more.
+* **National Security and Cybersecurity Policy** – I support external public policy, regulatory, and partnership engagements to guide product design to protect and advance end to end encryption.
 
 ## Internews (2012 – 2022; Washington, DC)
 
