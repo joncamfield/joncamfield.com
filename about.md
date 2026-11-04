@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/maryna-bohucharska-a9hsdy18oLQ-unsplash-glitched.png
   actions:
   caption: "Photo of seedlings (CC0 [Maryna Bohucharska](https://unsplash.com/@bohucharska) / Unsplash) filtered with [Glimpse](https://glimpse-editor.org/)"
-excerpt: "Thinking about tomorrow's threats against human rights and the open Internet. Frustrated Optimist, open source nerd, gardener, salsa dancer, cook, husband, dad, embarrassed Texan. Opinions here are my own. he/him/them"
+excerpt: "Thinking about tomorrow's threats against human rights and the open Internet. Frustrated Optimist, open source nerd, gardener, salsa dancer, cook, husband, dad, Texan. Opinions here are my own. he/him/them"
 
 ---
 
