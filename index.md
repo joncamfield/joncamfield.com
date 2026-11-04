@@ -21,7 +21,7 @@ header:
       url: "https://www.linkedin.com/in/joncamfield/"
 
   caption: "Photo of seedlings (CC0 [Maryna Bohucharska](https://unsplash.com/@bohucharska) / Unsplash) filtered with [Glimpse](https://glimpse-editor.org/)"
-excerpt: "Thinking about tomorrow's threats against human rights and the open Internet. Frustrated Optimist, open source nerd, gardener, salsa dancer, cook, husband, dad, embarrassed Texan. Opinions here are my own. he/they"
+excerpt: "Thinking about tomorrow's threats against human rights and the open Internet. Frustrated Optimist, open source nerd, gardener, salsa dancer, cook, husband, dad, Texan. Opinions here are my own. he/they"
 intro:
   - excerpt: ''
 
